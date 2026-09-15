@@ -108,7 +108,9 @@ export function App() {
     const audio = audioRef.current;
     if (audio) {
       audio.playbackRate = rate;
-      audio.loop = repeat === "word";
+      // Keep progression in `handleEnded`. Native looping suppresses the
+      // ended event in some browsers and can strand a queue on one recording.
+      audio.loop = false;
     }
     if (hydrated) {
       void savePreferences({ selected: [...selected], repeat, rate });
@@ -234,7 +236,7 @@ export function App() {
       return;
     }
     audio.pause();
-    audio.loop = repeatRef.current === "word";
+    audio.loop = false;
     audio.playbackRate = rateRef.current;
     audio.src = audioUrl(manifest[entry.word]);
     audio.load();
@@ -256,6 +258,12 @@ export function App() {
     if (!queue.length) {
       setStatus("No generated audio exists for that selection yet");
       return;
+    }
+    // A multi-word Play action means "play this playlist". Do not let a
+    // persisted single-word setting silently collapse it to one recording.
+    if (queue.length > 1 && repeatRef.current === "word") {
+      repeatRef.current = "queue";
+      setRepeat("queue");
     }
     queueRef.current = queue;
     const start = startWord ? Math.max(0, queue.findIndex((entry) => entry.word === startWord)) : 0;
@@ -324,6 +332,14 @@ export function App() {
     else playAt(following);
   }
 
+  function changeRepeat(mode: RepeatMode) {
+    // Make the selection effective before another click can observe stale
+    // state, while retaining a single event-driven playback path.
+    repeatRef.current = mode;
+    if (audioRef.current) audioRef.current.loop = false;
+    setRepeat(mode);
+  }
+
   function handleAudioError() {
     const audio = audioRef.current;
     if (!audio?.currentSrc) return;
@@ -365,7 +381,11 @@ export function App() {
         preload="auto"
         onPlay={() => {
           setIsPlaying(true);
-          setStatus(`Playing ${queueRef.current[indexRef.current]?.word ?? "recording"}`);
+          const currentWord = queueRef.current[indexRef.current]?.word ?? "recording";
+          const position = queueRef.current.length > 1
+            ? ` (${indexRef.current + 1} of ${queueRef.current.length})`
+            : "";
+          setStatus(`Playing ${currentWord}${position}`);
           if ("mediaSession" in navigator) navigator.mediaSession.playbackState = "playing";
         }}
         onPause={() => {
@@ -410,10 +430,10 @@ export function App() {
         <div class="playback-options">
           <label>
             Repeat
-            <select value={repeat} onChange={(event) => setRepeat(event.currentTarget.value as RepeatMode)}>
-              <option value="off">Off</option>
-              <option value="queue">Playlist</option>
-              <option value="word">Current word</option>
+            <select value={repeat} onChange={(event) => changeRepeat(event.currentTarget.value as RepeatMode)}>
+              <option value="off">Play once</option>
+              <option value="queue">Loop playlist</option>
+              <option value="word">Loop current word only</option>
             </select>
           </label>
           <label>
@@ -493,7 +513,7 @@ export function App() {
       </section>
 
       <footer>
-        <span>Voice: Matilda</span>
+        <span>Voice: Athena</span>
         <span>AI-generated narration</span>
         <span>{titleCase(repeat)} repeat</span>
       </footer>

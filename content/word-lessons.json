@@ -1,0 +1,5097 @@
+[
+  {
+    "word": "didactic",
+    "memory": "DID-ACT-IC: the students DID ACT when the teacher instructed them.",
+    "example": "The novel was entertaining, but its didactic ending made the author's lesson unmistakable."
+  },
+  {
+    "word": "edify",
+    "memory": "EDIFY sounds like EDIFICE: education builds an intellectual edifice, so it builds a person up.",
+    "example": "The documentary seeks to edify viewers as well as entertain them."
+  },
+  {
+    "word": "elucidate",
+    "memory": "ELUCIDATE contains LUCID: to elucidate is to make an idea lucid, or clear.",
+    "example": "The diagram helped elucidate a theory that had seemed impenetrable."
+  },
+  {
+    "word": "explicable",
+    "memory": "EXPLICABLE begins like EXPLAIN: if it can be explained, it is explicable.",
+    "example": "Her abrupt departure became explicable once we learned about the emergency."
+  },
+  {
+    "word": "recapitulate",
+    "memory": "RECAP-itulate begins with RECAP: recapitulate means recap the main points.",
+    "example": "Before ending the lecture, the professor recapitulated its three central arguments."
+  },
+  {
+    "word": "reiterate",
+    "memory": "RE means again and ITERATE means repeat: RE-ITERATE literally cues repeat again.",
+    "example": "The guide reiterated the warning not to leave the marked trail."
+  },
+  {
+    "word": "disseminate",
+    "memory": "DIS-SEMINATE contains the seed root seen in SEMEN: scatter seeds, or scatter information widely.",
+    "example": "The agency used local radio to disseminate the storm warning."
+  },
+  {
+    "word": "propagate",
+    "memory": "Gardeners PROPAGATE plants by multiplying them; propaganda likewise spreads ideas.",
+    "example": "Anonymous accounts helped propagate the false rumor."
+  },
+  {
+    "word": "apprise",
+    "memory": "APPRISE sounds like UP-RISE: apprise someone and raise their awareness.",
+    "example": "Please apprise the committee of any change in the schedule."
+  },
+  {
+    "word": "inform",
+    "memory": "IN-FORM: facts go IN and FORM knowledge in the mind.",
+    "example": "The physician informed the family of every available treatment."
+  },
+  {
+    "word": "elicit",
+    "memory": "ELICIT EXTRACTS: both start with E, and to elicit is to extract a response.",
+    "example": "The comedian's dry remark elicited a few nervous laughs."
+  },
+  {
+    "word": "evoke",
+    "memory": "EVOKE rhymes with INVOKE: both call something forth; evoke calls forth a memory or feeling.",
+    "example": "The scent of pine evoked vivid memories of childhood winters."
+  },
+  {
+    "word": "extrapolate",
+    "memory": "EXTRA-PLOT: extend a PLOT of data an EXTRA distance beyond the known points.",
+    "example": "Researchers cautioned against extrapolating a national trend from one small survey."
+  },
+  {
+    "word": "divulge",
+    "memory": "The secret BULGES inside di-VULGE until it bursts out and becomes known.",
+    "example": "The attorney refused to divulge the contents of the confidential agreement."
+  },
+  {
+    "word": "intimate",
+    "memory": "An INTIMATE friend may INTIMATE a secret: close enough to hint without saying it directly.",
+    "example": "The minister intimated that further reforms would soon be announced."
+  },
+  {
+    "word": "obfuscate",
+    "memory": "The FUS in ob-FUS-cate cues con-FUS-ion: to obfuscate is to make something confusing.",
+    "example": "The report used needless jargon to obfuscate a straightforward failure."
+  },
+  {
+    "word": "occlude",
+    "memory": "OCCLUDE echoes CLOSED: an occluded artery or doorway is closed off.",
+    "example": "A blood clot can occlude an artery and interrupt circulation."
+  },
+  {
+    "word": "candid",
+    "memory": "CANDID camera means unposed; candid speech is equally unfiltered and honest.",
+    "example": "She gave a candid assessment of the proposal's weaknesses."
+  },
+  {
+    "word": "ingenuous",
+    "memory": "INGENUOUS sounds like GENUINE: genuinely open, innocent, and lacking guile.",
+    "example": "His ingenuous questions revealed curiosity rather than any hidden agenda."
+  },
+  {
+    "word": "artless",
+    "memory": "ARTLESS means without ARTIFICE: natural rather than craftily constructed.",
+    "example": "Her artless enthusiasm made the formal gathering feel less stiff."
+  },
+  {
+    "word": "veracity",
+    "memory": "VERACITY and VERIFY share VER: verify a claim to test its truth, or veracity.",
+    "example": "Investigators questioned the veracity of the witness's changing account."
+  },
+  {
+    "word": "veritable",
+    "memory": "VERI means true, as in verify: VERITABLE means truly deserving the name.",
+    "example": "The abandoned archive was a veritable treasure trove for historians."
+  },
+  {
+    "word": "credible",
+    "memory": "CRED means believe, as in CREDIT and CREED: CREDIBLE means believable.",
+    "example": "The journalist found no credible evidence to support the accusation."
+  },
+  {
+    "word": "verisimilitude",
+    "memory": "VERI plus SIMILAR: VERISIMILITUDE is being similar to truth, even if not actually true.",
+    "example": "Period costumes gave the historical drama an impressive degree of verisimilitude."
+  },
+  {
+    "word": "incontrovertible",
+    "memory": "IN means not and CONTROVERT means dispute: IN-CONTROVERT-IBLE means not disputable.",
+    "example": "The timestamp provided incontrovertible proof that she was elsewhere."
+  },
+  {
+    "word": "ironclad",
+    "memory": "IRON-CLAD is literal armor: an ironclad argument is armored against every objection.",
+    "example": "The prosecutor believed the video supplied an ironclad case."
+  },
+  {
+    "word": "patent",
+    "memory": "A PATENT publicly discloses an invention; PATENT also means open and plainly apparent.",
+    "example": "It became patent that the improvised bridge could not bear the load."
+  },
+  {
+    "word": "manifest",
+    "memory": "A ship's MANIFEST explicitly lists everyone aboard; MANIFEST means plainly shown.",
+    "example": "Her concern manifested itself in a series of meticulous safety checks."
+  },
+  {
+    "word": "exculpate",
+    "memory": "EX means out and CULPA means blame: EX-CULPATE takes someone out of blame.",
+    "example": "New forensic evidence may exculpate the wrongly convicted man."
+  },
+  {
+    "word": "exonerate",
+    "memory": "EX means out and ONUS means burden: EX-ONERATE removes the burden of blame.",
+    "example": "The inquiry exonerated the engineer after finding that the component was defective."
+  },
+  {
+    "word": "substantiate",
+    "memory": "SUBSTANTIATE gives a claim SUBSTANCE: evidence turns an assertion into something solid.",
+    "example": "The applicant could not substantiate several assertions on his résumé."
+  },
+  {
+    "word": "corroborate",
+    "memory": "CORROBORATE shares the strength root behind ROBUST: corroborating evidence makes a claim stronger.",
+    "example": "Phone records corroborated her description of the evening."
+  },
+  {
+    "word": "debunk",
+    "memory": "BUNK means nonsense; DE-BUNK removes the nonsense by proving it false.",
+    "example": "The experiment debunked a popular myth about memory."
+  },
+  {
+    "word": "prevaricate",
+    "memory": "PRE-VARY-CATE: vary the truth before stating it, instead of answering directly.",
+    "example": "Asked about the missing funds, the treasurer began to prevaricate."
+  },
+  {
+    "word": "equivocate",
+    "memory": "EQUI means equal and VOC means voice: give both sides equal voice so you never choose one.",
+    "example": "The candidate equivocated when asked whether she would support the measure."
+  },
+  {
+    "word": "evasive",
+    "memory": "EVASIVE contains EVADE: an evasive answer evades the question.",
+    "example": "His evasive response intensified the committee's suspicions."
+  },
+  {
+    "word": "counterfeit",
+    "memory": "COUNT the cash at the COUNTER to catch a COUNTERFEIT: a fake passed off as real.",
+    "example": "Customs officers intercepted a shipment of counterfeit watches."
+  },
+  {
+    "word": "bogus",
+    "memory": "A BOGUS BONUS is a fake reward; the rhyme locks BOGUS to fake.",
+    "example": "The caller used a bogus charity to solicit donations."
+  },
+  {
+    "word": "sham",
+    "memory": "SHAM is one letter from SCAM; both involve something fake presented as real.",
+    "example": "The supposedly independent investigation was dismissed as a sham."
+  },
+  {
+    "word": "specious",
+    "memory": "SPECIOUS sounds like SPACIOUS: lots of impressive surface, but no solid argument underneath.",
+    "example": "The editorial relied on a specious comparison between two dissimilar events."
+  },
+  {
+    "word": "spurious",
+    "memory": "A SPURIOUS SPUR is a cowboy's fake spur; spurious means plausible-looking but false.",
+    "example": "The paper's conclusion rested on a spurious correlation."
+  },
+  {
+    "word": "fabricate",
+    "memory": "FABRICATE contains FABRIC: both cloth and lies can be manufactured from separate threads.",
+    "example": "The witness admitted that he had fabricated the entire story."
+  },
+  {
+    "word": "feign",
+    "memory": "FEIGN hides its G just as a pretender hides the truth.",
+    "example": "She feigned indifference although the criticism deeply upset her."
+  },
+  {
+    "word": "mendacity",
+    "memory": "A liar must constantly MEND his story; MENDACITY is habitual lying.",
+    "example": "The biography documents the dictator's mendacity and manipulation."
+  },
+  {
+    "word": "duplicitous",
+    "memory": "DUPLICITOUS begins like DUPLICATE: a duplicitous person presents two different faces.",
+    "example": "His duplicitous negotiations alienated both parties."
+  },
+  {
+    "word": "dissemble",
+    "memory": "DISSEMBLE resembles DISASSEMBLE: it takes the truth apart and conceals the real design.",
+    "example": "She dissembled when reporters asked about her private financial interests."
+  },
+  {
+    "word": "perfidy",
+    "memory": "PERFIDY breaks FIDELITY: both carry FID, or trust, but perfidy betrays it.",
+    "example": "The general never forgave the ally's wartime perfidy."
+  },
+  {
+    "word": "intrigue",
+    "memory": "INTRIGUE contains the sound of TRICK: a secret scheme is a concealed trick.",
+    "example": "The court became a center of espionage and political intrigue."
+  },
+  {
+    "word": "feint",
+    "memory": "FEINT sounds like FAINT: a boxer may fake a faint or fake an attack to mislead an opponent.",
+    "example": "The army's western advance was merely a feint."
+  },
+  {
+    "word": "diatribe",
+    "memory": "DIE-A-TRIBE: a bitter verbal attack could make an entire tribe wish the speech would die.",
+    "example": "The meeting ended with a diatribe against government waste."
+  },
+  {
+    "word": "tirade",
+    "memory": "A TIRADE makes its audience TIRED: it is a long, angry verbal attack.",
+    "example": "We endured a twenty-minute tirade about minor clerical errors."
+  },
+  {
+    "word": "harangue",
+    "memory": "HARANGUE sounds like HARASS with the TONGUE: lecture someone forcefully and at length.",
+    "example": "The coach harangued the players after their careless defeat."
+  },
+  {
+    "word": "contentious",
+    "memory": "CONTENTIOUS contains CONTEND: contentious issues make people contend or argue.",
+    "example": "Zoning reform remained the council's most contentious issue."
+  },
+  {
+    "word": "polemical",
+    "memory": "POLEMICAL debates push opponents to opposite POLES.",
+    "example": "The author's polemical essay provoked an acrimonious response."
+  },
+  {
+    "word": "tendentious",
+    "memory": "TENDENTIOUS arguments TEND toward one side instead of treating both fairly.",
+    "example": "The documentary was criticized for its tendentious editing."
+  },
+  {
+    "word": "antagonize",
+    "memory": "An ANTAGONIST is an opponent; to antagonize someone is to turn that person into one.",
+    "example": "His mocking tone needlessly antagonized potential allies."
+  },
+  {
+    "word": "malign",
+    "memory": "MALIGN and MALIGNANT share MAL, or bad: malign words damage a person's reputation.",
+    "example": "The article unfairly maligned a respected public servant."
+  },
+  {
+    "word": "figurative",
+    "memory": "FIGURATIVE language uses a FIGURE OF SPEECH rather than literal wording.",
+    "example": "The phrase 'a mountain of work' is figurative, not literal."
+  },
+  {
+    "word": "metaphorical",
+    "memory": "METAPHORICAL contains METAPHOR: it describes one thing through another.",
+    "example": "Her reference to a locked door was metaphorical."
+  },
+  {
+    "word": "allegorical",
+    "memory": "ALLEGORICAL contains ALLEGORY: the entire story carries a second symbolic meaning.",
+    "example": "The allegorical novel portrays political oppression through a farmyard rebellion."
+  },
+  {
+    "word": "allusive",
+    "memory": "ALLUSIVE contains ALLUSION: it refers indirectly instead of naming something outright.",
+    "example": "The poem's allusive style rewards readers familiar with Greek myth."
+  },
+  {
+    "word": "allude",
+    "memory": "ALLUDE sounds like 'a lewd' hint: hint at the subject without stating it directly.",
+    "example": "The senator alluded to misconduct but supplied no details."
+  },
+  {
+    "word": "hyperbole",
+    "memory": "HYPER means excessive: HYPERBOLE is language exaggerated beyond the truth.",
+    "example": "Calling the delay 'the end of civilization' was obvious hyperbole."
+  },
+  {
+    "word": "euphemism",
+    "memory": "EU means good and PHEM means speech: a EUPHEMISM replaces harsh speech with nicer wording.",
+    "example": "'Passed away' is a common euphemism for 'died.'"
+  },
+  {
+    "word": "coin",
+    "memory": "New words are COINED like new money: both are newly minted for circulation.",
+    "example": "The critic coined a term that soon entered everyday speech."
+  },
+  {
+    "word": "cacophonous",
+    "memory": "CACOPHONOUS combines CACO, bad, with PHONE, sound: literally bad-sounding.",
+    "example": "A cacophonous mixture of horns and alarms filled the street."
+  },
+  {
+    "word": "clamorous",
+    "memory": "CLAMOROUS contains CLAMOR: loud noise accompanied by insistent demands.",
+    "example": "A clamorous crowd gathered outside the courthouse."
+  },
+  {
+    "word": "clangor",
+    "memory": "CLANGOR begins with CLANG: it is the loud ringing sound of metal striking metal.",
+    "example": "The clangor of the shipyard began before dawn."
+  },
+  {
+    "word": "boisterous",
+    "memory": "BOYS can be BOISTEROUS: loudly energetic, rowdy, and difficult to contain.",
+    "example": "The boisterous celebration continued well past midnight."
+  },
+  {
+    "word": "vociferous",
+    "memory": "VOC means voice and FEROUS sounds fierce: VOCIFEROUS means fiercely vocal.",
+    "example": "Vociferous opponents disrupted the public hearing."
+  },
+  {
+    "word": "shrill",
+    "memory": "SHRILL begins like SHRIEK: both suggest a piercing, high-pitched sound.",
+    "example": "A shrill whistle warned swimmers to leave the water."
+  },
+  {
+    "word": "platitude",
+    "memory": "A PLATITUDE has a FLAT attitude: it is too stale to carry any force.",
+    "example": "The speech offered platitudes instead of concrete proposals."
+  },
+  {
+    "word": "bromide",
+    "memory": "BROMIDE was a sedative; a verbal bromide is equally dull and sleep-inducing.",
+    "example": "'Time heals all wounds' sounded like an empty bromide."
+  },
+  {
+    "word": "frivolous",
+    "memory": "FRIVOLOUS sounds like FRILLY: decorative and entertaining but lacking serious substance.",
+    "example": "The judge dismissed the lawsuit as frivolous."
+  },
+  {
+    "word": "levity",
+    "memory": "LEVITY shares LEV with LEVITATE: both make something light rather than heavy or grave.",
+    "example": "A moment of levity relieved the tension in the room."
+  },
+  {
+    "word": "facetious",
+    "memory": "FACETIOUS contains every vowel in order, a playful trick for a word meaning playfully joking.",
+    "example": "Her facetious suggestion was never intended as serious policy."
+  },
+  {
+    "word": "pedantic",
+    "memory": "A PEDANT is PEDANTIC: obsessed with displaying minor rules and academic details.",
+    "example": "His pedantic corrections derailed an otherwise useful discussion."
+  },
+  {
+    "word": "glib",
+    "memory": "GLIB lips GLIDE smoothly, but the polished words may lack sincerity or depth.",
+    "example": "The executive's glib apology satisfied no one."
+  },
+  {
+    "word": "aver",
+    "memory": "AVER begins like AVOW: both mean affirm something confidently as true.",
+    "example": "The witness averred that she had seen the defendant elsewhere."
+  },
+  {
+    "word": "contend",
+    "memory": "In a CONTEST, opponents CONTEND; in an argument, each contends that its claim is right.",
+    "example": "Critics contend that the policy will widen inequality."
+  },
+  {
+    "word": "assertive",
+    "memory": "ASSERTIVE contains ASSERT: confidently express your needs or position.",
+    "example": "She was assertive without becoming confrontational."
+  },
+  {
+    "word": "advocate",
+    "memory": "The VOC in ADVOCATE means voice: an advocate uses a voice on behalf of a cause.",
+    "example": "The physician advocates stricter limits on air pollution."
+  },
+  {
+    "word": "apologist",
+    "memory": "An APOLOGIST offers an intellectual APOLOGY: a defense of a belief, not merely regret.",
+    "example": "He became an energetic apologist for the disputed theory."
+  },
+  {
+    "word": "exhort",
+    "memory": "EXHORT sounds like EXERT: exhorting someone exerts verbal pressure to make them act.",
+    "example": "The coach exhorted the exhausted runners to finish strongly."
+  },
+  {
+    "word": "heed",
+    "memory": "Use your HEAD to HEED a warning: pay attention before acting.",
+    "example": "Residents who heeded the evacuation order escaped safely."
+  },
+  {
+    "word": "forbear",
+    "memory": "FORBEAR means BEAR yourself back: restrain yourself from doing something.",
+    "example": "Please forbear from interrupting until the testimony is complete."
+  },
+  {
+    "word": "brook",
+    "memory": "Remember the fixed phrase 'brook no objection': BROOK means tolerate or allow.",
+    "example": "The director would brook no interference with her decisions."
+  },
+  {
+    "word": "demur",
+    "memory": "DEMUR blends DEFER with a doubtful MURMUR: hesitate and raise an objection.",
+    "example": "He accepted the assignment without demur."
+  },
+  {
+    "word": "taciturn",
+    "memory": "TACIT means unspoken; a TACITURN person habitually leaves things unsaid.",
+    "example": "The taciturn mechanic answered every question with a nod."
+  },
+  {
+    "word": "reticent",
+    "memory": "A RETICENT person RETAINS words instead of volunteering them.",
+    "example": "She remained reticent about the reasons for her resignation."
+  },
+  {
+    "word": "laconic",
+    "memory": "LACONIA was ancient Sparta; Spartans became famous for LACONIC, extremely brief replies.",
+    "example": "His laconic email contained only the word 'Approved.'"
+  },
+  {
+    "word": "terse",
+    "memory": "TERSE is as short and clipped as CURT: few words, no padding.",
+    "example": "The manager's terse response signaled her impatience."
+  },
+  {
+    "word": "pithy",
+    "memory": "PITH is a plant's compact core; a PITHY remark packs substance into few words.",
+    "example": "The review was pithy, memorable, and surprisingly fair."
+  },
+  {
+    "word": "brevity",
+    "memory": "BREVITY and BRIEF share the BR-EV sound: both concern shortness.",
+    "example": "For the sake of brevity, the report omits minor details."
+  },
+  {
+    "word": "eloquent",
+    "memory": "ELOQUENT speech has a fluent FLOW: polished language that persuades and moves listeners.",
+    "example": "Her eloquent defense changed several skeptical minds."
+  },
+  {
+    "word": "rhetoric",
+    "memory": "A RHETOR is a persuasive speaker; RHETORIC is the craft of persuasive expression.",
+    "example": "The campaign's soaring rhetoric concealed a vague platform."
+  },
+  {
+    "word": "soliloquy",
+    "memory": "SOLI means alone and LOQU means speak: a SOLILOQUY is speech delivered alone.",
+    "example": "The actor's final soliloquy revealed the character's private fear."
+  },
+  {
+    "word": "croon",
+    "memory": "CROON a TUNE: the rhyme cues singing softly and gently.",
+    "example": "He crooned an old ballad to the sleeping child."
+  },
+  {
+    "word": "treatise",
+    "memory": "A TREATISE TREATS a subject systematically and at length.",
+    "example": "The philosopher's treatise examines the nature of justice."
+  },
+  {
+    "word": "loquacious",
+    "memory": "LOQU means speak, as in soliloquy; a LOQUACIOUS person speaks a great deal.",
+    "example": "Our loquacious host turned dinner into a four-hour conversation."
+  },
+  {
+    "word": "garrulous",
+    "memory": "GARRULOUS GARY goes on and on; the repeated G cues excessive, rambling talk.",
+    "example": "The garrulous passenger narrated his entire life during the flight."
+  },
+  {
+    "word": "verbose",
+    "memory": "VERBOSE resembles a VERBAL OVERDOSE: far more words than necessary.",
+    "example": "The verbose memo buried one useful fact beneath six pages of prose."
+  },
+  {
+    "word": "voluble",
+    "memory": "Turn up the VOLUME on VOLUBLE: words pour out fluently and continuously.",
+    "example": "Normally reserved, she became voluble when discussing astronomy."
+  },
+  {
+    "word": "prolix",
+    "memory": "PROLIX begins like PROLONGED and contains LEX, or words: prolonged wording.",
+    "example": "The prolix introduction exhausted readers before the argument began."
+  },
+  {
+    "word": "expatiate",
+    "memory": "EXPATIATE begins like EXPAND: expand at length upon a subject.",
+    "example": "He expatiated on the virtues of handwritten correspondence."
+  },
+  {
+    "word": "bombastic",
+    "memory": "A verbal BOMB blasts out grand, inflated language: BOMBASTIC speech is loudly overblown.",
+    "example": "The mayor's bombastic address promised achievements beyond anyone's power."
+  },
+  {
+    "word": "florid",
+    "memory": "FLORID shares FLOR with FLORAL: language covered in excessive verbal flowers.",
+    "example": "The novel's florid descriptions overwhelm its simple plot."
+  },
+  {
+    "word": "turgid",
+    "memory": "TURGID means swollen; turgid prose is swollen with pompous complexity.",
+    "example": "The article turns a simple observation into turgid academic prose."
+  },
+  {
+    "word": "ornate",
+    "memory": "ORNATE contains ORNAMENT: elaborately decorated in appearance or style.",
+    "example": "An ornate frame surrounded the otherwise austere portrait."
+  },
+  {
+    "word": "ascertain",
+    "memory": "ASCERTAIN contains CERTAIN: ascertain the facts to become certain of them.",
+    "example": "Investigators worked to ascertain the fire's cause."
+  },
+  {
+    "word": "decipher",
+    "memory": "A CIPHER is a code; DE-CIPHERING removes the code and reveals the meaning.",
+    "example": "She deciphered the faded inscription on the monument."
+  },
+  {
+    "word": "construe",
+    "memory": "CONSTRUE sounds like CONSTRUCT TRUE meaning: build an interpretation from the words.",
+    "example": "His silence should not be construed as consent."
+  },
+  {
+    "word": "ascribe",
+    "memory": "A-SCRIBE writes a cause beside an effect; ASCRIBE means attribute to a source.",
+    "example": "The researchers ascribed the improvement to better nutrition."
+  },
+  {
+    "word": "delineate",
+    "memory": "DELINEATE contains LINE: draw the precise lines or outline the details.",
+    "example": "The agreement clearly delineates each partner's responsibilities."
+  },
+  {
+    "word": "underscore",
+    "memory": "To UNDERSCORE text is to underline it; figuratively, underscore means emphasize.",
+    "example": "The outage underscores the need for a backup system."
+  },
+  {
+    "word": "distort",
+    "memory": "DISTORT contains TORT, or twist: distortion twists shape or truth.",
+    "example": "The wide-angle lens distorted the room's proportions."
+  },
+  {
+    "word": "misnomer",
+    "memory": "MIS means wrong and NOM means name: a MISNOMER is a wrong name.",
+    "example": "Calling the enormous dog Tiny was an obvious misnomer."
+  },
+  {
+    "word": "fallacious",
+    "memory": "FALLACIOUS contains FALLACY: reasoning built on a logical error.",
+    "example": "The argument is fallacious because correlation does not prove causation."
+  },
+  {
+    "word": "repudiate",
+    "memory": "REPUDIATE sounds like 'REJECT the deal': refuse to accept, support, or remain associated with it.",
+    "example": "The organization repudiated the violent statements made in its name."
+  },
+  {
+    "word": "gainsay",
+    "memory": "GAIN-SAY is SAY AGAINST: gainsay a claim by denying or contradicting it.",
+    "example": "No credible evidence could gainsay the laboratory results."
+  },
+  {
+    "word": "refute",
+    "memory": "REFUTE the FALSE: both F sounds cue proving a claim false.",
+    "example": "The newly discovered letter refutes the longstanding allegation."
+  },
+  {
+    "word": "impugn",
+    "memory": "PUGN means fight, as in pugnacious: IMPUGN a claim by attacking its truth or integrity.",
+    "example": "The prosecutor tried to impugn the expert's motives."
+  },
+  {
+    "word": "belie",
+    "memory": "BE-LIE: an outward appearance tells a lie about the reality beneath it.",
+    "example": "Her calm expression belied the anxiety she felt."
+  },
+  {
+    "word": "betray",
+    "memory": "An involuntary sign can BETRAY you by giving away what you meant to hide.",
+    "example": "A slight tremor in his voice betrayed his fear."
+  },
+  {
+    "word": "dubious",
+    "memory": "DUBIOUS begins like DOUBT: something dubious is doubtful or untrustworthy.",
+    "example": "The advertisement made several dubious medical claims."
+  },
+  {
+    "word": "suspect",
+    "memory": "If you SUSPECT a claim, you regard it as SUSPECT and probably unreliable.",
+    "example": "The report relies on suspect statistics from an undisclosed source."
+  },
+  {
+    "word": "disingenuous",
+    "memory": "DIS means not: DISINGENUOUS is not ingenuous, but only pretending to be sincere.",
+    "example": "It was disingenuous to claim that nobody had predicted the problem."
+  },
+  {
+    "word": "partial",
+    "memory": "PARTIAL means seeing only PART of the whole; that incompleteness can create bias.",
+    "example": "A judge must not be partial to either side."
+  },
+  {
+    "word": "cunning",
+    "memory": "A CUNNING CON artist uses clever tricks; CON cues crafty deception.",
+    "example": "The fox escaped through a cunning diversion."
+  },
+  {
+    "word": "wily",
+    "memory": "WILE E. Coyote is WILY: always devising crafty schemes and indirect tricks.",
+    "example": "The wily negotiator concealed her true objective until the final round."
+  },
+  {
+    "word": "devious",
+    "memory": "DEVIATE and DEVIOUS share DEVI: devious methods deviate from the straight, honest path.",
+    "example": "He used a devious accounting maneuver to conceal the loss."
+  },
+  {
+    "word": "artful",
+    "memory": "ARTFUL contains ART: skillfully crafted, often with enough artifice to deceive.",
+    "example": "Her artful questions induced him to reveal more than he intended."
+  },
+  {
+    "word": "skullduggery",
+    "memory": "SKULL plus DAGGER sounds like secret criminal business: SKULLDUGGERY is underhanded conduct.",
+    "example": "The audit exposed years of financial skullduggery."
+  },
+  {
+    "word": "chicanery",
+    "memory": "CHICANERY sounds like SHENANIGANS: both suggest dishonest tricks and maneuvering.",
+    "example": "The election was marred by intimidation and procedural chicanery."
+  },
+  {
+    "word": "sophistry",
+    "memory": "A SOPHIST sounds sophisticated while using deceptive reasoning; SOPHISTRY is that false cleverness.",
+    "example": "No amount of sophistry can turn the contradiction into a coherent policy."
+  },
+  {
+    "word": "ploy",
+    "memory": "PLOY sounds like PLAY: a calculated play or maneuver used to gain an advantage.",
+    "example": "The discount was a ploy to collect customers' contact information."
+  },
+  {
+    "word": "inveigle",
+    "memory": "INVEIGLE sounds like 'IN vaguely': charm someone in with vague promises and flattery.",
+    "example": "The recruiter inveigled students into signing costly contracts."
+  },
+  {
+    "word": "wheedle",
+    "memory": "WHEEDLE with SWEET words: coax someone through persistent flattery.",
+    "example": "The child wheedled an extra hour of television from his parents."
+  },
+  {
+    "word": "beguile",
+    "memory": "BEGUILE contains GUILE: use charm or guile to deceive and win someone over.",
+    "example": "The fraudulent adviser beguiled investors with effortless charm."
+  },
+  {
+    "word": "cajole",
+    "memory": "CAJOLE JOE with jokes and praise until he agrees: coax through flattery.",
+    "example": "She cajoled the reluctant witness into speaking."
+  },
+  {
+    "word": "swindle",
+    "memory": "A SWINDLER wins by a dishonest scheme; SWINDLE means cheat someone out of value.",
+    "example": "The fake contractor swindled several homeowners."
+  },
+  {
+    "word": "dupe",
+    "memory": "A fake DUPLICATE can DUPE a buyer; dupe means fool, or the person fooled.",
+    "example": "The forged certificate duped even experienced collectors."
+  },
+  {
+    "word": "surreptitious",
+    "memory": "SURREPTITIOUS sounds like a SERPENT'S motion: secret, quiet, and intended to escape notice.",
+    "example": "He cast a surreptitious glance at the confidential file."
+  },
+  {
+    "word": "clandestine",
+    "memory": "A secret CLAN has a hidden DESTINATION: CLAN-DESTINE operations are concealed.",
+    "example": "They held clandestine meetings in an abandoned warehouse."
+  },
+  {
+    "word": "furtive",
+    "memory": "A FUR THIEF is FURTIVE: moving secretly to avoid being seen.",
+    "example": "His furtive behavior attracted the guard's attention."
+  },
+  {
+    "word": "covert",
+    "memory": "Remove the final T and COVERT becomes COVER: covert actions remain covered and hidden.",
+    "example": "The agency conducted a covert surveillance operation."
+  },
+  {
+    "word": "cloak",
+    "memory": "A physical CLOAK covers the body; figuratively, a false story cloaks the truth.",
+    "example": "The company cloaked the payment in obscure accounting language."
+  },
+  {
+    "word": "conspire",
+    "memory": "CON means together and SPIRE once meant breathe: conspirators whisper together in secret.",
+    "example": "The executives conspired to suppress evidence of the defect."
+  },
+  {
+    "word": "collude",
+    "memory": "COLLUDE begins like COLLABORATE but ends in a secret, dishonest deal.",
+    "example": "The firms colluded to keep prices artificially high."
+  },
+  {
+    "word": "meritorious",
+    "memory": "MERITORIOUS contains MERIT: conduct with merit deserves praise or reward.",
+    "example": "The medal recognizes meritorious service under dangerous conditions."
+  },
+  {
+    "word": "estimable",
+    "memory": "Someone ESTIMABLE deserves high ESTEEM.",
+    "example": "Her estimable record earned respect across party lines."
+  },
+  {
+    "word": "laudable",
+    "memory": "LAUD means praise: a LAUDABLE action is able to be praised.",
+    "example": "Reducing unnecessary waste is a laudable objective."
+  },
+  {
+    "word": "paragon",
+    "memory": "PARAGON and PERFECT both begin with P: a paragon is a perfect model of excellence.",
+    "example": "She was regarded as a paragon of judicial integrity."
+  },
+  {
+    "word": "remarkable",
+    "memory": "If something is REMARKABLE, it is worthy of a REMARK.",
+    "example": "The patient made a remarkable recovery."
+  },
+  {
+    "word": "contempt",
+    "memory": "Someone CONTEMPTIBLE is beneath respect; CONTEMPT is the feeling that they are beneath it.",
+    "example": "She regarded the forged apology with contempt."
+  },
+  {
+    "word": "disdain",
+    "memory": "DISDAIN sounds like 'THIS AIN'T worthy': regard something as beneath respect.",
+    "example": "The veteran chef viewed instant sauces with disdain."
+  },
+  {
+    "word": "scorn",
+    "memory": "SCORN can SCORCH: contempt expressed so harshly that it burns.",
+    "example": "He spoke with scorn about colleagues he considered incompetent."
+  },
+  {
+    "word": "egregious",
+    "memory": "E-GREGIOUS sounds like 'E-GROSS': egregious conduct is conspicuously, grossly bad.",
+    "example": "The regulator imposed a fine for the company's egregious safety violations."
+  },
+  {
+    "word": "flagrant",
+    "memory": "A FLAGRANT offense raises a red FLAG because it is glaring and impossible to overlook.",
+    "example": "The official's flagrant conflict of interest prompted his resignation."
+  },
+  {
+    "word": "tout",
+    "memory": "TOUT it by SHOUTING it out: praise or promote something openly and insistently.",
+    "example": "The brochure touts the resort as an ecological paradise."
+  },
+  {
+    "word": "acclaim",
+    "memory": "ACCLAIM contains CLAIM: public praise claims that someone deserves admiration.",
+    "example": "The composer's final symphony received international acclaim."
+  },
+  {
+    "word": "extol",
+    "memory": "EXTOL sounds like 'EXTRA TALL': praise someone so highly that you raise them extra tall.",
+    "example": "The biography extols her courage while ignoring her mistakes."
+  },
+  {
+    "word": "approbation",
+    "memory": "APPROBATION begins like APPROVAL: both mean formal praise or acceptance.",
+    "example": "The proposal received the board's unanimous approbation."
+  },
+  {
+    "word": "canonize",
+    "memory": "A CANON contains officially recognized saints; CANONIZE means grant that exalted status.",
+    "example": "Later generations canonized the rebel as a national hero."
+  },
+  {
+    "word": "venerate",
+    "memory": "VENERATE begins like VENERABLE: treat someone venerable with profound respect.",
+    "example": "The community venerates the physician who founded its hospital."
+  },
+  {
+    "word": "lionize",
+    "memory": "Make someone a LION, the celebrated king of the animals: LIONIZE means treat as a celebrity.",
+    "example": "The press lionized the young athlete after a single victory."
+  },
+  {
+    "word": "deify",
+    "memory": "DEIFY contains DEI, or god: elevate a person to godlike status.",
+    "example": "Loyal followers tended to deify the movement's founder."
+  },
+  {
+    "word": "cherish",
+    "memory": "CHERISH what you consider precious: both CH sounds cue holding something dear.",
+    "example": "She cherished the letters her grandfather had written."
+  },
+  {
+    "word": "defame",
+    "memory": "DE-FAME removes good FAME by damaging someone's reputation.",
+    "example": "The fabricated article was intended to defame a political opponent."
+  },
+  {
+    "word": "denigrate",
+    "memory": "DENIGRATE begins like DENY GREATNESS: belittle someone's worth or reputation.",
+    "example": "He routinely denigrated colleagues who challenged his authority."
+  },
+  {
+    "word": "tarnish",
+    "memory": "TARNISH dulls polished metal; scandal similarly dulls a polished reputation.",
+    "example": "The bribery conviction tarnished the institution's image."
+  },
+  {
+    "word": "aspersion",
+    "memory": "ASPERSE means scatter: an ASPERSION scatters dirt over someone's reputation.",
+    "example": "She cast aspersions on his honesty without presenting evidence."
+  },
+  {
+    "word": "calumny",
+    "memory": "CALUMNY sounds like 'CALL 'EM names': a false accusation that damages a person.",
+    "example": "The pamphlet was filled with malicious calumny."
+  },
+  {
+    "word": "slander",
+    "memory": "SLANDER lands a false verbal blow on someone's reputation.",
+    "example": "The actor sued the magazine for slander."
+  },
+  {
+    "word": "stigmatize",
+    "memory": "A STIGMA was a mark; STIGMATIZE means mark someone socially with shame.",
+    "example": "Public-health campaigns should not stigmatize people seeking treatment."
+  },
+  {
+    "word": "marginalize",
+    "memory": "Push someone into the MARGIN and you MARGINALIZE them, treating them as unimportant.",
+    "example": "The policy marginalized residents who lacked official documents."
+  },
+  {
+    "word": "detract",
+    "memory": "DETRACT resembles SUBTRACT: take value or attention away from something.",
+    "example": "Minor factual errors detract from an otherwise persuasive book."
+  },
+  {
+    "word": "deprecate",
+    "memory": "DEPRECATE sounds like DE-PRAISE: express disapproval rather than praise.",
+    "example": "The committee deprecated the use of misleading statistics."
+  },
+  {
+    "word": "eclipse",
+    "memory": "An ECLIPSE makes the sun less visible; a greater achievement can eclipse a lesser one.",
+    "example": "Her later novels eclipsed the success of her debut."
+  },
+  {
+    "word": "chastise",
+    "memory": "CHASTISE is related to CHASTEN: correct someone through sharp criticism or punishment.",
+    "example": "The supervisor chastised the team for ignoring the safety protocol."
+  },
+  {
+    "word": "upbraid",
+    "memory": "UPBRAID raises BLAME up directly: scold someone sharply.",
+    "example": "She upbraided the contractor for missing another deadline."
+  },
+  {
+    "word": "berate",
+    "memory": "B-RATE someone as bad and say so harshly: BERATE means scold at length.",
+    "example": "The host berated the waiter over a trivial mistake."
+  },
+  {
+    "word": "admonish",
+    "memory": "An ADMONITION is a warning; ADMONISH means warn or rebuke firmly.",
+    "example": "The judge admonished both attorneys to remain civil."
+  },
+  {
+    "word": "reproach",
+    "memory": "RE-APPROACH someone with blame: REPROACH expresses disappointment or disapproval.",
+    "example": "His mother reproached him for breaking his promise."
+  },
+  {
+    "word": "castigate",
+    "memory": "CASTIGATE sounds like CAST A harsh verdict: criticize or punish severely.",
+    "example": "The editorial castigated officials for their indifference."
+  },
+  {
+    "word": "excoriate",
+    "memory": "EXCORIATE originally means strip the skin; verbal excoriation is criticism that skins alive.",
+    "example": "Reviewers excoriated the film's incoherent plot."
+  },
+  {
+    "word": "lambaste",
+    "memory": "LAMBASTE blends SLAM and BASTE: attack someone with a thorough verbal beating.",
+    "example": "The opposition lambasted the minister's evasive testimony."
+  },
+  {
+    "word": "denounce",
+    "memory": "ANNOUNCE condemnation publicly and you DENOUNCE the target.",
+    "example": "Civic leaders denounced the attack as an assault on democracy."
+  },
+  {
+    "word": "decry",
+    "memory": "DECRY contains CRY: cry out publicly against something.",
+    "example": "Scientists decried the cuts to basic research."
+  },
+  {
+    "word": "censure",
+    "memory": "Do not confuse CENSURE with CENSOR: censure condemns; censor suppresses.",
+    "example": "The senate voted to censure the member for misconduct."
+  },
+  {
+    "word": "indictment",
+    "memory": "An INDICTED person faces an INDICTMENT, a formal criminal accusation.",
+    "example": "The grand jury returned an indictment on three counts of fraud."
+  },
+  {
+    "word": "astringent",
+    "memory": "ASTRINGENT lotion makes skin tighten; astringent criticism feels equally sharp and constricting.",
+    "example": "Her astringent review exposed every weakness in the argument."
+  },
+  {
+    "word": "scathing",
+    "memory": "SCATHING criticism SCATHES, or injures, its target with cutting severity.",
+    "example": "The audit delivered a scathing assessment of the agency."
+  },
+  {
+    "word": "caustic",
+    "memory": "CAUSTIC chemicals burn; CAUSTIC remarks burn their human target.",
+    "example": "His caustic wit made even friends wary of him."
+  },
+  {
+    "word": "mordant",
+    "memory": "MORD means bite: MORDANT humor has a biting, often grim edge.",
+    "example": "The novelist treats catastrophe with mordant humor."
+  },
+  {
+    "word": "trenchant",
+    "memory": "A TRENCHANT blade cuts; a trenchant observation cuts directly to the central issue.",
+    "example": "Her trenchant analysis clarified the dispute."
+  },
+  {
+    "word": "acrimonious",
+    "memory": "ACRIMONIOUS begins like ACRID: an acrimonious exchange is bitter and biting.",
+    "example": "The partnership ended in an acrimonious lawsuit."
+  },
+  {
+    "word": "abrasive",
+    "memory": "ABRASIVE sandpaper scrapes surfaces; an abrasive manner scrapes people's patience.",
+    "example": "His abrasive tone undermined an otherwise sensible proposal."
+  },
+  {
+    "word": "pejorative",
+    "memory": "A PEJORATIVE PUTS DOWN: the repeated P cues a contemptuous expression.",
+    "example": "The term began as a neutral label but later became pejorative."
+  },
+  {
+    "word": "lampoon",
+    "memory": "A LAMPOON is a satirical CARTOON in words; the rhyme cues ridicule.",
+    "example": "The sketch lampooned the candidate's grandiose promises."
+  },
+  {
+    "word": "deride",
+    "memory": "DERIDE contains RIDE: deride someone by riding them with ridicule.",
+    "example": "Critics derided the device as expensive and impractical."
+  },
+  {
+    "word": "captious",
+    "memory": "A CAPTIOUS critic constantly CATCHES tiny faults.",
+    "example": "The captious reviewer complained about every comma."
+  },
+  {
+    "word": "quibble",
+    "memory": "QUIBBLE sounds small and fussy; it means argue over a minor point.",
+    "example": "Let us not quibble over a difference of two dollars."
+  },
+  {
+    "word": "affront",
+    "memory": "An AFFRONT is an insult delivered to your FRONT, openly to your face.",
+    "example": "He regarded the exclusion as a deliberate affront."
+  },
+  {
+    "word": "umbrage",
+    "memory": "Take UMBRAGE under an UMBRELLA of offended dignity: umbrage means felt offense.",
+    "example": "She took umbrage at the suggestion that she needed supervision."
+  },
+  {
+    "word": "grievance",
+    "memory": "A GRIEVANCE makes you GRIEVE because you believe you were wronged.",
+    "example": "Workers filed a formal grievance over unpaid overtime."
+  },
+  {
+    "word": "opprobrium",
+    "memory": "OPPROBRIUM begins like OPPROBRIOUS reproach: public shame and harsh condemnation.",
+    "example": "The fraud brought lasting opprobrium upon the company."
+  },
+  {
+    "word": "invidious",
+    "memory": "INVIDIOUS shares its root with ENVY: unfair distinctions provoke envy and resentment.",
+    "example": "The rule created an invidious distinction between identical cases."
+  },
+  {
+    "word": "congenial",
+    "memory": "CONGENIAL contains GENIAL: friendly, agreeable, and pleasant company.",
+    "example": "She found the small research team congenial."
+  },
+  {
+    "word": "convivial",
+    "memory": "VIV means life: a CONVIVIAL gathering feels lively, warm, and sociable.",
+    "example": "The formal dinner gradually became convivial."
+  },
+  {
+    "word": "amicable",
+    "memory": "AMIGO means friend; AMICABLE relations are friendly and peaceful.",
+    "example": "The neighbors reached an amicable settlement."
+  },
+  {
+    "word": "cordial",
+    "memory": "CORD means heart, as in cardiac: CORDIAL warmth comes from the heart.",
+    "example": "Despite their disagreement, the discussion remained cordial."
+  },
+  {
+    "word": "gregarious",
+    "memory": "GREG means flock: a GREGARIOUS person enjoys joining the social flock.",
+    "example": "Her gregarious nature made networking effortless."
+  },
+  {
+    "word": "propitiate",
+    "memory": "A PROPER peace offering can PROPITIATE an angry person and regain favor.",
+    "example": "They offered concessions to propitiate the hostile delegation."
+  },
+  {
+    "word": "placate",
+    "memory": "PLACATE and PLACID share PLAC: placate anger to make the person placid.",
+    "example": "The airline issued refunds to placate stranded passengers."
+  },
+  {
+    "word": "assuage",
+    "memory": "ASSUAGE sounds like MASSAGE: both soothe pain, tension, or anger.",
+    "example": "The new evidence did little to assuage public concern."
+  },
+  {
+    "word": "appease",
+    "memory": "APPEASE contains PEACE: satisfy someone enough to restore peace.",
+    "example": "The concession failed to appease the protesters."
+  },
+  {
+    "word": "mollify",
+    "memory": "MOLLIFY sounds like MELLOW-fy: soften anger and make someone milder.",
+    "example": "A sincere apology mollified the offended customer."
+  },
+  {
+    "word": "pacify",
+    "memory": "PAC means peace, as in pacifist: PACIFY means make peaceful or calm.",
+    "example": "The caregiver pacified the frightened child."
+  },
+  {
+    "word": "conciliatory",
+    "memory": "CONCILIATORY contains CONCILIATE: words intended to reconcile opposing sides.",
+    "example": "Her conciliatory statement lowered the political temperature."
+  },
+  {
+    "word": "reconcile",
+    "memory": "RE-CONCILE means bring together in council again: restore agreement.",
+    "example": "The mediator helped reconcile the estranged partners."
+  },
+  {
+    "word": "detente",
+    "memory": "DÉTENTE sounds like DE-TENSION: a relaxation of tension between rivals.",
+    "example": "The treaty ushered in a brief period of détente."
+  },
+  {
+    "word": "mediate",
+    "memory": "MEDI means middle: a mediator stands in the middle to help both sides agree.",
+    "example": "A neutral judge mediated the labor dispute."
+  },
+  {
+    "word": "comity",
+    "memory": "COMITY sounds like COMMUNITY: communities coexist through mutual courtesy.",
+    "example": "The neighboring nations maintained comity despite their rivalry."
+  },
+  {
+    "word": "magnanimous",
+    "memory": "MAGNA means great and ANIM means spirit: MAGNANIMOUS means great-spirited and generous.",
+    "example": "The champion was magnanimous toward her defeated opponent."
+  },
+  {
+    "word": "munificent",
+    "memory": "MUNIFICENT sounds like MONEY-MAGNIFICENT: exceptionally generous with gifts.",
+    "example": "A munificent donation funded the entire scholarship program."
+  },
+  {
+    "word": "largesse",
+    "memory": "LARGESSE begins with LARGE: large, generous gifts or spending.",
+    "example": "The museum flourished through its patron's largesse."
+  },
+  {
+    "word": "beneficent",
+    "memory": "BENEFICENT contains BENEFIT: actively doing good and providing benefits.",
+    "example": "The beneficent foundation supplied medicine to remote clinics."
+  },
+  {
+    "word": "benevolent",
+    "memory": "BENE means good and VOL means wish: BENEVOLENT means wishing others well.",
+    "example": "The story's benevolent ruler listened carefully to ordinary citizens."
+  },
+  {
+    "word": "altruistic",
+    "memory": "ALTR means other: an ALTRUISTIC act puts OTHER people before oneself.",
+    "example": "Her altruistic decision brought her no personal advantage."
+  },
+  {
+    "word": "egalitarian",
+    "memory": "EGAL sounds like EQUAL: EGALITARIAN principles favor equal status and rights.",
+    "example": "The cooperative adopted an egalitarian pay structure."
+  },
+  {
+    "word": "equitable",
+    "memory": "EQUITABLE contains EQUITY: fair rather than necessarily identical distribution.",
+    "example": "The revised formula produced a more equitable allocation of funds."
+  },
+  {
+    "word": "disinterested",
+    "memory": "DIS-INTERESTED means detached from personal interests, hence impartial—not merely bored.",
+    "example": "Both parties trusted her as a disinterested arbitrator."
+  },
+  {
+    "word": "innocuous",
+    "memory": "IN means not and NOC means harm: IN-NOC-UOUS means not harmful.",
+    "example": "The suspicious powder proved entirely innocuous."
+  },
+  {
+    "word": "benign",
+    "memory": "A BENIGN tumor is not dangerous; BENIGN generally means mild and harmless.",
+    "example": "What looked ominous had a benign explanation."
+  },
+  {
+    "word": "deportment",
+    "memory": "How you DEPORT yourself is how you carry yourself; DEPORTMENT is outward manner.",
+    "example": "Her calm deportment reassured the anxious audience."
+  },
+  {
+    "word": "poise",
+    "memory": "A scale in POISE is balanced; a poised person maintains balanced composure.",
+    "example": "He answered the hostile questions with remarkable poise."
+  },
+  {
+    "word": "august",
+    "memory": "Emperor AUGUSTUS cues AUGUST: majestic, venerable, and commanding respect.",
+    "example": "The award ceremony took place in the university's august hall."
+  },
+  {
+    "word": "propriety",
+    "memory": "PROPRIETY contains PROPER: behavior that is socially proper and correct.",
+    "example": "She questioned the propriety of accepting the expensive gift."
+  },
+  {
+    "word": "decorum",
+    "memory": "DECORUM and DECOR both concern what is fitting: decorum is fitting social behavior.",
+    "example": "The chair restored decorum after the heated interruption."
+  },
+  {
+    "word": "chivalrous",
+    "memory": "CHIVALROUS comes from the knightly CHEVALIER: honorable, courteous conduct.",
+    "example": "His chivalrous gesture protected his opponent from humiliation."
+  },
+  {
+    "word": "discreet",
+    "memory": "DISCREET has two E's keeping a secret between them; it means tactfully cautious.",
+    "example": "She made discreet inquiries about the vacant position."
+  },
+  {
+    "word": "tact",
+    "memory": "TACT makes social CONTACT without collision: skill in handling delicate situations.",
+    "example": "He declined the invitation with admirable tact."
+  },
+  {
+    "word": "unseemly",
+    "memory": "UNSEEMLY behavior does not SEEM fitting or proper.",
+    "example": "Their unseemly celebration offended the grieving family."
+  },
+  {
+    "word": "bawdy",
+    "memory": "BAWDY sounds like BODY: bawdy humor makes crude jokes about bodies and sex.",
+    "example": "The tavern audience roared at the bawdy song."
+  },
+  {
+    "word": "haughty",
+    "memory": "HAUGHTY sounds like HAUTE, or high: acting high above everyone else.",
+    "example": "Her haughty dismissal alienated the entire staff."
+  },
+  {
+    "word": "elitist",
+    "memory": "An ELITIST believes an ELITE group is inherently superior.",
+    "example": "Critics called the admissions policy elitist."
+  },
+  {
+    "word": "pomposity",
+    "memory": "POMPOSITY contains POMP: inflated self-importance and ceremonial grandeur.",
+    "example": "The comedian punctured the official's pomposity."
+  },
+  {
+    "word": "pretentious",
+    "memory": "PRETENTIOUS begins like PRETEND: trying to appear more impressive than reality.",
+    "example": "The restaurant's pretentious menu renamed ordinary toast."
+  },
+  {
+    "word": "presumptuous",
+    "memory": "PRESUMPTUOUS contains PRESUME: presume you have privileges that were never granted.",
+    "example": "It was presumptuous of him to speak for the entire group."
+  },
+  {
+    "word": "entitled",
+    "memory": "A TITLE can confer rights; an ENTITLED person assumes rights without earning them.",
+    "example": "His entitled behavior exhausted the hotel staff."
+  },
+  {
+    "word": "magisterial",
+    "memory": "A MAGISTRATE has authority; MAGISTERIAL bearing sounds authoritative and commanding.",
+    "example": "She delivered the ruling in a magisterial tone."
+  },
+  {
+    "word": "imperious",
+    "memory": "IMPERIOUS shares IMPER with IMPERIAL: commanding others like an arrogant emperor.",
+    "example": "His imperious demands provoked quiet resistance."
+  },
+  {
+    "word": "despotic",
+    "memory": "A DESPOT is an absolute oppressive ruler; DESPOTIC describes such rule.",
+    "example": "The despotic governor silenced every critic."
+  },
+  {
+    "word": "officious",
+    "memory": "OFFICIOUS sounds OFFICIAL but has no office: intruding with unwanted advice or authority.",
+    "example": "An officious neighbor tried to supervise the repairs."
+  },
+  {
+    "word": "coddle",
+    "memory": "A CODDLED egg is gently protected; CODDLE a person by overprotecting them.",
+    "example": "The coach refused to coddle talented but undisciplined players."
+  },
+  {
+    "word": "patronize",
+    "memory": "A PATRON acts like a superior benefactor; PATRONIZE means treat someone condescendingly.",
+    "example": "She resented colleagues who patronized junior employees."
+  },
+  {
+    "word": "bravado",
+    "memory": "BRAVADO begins with BRAVE but may only be a display of bravery.",
+    "example": "His bravado vanished when the real danger appeared."
+  },
+  {
+    "word": "brazen",
+    "memory": "BRAZEN once meant made of brass; a brass-faced person is boldly shameless.",
+    "example": "The thief made a brazen escape in broad daylight."
+  },
+  {
+    "word": "impertinent",
+    "memory": "IMPERTINENT remarks are not PERTINENT and are disrespectfully intrusive.",
+    "example": "The reporter asked an impertinent question about her marriage."
+  },
+  {
+    "word": "insolent",
+    "memory": "INSOLENT begins like INSULT: boldly disrespectful behavior.",
+    "example": "The clerk's insolent reply shocked the customer."
+  },
+  {
+    "word": "impudent",
+    "memory": "An IMP is mischievously bold; IMPUDENT means shamelessly cheeky.",
+    "example": "The impudent child mocked the headmaster."
+  },
+  {
+    "word": "effrontery",
+    "memory": "EFFRONTERY contains FRONT: shameless boldness displayed right in front of you.",
+    "example": "He had the effrontery to demand praise for work he had stolen."
+  },
+  {
+    "word": "cavalier",
+    "memory": "A CAVALIER rides past concern on horseback; cavalier means dismissively careless.",
+    "example": "The company took a cavalier approach to customer privacy."
+  },
+  {
+    "word": "complacent",
+    "memory": "COMPLACENT resembles PLEASED: too pleased with the present to notice danger.",
+    "example": "Early success made the team complacent."
+  },
+  {
+    "word": "oblivious",
+    "memory": "OBLIVIOUS shares OBLIV with OBLIVION: unaware as if the surroundings had vanished.",
+    "example": "He walked on, oblivious to the alarm."
+  },
+  {
+    "word": "callous",
+    "memory": "A CALLUS is hardened skin; a CALLOUS person has hardened feelings.",
+    "example": "Her callous remark intensified their grief."
+  },
+  {
+    "word": "misanthropic",
+    "memory": "MIS means hate and ANTHROP means human: MISANTHROPIC means disliking humankind.",
+    "example": "The novel's misanthropic narrator distrusts everyone."
+  },
+  {
+    "word": "curmudgeon",
+    "memory": "CURMUDGEON sounds like CURSING MUDGEON: a habitually cranky, difficult person.",
+    "example": "The neighborhood curmudgeon complained about every celebration."
+  },
+  {
+    "word": "recluse",
+    "memory": "A RECLUSE RE-CLOSES the door and lives apart from others.",
+    "example": "The famous author became a recluse in later life."
+  },
+  {
+    "word": "aloof",
+    "memory": "A-LOOF sounds like 'on a roof': distant above the social crowd.",
+    "example": "His aloof manner was mistaken for arrogance."
+  },
+  {
+    "word": "estranged",
+    "memory": "ESTRANGED people have become STRANGERS to each other.",
+    "example": "She reconciled with her estranged brother."
+  },
+  {
+    "word": "alienate",
+    "memory": "Treat someone like an ALIEN outsider and you ALIENATE them.",
+    "example": "The abrupt changes alienated longtime supporters."
+  },
+  {
+    "word": "chauvinistic",
+    "memory": "CHAUVIN was famed for extreme patriotism; CHAUVINISTIC means blindly convinced of group superiority.",
+    "example": "The article challenged chauvinistic assumptions about leadership."
+  },
+  {
+    "word": "xenophobic",
+    "memory": "XENO means stranger and PHOBIC means fearful: hostile toward foreigners or outsiders.",
+    "example": "The candidate was condemned for xenophobic rhetoric."
+  },
+  {
+    "word": "deference",
+    "memory": "DEFERENCE contains DEFER: respectfully yield to another person's judgment or status.",
+    "example": "Out of deference to the elders, everyone waited to speak."
+  },
+  {
+    "word": "obeisance",
+    "memory": "OBEISANCE begins like OBEY: a bow or gesture of submissive respect.",
+    "example": "Courtiers made obeisance before the monarch."
+  },
+  {
+    "word": "subservient",
+    "memory": "SUB means under and SERV means serve: SUBSERVIENT means serving beneath another excessively.",
+    "example": "The adviser became subservient to the ruler's every whim."
+  },
+  {
+    "word": "obsequious",
+    "memory": "An OBSEQUIOUS assistant stays in SEQUENCE behind the boss, flattering every step.",
+    "example": "The celebrity was surrounded by obsequious admirers."
+  },
+  {
+    "word": "fawn",
+    "memory": "A timid FAWN crouches submissively; to FAWN is flatter and grovel for favor.",
+    "example": "Employees fawned over the volatile executive."
+  },
+  {
+    "word": "grovel",
+    "memory": "GROVEL on the GRAVEL: lie low and abase yourself before someone.",
+    "example": "He refused to grovel merely to regain the appointment."
+  },
+  {
+    "word": "entreat",
+    "memory": "ENTREAT contains TREAT: ask earnestly to be treated with mercy.",
+    "example": "They entreated the governor to commute the sentence."
+  },
+  {
+    "word": "supplicate",
+    "memory": "A SUPPLICANT makes the knees SUPPLE by kneeling to plead humbly.",
+    "example": "The villagers supplicated the ruler for relief."
+  },
+  {
+    "word": "subordinate",
+    "memory": "SUB means under and ORDIN means order: a SUBORDINATE holds a lower place in the order.",
+    "example": "Every subordinate officer reported to the commander."
+  },
+  {
+    "word": "disciple",
+    "memory": "DISCIPLE and DISCIPLINE share a root: a disciple learns under a teacher's discipline.",
+    "example": "She became a devoted disciple of the pioneering architect."
+  },
+  {
+    "word": "acolyte",
+    "memory": "ACOLYTE sounds like 'a colleague' who follows and assists a leader devotedly.",
+    "example": "The director arrived with a circle of young acolytes."
+  },
+  {
+    "word": "echelon",
+    "memory": "ECHELON originally describes a ladder-like formation: each rung is a rank or level.",
+    "example": "The decision came from the highest echelon of management."
+  },
+  {
+    "word": "ebullient",
+    "memory": "EBULLIENT comes from a word meaning boil: cheerful energy bubbles over.",
+    "example": "Her ebullient greeting enlivened the weary group."
+  },
+  {
+    "word": "vivacious",
+    "memory": "VIV means life, as in vivid: VIVACIOUS means full of lively energy.",
+    "example": "The vivacious host kept the conversation animated."
+  },
+  {
+    "word": "buoyant",
+    "memory": "A BUOY floats upward; a BUOYANT mood rises cheerfully too.",
+    "example": "Investors remained buoyant despite the temporary decline."
+  },
+  {
+    "word": "jocund",
+    "memory": "JOCUND begins like JOKE: cheerful, merry, and full of joy.",
+    "example": "A jocund crowd filled the village square."
+  },
+  {
+    "word": "blithe",
+    "memory": "BLITHE sounds LIGHT: cheerful, lively, and sometimes carefree.",
+    "example": "She gave a blithe assurance that everything would work out."
+  },
+  {
+    "word": "euphoric",
+    "memory": "EU means good and PHOR means feeling: EUPHORIC means intensely good-feeling.",
+    "example": "The team was euphoric after its unexpected victory."
+  },
+  {
+    "word": "elated",
+    "memory": "ELATED sounds like ELEVATED: joy lifts the mood high.",
+    "example": "She was elated to receive the fellowship."
+  },
+  {
+    "word": "sanguine",
+    "memory": "SANGUINE once linked a ruddy, blood-rich complexion with cheerful confidence.",
+    "example": "He remained sanguine about the company's prospects."
+  },
+  {
+    "word": "crestfallen",
+    "memory": "When hope collapses, the proud CREST FALLS: dejected and disappointed.",
+    "example": "The crestfallen candidate quietly left the stage."
+  },
+  {
+    "word": "morose",
+    "memory": "MOROSE rhymes loosely with SULLEN ROSE: gloomy rather than blooming.",
+    "example": "He became morose after the project was canceled."
+  },
+  {
+    "word": "glum",
+    "memory": "GLUM is GLOOM compressed into one gloomy syllable.",
+    "example": "The children looked glum when rain canceled the picnic."
+  },
+  {
+    "word": "woeful",
+    "memory": "WOEFUL is full of WOE: deeply sad or miserably inadequate.",
+    "example": "The shelter was in woeful condition."
+  },
+  {
+    "word": "lugubrious",
+    "memory": "LUG-A-BURIAL sounds heavy and mournful: LUGUBRIOUS means exaggeratedly sorrowful.",
+    "example": "The singer adopted a lugubrious tone for the comic lament."
+  },
+  {
+    "word": "plaintive",
+    "memory": "PLAINTIVE contains PLAINT, a sorrowful complaint: sounding mournfully sad.",
+    "example": "A plaintive cry emerged from the abandoned building."
+  },
+  {
+    "word": "abject",
+    "memory": "ABJECT resembles OBJECT thrown down: utterly low, degraded, or hopeless.",
+    "example": "The expedition ended in abject failure."
+  },
+  {
+    "word": "lament",
+    "memory": "A LAMENT is a grief-filled complaint; L sounds link loss and lament.",
+    "example": "The poem laments the destruction of the old forest."
+  },
+  {
+    "word": "bereft",
+    "memory": "BEREFT contains REFT, meaning robbed: deprived and left grieving.",
+    "example": "He felt bereft after his closest friend moved away."
+  },
+  {
+    "word": "dirge",
+    "memory": "DIRGE begins like DIE: a slow song of mourning for the dead.",
+    "example": "A solemn dirge accompanied the funeral procession."
+  },
+  {
+    "word": "gloat",
+    "memory": "GLOAT combines GLOW and BOAST: smug pleasure in your success or another's failure.",
+    "example": "She won graciously and refused to gloat."
+  },
+  {
+    "word": "exhilarating",
+    "memory": "EXHILARATING contains HILAR, as in hilarity: intensely exciting and enlivening.",
+    "example": "The steep descent was terrifying but exhilarating."
+  },
+  {
+    "word": "scintillating",
+    "memory": "SCINTILLATING contains the spark root SCINT: brilliance that throws off intellectual sparks.",
+    "example": "They enjoyed a scintillating conversation about art and politics."
+  },
+  {
+    "word": "sensational",
+    "memory": "SENSATIONAL excites the SENSES and attracts intense attention.",
+    "example": "The rookie delivered a sensational performance."
+  },
+  {
+    "word": "heady",
+    "memory": "HEADY excitement goes to your HEAD like strong wine.",
+    "example": "The revolution's first days produced a heady sense of possibility."
+  },
+  {
+    "word": "enthrall",
+    "memory": "A THRALL was a captive; to ENTHRALL is to hold attention captive.",
+    "example": "The storyteller enthralled the audience for hours."
+  },
+  {
+    "word": "enchant",
+    "memory": "A CHANT casts a spell; ENCHANT means charm as if by magic.",
+    "example": "The garden enchanted visitors with its hidden paths."
+  },
+  {
+    "word": "gratify",
+    "memory": "GRATIFY shares GRAT with GRATEFUL: satisfy a desire and produce gratitude or pleasure.",
+    "example": "The enthusiastic response gratified the young playwright."
+  },
+  {
+    "word": "harrowing",
+    "memory": "A HARROW tears through soil; a HARROWING experience tears through the emotions.",
+    "example": "The survivors gave a harrowing account of the storm."
+  },
+  {
+    "word": "poignant",
+    "memory": "POIGNANT shares a root with POINT: an emotionally sharp moment pierces the heart.",
+    "example": "The empty nursery provided the film's most poignant scene."
+  },
+  {
+    "word": "distressed",
+    "memory": "DISTRESSED contains STRESS: suffering severe emotional strain or anxiety.",
+    "example": "The distressed passenger asked the attendant for help."
+  },
+  {
+    "word": "chagrin",
+    "memory": "With CHAGRIN, you CAN'T GRIN: disappointment mixed with embarrassment.",
+    "example": "To his chagrin, everyone remembered his confident but incorrect prediction."
+  },
+  {
+    "word": "aghast",
+    "memory": "AGHAST begins with a shocked GASP: struck with horror or amazement.",
+    "example": "Residents were aghast at the scale of the destruction."
+  },
+  {
+    "word": "macabre",
+    "memory": "MACABRE belongs in a MORGUE: grimly concerned with death and horror.",
+    "example": "The museum displayed a macabre collection of funeral artifacts."
+  },
+  {
+    "word": "ominous",
+    "memory": "OMINOUS contains OMEN: suggesting that something bad is about to happen.",
+    "example": "An ominous silence followed the warning siren."
+  },
+  {
+    "word": "cathartic",
+    "memory": "CATHARTIC shares CATHAR with CATHARSIS: emotional cleansing through release.",
+    "example": "Writing about the ordeal proved cathartic."
+  },
+  {
+    "word": "loathe",
+    "memory": "LOATHE produces LOATHING: intense hatred or disgust.",
+    "example": "She loathed the cruelty disguised as entertainment."
+  },
+  {
+    "word": "abhor",
+    "memory": "ABHOR contains the sound of HORROR: hate something with horror and disgust.",
+    "example": "He abhors every form of corruption."
+  },
+  {
+    "word": "repugnant",
+    "memory": "REPUGNANT begins like REPEL: something repugnant pushes you away in disgust.",
+    "example": "They found the discriminatory policy morally repugnant."
+  },
+  {
+    "word": "odious",
+    "memory": "ODIOUS sounds like ODOROUS: a hateful act can stink morally.",
+    "example": "The regime imposed an odious system of surveillance."
+  },
+  {
+    "word": "antipathy",
+    "memory": "ANTI means against and PATHY means feeling: ANTIPATHY is a strong feeling against.",
+    "example": "His antipathy toward bureaucracy shaped every decision."
+  },
+  {
+    "word": "aversion",
+    "memory": "AVERSION and AVERT share AVER: aversion makes you turn away.",
+    "example": "She has a profound aversion to needless risk."
+  },
+  {
+    "word": "animosity",
+    "memory": "ANIMOSITY contains ANIMUS: active hostility rather than mere dislike.",
+    "example": "Years of rivalry produced deep animosity."
+  },
+  {
+    "word": "animus",
+    "memory": "ANIMUS is the hostile spirit ANIMATING opposition.",
+    "example": "The decision appeared motivated by personal animus."
+  },
+  {
+    "word": "enmity",
+    "memory": "ENMITY begins like ENEMY: the state of being enemies.",
+    "example": "The treaty ended decades of enmity."
+  },
+  {
+    "word": "inimical",
+    "memory": "INIMICAL resembles ENEMY: hostile to or harmful toward something.",
+    "example": "Secrecy is inimical to public accountability."
+  },
+  {
+    "word": "adverse",
+    "memory": "An ADVERSARY works against you; ADVERSE conditions do the same.",
+    "example": "The medication caused no adverse effects."
+  },
+  {
+    "word": "commiserate",
+    "memory": "COM means together and MISER means misery: COMMISERATE by sharing misery.",
+    "example": "The defeated candidates commiserated over coffee."
+  },
+  {
+    "word": "belligerent",
+    "memory": "BELLI means war, as in bellicose: BELLIGERENT means ready to fight.",
+    "example": "The belligerent customer threatened the staff."
+  },
+  {
+    "word": "pugnacious",
+    "memory": "PUGN means fight, as in pugilist: PUGNACIOUS means eager to quarrel.",
+    "example": "The pugnacious debater attacked every minor point."
+  },
+  {
+    "word": "truculent",
+    "memory": "A TRUCULENT TRUCKER is aggressively defiant and ready for a fight.",
+    "example": "His truculent response ended any hope of compromise."
+  },
+  {
+    "word": "obstreperous",
+    "memory": "An OBSTREPEROUS STREET PROTEST is noisy, unruly, and difficult to control.",
+    "example": "The obstreperous crowd ignored repeated warnings."
+  },
+  {
+    "word": "fractious",
+    "memory": "FRACTIOUS contains FRACTURE: quarrelsome members fracture a group.",
+    "example": "The chair struggled to control the fractious committee."
+  },
+  {
+    "word": "irascible",
+    "memory": "IRASCIBLE begins with IRE: easily moved to anger.",
+    "example": "The irascible editor erupted over a misplaced comma."
+  },
+  {
+    "word": "petulant",
+    "memory": "A PETULANT PET throws a childish fit when denied a treat.",
+    "example": "His petulant complaint embarrassed his colleagues."
+  },
+  {
+    "word": "indignant",
+    "memory": "INDIGNANT contains DIGNITY: anger when dignity or justice is violated.",
+    "example": "She was indignant at the baseless accusation."
+  },
+  {
+    "word": "ire",
+    "memory": "Add F to IRE and get FIRE: IRE is fiery anger.",
+    "example": "The sudden fee increase drew public ire."
+  },
+  {
+    "word": "nettlesome",
+    "memory": "A NETTLE stings and irritates; a NETTLESOME problem does too.",
+    "example": "The committee postponed the nettlesome funding question."
+  },
+  {
+    "word": "irksome",
+    "memory": "IRKSOME contains IRK: annoying enough to irritate.",
+    "example": "The machine emits an irksome high-pitched hum."
+  },
+  {
+    "word": "vexation",
+    "memory": "VEX means annoy; VEXATION is the resulting state of irritation.",
+    "example": "To her vexation, the error kept returning."
+  },
+  {
+    "word": "exasperated",
+    "memory": "EXASPERATED contains GASP in sound: so frustrated you gasp in disbelief.",
+    "example": "The repeated delays left commuters exasperated."
+  },
+  {
+    "word": "histrionic",
+    "memory": "HISTRION once meant actor: HISTRIONIC behavior is theatrically overdramatic.",
+    "example": "His histrionic outrage convinced nobody."
+  },
+  {
+    "word": "hysterical",
+    "memory": "HYSTERICAL contains HYSTERIA: wildly uncontrolled emotion.",
+    "example": "The rumor triggered hysterical panic."
+  },
+  {
+    "word": "perseverance",
+    "memory": "PERSEVERANCE contains PERSEVERE: continue despite difficulty.",
+    "example": "Her perseverance transformed repeated failure into mastery."
+  },
+  {
+    "word": "fortitude",
+    "memory": "A FORT withstands attack; FORTITUDE is inner strength that withstands hardship.",
+    "example": "He endured the long recovery with fortitude."
+  },
+  {
+    "word": "valor",
+    "memory": "VALOR and VALIANT share VAL: courage in the face of danger.",
+    "example": "The medal honored extraordinary valor."
+  },
+  {
+    "word": "redoubtable",
+    "memory": "A REDOUBTABLE opponent makes you DOUBT you can defeat them.",
+    "example": "She proved a redoubtable courtroom adversary."
+  },
+  {
+    "word": "mettlesome",
+    "memory": "METTLE means courage; METTLESOME means spirited and boldly resilient.",
+    "example": "The mettlesome mare refused to retreat."
+  },
+  {
+    "word": "audacious",
+    "memory": "AUDACIOUS begins like DARE in its root: boldly willing to take risks.",
+    "example": "The audacious rescue succeeded against every expectation."
+  },
+  {
+    "word": "intrepid",
+    "memory": "IN means not and TREPID means fearful: INTREPID means fearless.",
+    "example": "Intrepid reporters entered the disaster zone."
+  },
+  {
+    "word": "plucky",
+    "memory": "PLUCK means spirited courage; a PLUCKY person has plenty of it.",
+    "example": "The plucky underdog fought through the final round."
+  },
+  {
+    "word": "steadfast",
+    "memory": "STEADY plus FAST: hold steady and fast to a commitment.",
+    "example": "She remained steadfast in her opposition."
+  },
+  {
+    "word": "stalwart",
+    "memory": "A STALWART stands like a WALL: strong, loyal, and dependable.",
+    "example": "He was a stalwart defender of civil liberties."
+  },
+  {
+    "word": "resolute",
+    "memory": "RESOLUTE contains RESOLVE: firmly determined and unwavering.",
+    "example": "The mayor remained resolute despite the threats."
+  },
+  {
+    "word": "conviction",
+    "memory": "A firm CONVICTION fully CONVINCES the person who holds it.",
+    "example": "She spoke with conviction about the need for reform."
+  },
+  {
+    "word": "timorous",
+    "memory": "TIMOROUS begins like TIMID: fearful and lacking confidence.",
+    "example": "The timorous witness barely raised his voice."
+  },
+  {
+    "word": "diffident",
+    "memory": "DIFFIDENT sounds like DEFICIENT in confidence.",
+    "example": "Her diffident manner concealed considerable expertise."
+  },
+  {
+    "word": "craven",
+    "memory": "A CRAVEN coward hides in a CAVE rather than face danger.",
+    "example": "The editorial condemned the attack as craven."
+  },
+  {
+    "word": "skittish",
+    "memory": "A SKITTISH animal SKITTERS away at the slightest alarm.",
+    "example": "Investors became skittish after the warning."
+  },
+  {
+    "word": "apprehension",
+    "memory": "APPREHENSION can mean fearful anticipation before something is fully apprehended.",
+    "example": "She approached the interview with apprehension."
+  },
+  {
+    "word": "qualm",
+    "memory": "A QUALM feels QUEASY: a sudden doubt or uneasy fear.",
+    "example": "He had no qualms about reporting the fraud."
+  },
+  {
+    "word": "fret",
+    "memory": "FRETTING FRAYS the nerves: worry persistently.",
+    "example": "Do not fret over a mistake you can still correct."
+  },
+  {
+    "word": "imperturbable",
+    "memory": "IM means not and PERTURB means disturb: impossible to rattle.",
+    "example": "The pilot remained imperturbable during the emergency."
+  },
+  {
+    "word": "nonchalant",
+    "memory": "NONCHALANT sounds like 'NO CHALLENGE': casually unconcerned.",
+    "example": "He gave a nonchalant shrug despite the enormous risk."
+  },
+  {
+    "word": "phlegmatic",
+    "memory": "PHLEGM was the old bodily humor associated with a cool, sluggish temperament.",
+    "example": "Her phlegmatic response calmed the frantic team."
+  },
+  {
+    "word": "stoic",
+    "memory": "The STOICS taught endurance without emotional display; STOIC retains that meaning.",
+    "example": "He remained stoic throughout the painful procedure."
+  },
+  {
+    "word": "equanimity",
+    "memory": "EQU means equal and ANIM means mind: EQUANIMITY is an evenly balanced mind.",
+    "example": "She received both praise and criticism with equanimity."
+  },
+  {
+    "word": "quiescent",
+    "memory": "QUIESCENT begins like QUIET: inactive, still, and calm.",
+    "example": "The volcano has remained quiescent for decades."
+  },
+  {
+    "word": "tranquil",
+    "memory": "TRANQUIL contains the calm sound of STILL: peaceful and undisturbed.",
+    "example": "At dawn the lake was perfectly tranquil."
+  },
+  {
+    "word": "placid",
+    "memory": "PLACID shares PLAC with PLACATE: calm, peaceful, and untroubled.",
+    "example": "The placid surface concealed a strong current."
+  },
+  {
+    "word": "serene",
+    "memory": "SERENE sounds like a calm SCENE: peaceful and clear.",
+    "example": "Her serene expression reassured the child."
+  },
+  {
+    "word": "befuddled",
+    "memory": "A BEFUDDLED brain feels stuck in a PUDDLE of confusion.",
+    "example": "The contradictory instructions left everyone befuddled."
+  },
+  {
+    "word": "flummoxed",
+    "memory": "A FLUMMOXED FOX cannot find its way out: completely confused.",
+    "example": "The unexpected question flummoxed the expert."
+  },
+  {
+    "word": "confound",
+    "memory": "CONFOUND combines confusion with being unable to FIND the answer.",
+    "example": "The puzzle confounded several experienced mathematicians."
+  },
+  {
+    "word": "nonplussed",
+    "memory": "NON-PLUSSED means no PLUS, no next move: so perplexed you cannot proceed.",
+    "example": "She looked nonplussed by the bizarre request."
+  },
+  {
+    "word": "discomfit",
+    "memory": "DISCOMFIT resembles DISCOMFORT: unsettle or embarrass someone.",
+    "example": "The personal question visibly discomfited him."
+  },
+  {
+    "word": "flustered",
+    "memory": "FLUSTERED thoughts FLUTTER chaotically: agitated and confused.",
+    "example": "The interruption left the speaker flustered."
+  },
+  {
+    "word": "circumspect",
+    "memory": "CIRCUM means around and SPECT means look: look all around before acting.",
+    "example": "Investors remained circumspect about the untested technology."
+  },
+  {
+    "word": "vigilant",
+    "memory": "Keep a VIGIL and remain VIGILANT: watch carefully for danger.",
+    "example": "Guards must remain vigilant throughout the night."
+  },
+  {
+    "word": "chary",
+    "memory": "CHARY rhymes with WARY and shares its cautious meaning.",
+    "example": "She was chary of promises that sounded effortless."
+  },
+  {
+    "word": "wary",
+    "memory": "WARY begins like AWARE: alert and cautious about danger.",
+    "example": "Consumers are wary of unsolicited investment advice."
+  },
+  {
+    "word": "alacrity",
+    "memory": "ALACRITY sounds like 'a lack of delay': cheerful readiness to act.",
+    "example": "She accepted the difficult assignment with alacrity."
+  },
+  {
+    "word": "vitality",
+    "memory": "VITAL means alive; VITALITY is abundant life and energy.",
+    "example": "The neighborhood regained its former vitality."
+  },
+  {
+    "word": "verve",
+    "memory": "VERVE starts like VIGOR: spirited energy and enthusiasm.",
+    "example": "The orchestra performed the finale with verve."
+  },
+  {
+    "word": "resilient",
+    "memory": "A RESILIENT spring RECOILS to shape after pressure.",
+    "example": "The resilient community rebuilt after the flood."
+  },
+  {
+    "word": "robust",
+    "memory": "ROBUST contains the old strength root ROBUR: strong and able to withstand stress.",
+    "example": "The researchers designed a robust testing procedure."
+  },
+  {
+    "word": "withstand",
+    "memory": "WITH-STAND: stand against pressure without yielding.",
+    "example": "The bridge can withstand severe earthquakes."
+  },
+  {
+    "word": "soporific",
+    "memory": "SOPOR means sleep: SOPORIFIC means sleep-producing.",
+    "example": "The lecturer's monotone had a soporific effect."
+  },
+  {
+    "word": "somnolent",
+    "memory": "SOMN means sleep, as in insomnia: SOMNOLENT means drowsy.",
+    "example": "A somnolent audience struggled through the afternoon session."
+  },
+  {
+    "word": "lethargic",
+    "memory": "LETHARGY drains energy; LETHARGIC means sluggishly tired.",
+    "example": "The heat left everyone lethargic."
+  },
+  {
+    "word": "sluggish",
+    "memory": "A SLUG moves slowly; SLUGGISH means slow and low-energy.",
+    "example": "Demand remained sluggish throughout the winter."
+  },
+  {
+    "word": "languid",
+    "memory": "LANGUID resembles LAX: lacking vigor and moving slowly.",
+    "example": "A languid breeze barely stirred the curtains."
+  },
+  {
+    "word": "weary",
+    "memory": "Work can WEAR you down until you are WEARY.",
+    "example": "The weary travelers stopped before sunset."
+  },
+  {
+    "word": "lassitude",
+    "memory": "A weary LASS who only SITS has LASSITUDE: exhausted listlessness.",
+    "example": "A profound lassitude followed the illness."
+  },
+  {
+    "word": "torpor",
+    "memory": "TORPOR and TORPID share TORP: extreme inactivity and sluggishness.",
+    "example": "The cold drove the reptiles into torpor."
+  },
+  {
+    "word": "indolent",
+    "memory": "INDOLENT sounds like 'IN, DO LITTLE': habitually lazy and inactive.",
+    "example": "The indolent heir avoided every responsibility."
+  },
+  {
+    "word": "stolid",
+    "memory": "STOLID sounds like STONE-LID: emotionally unmoved beneath a hard surface.",
+    "example": "His stolid expression revealed nothing."
+  },
+  {
+    "word": "languish",
+    "memory": "LANGUISH shares LANGU with LANGUID: weaken or remain neglected without energy.",
+    "example": "The proposal languished in committee for years."
+  },
+  {
+    "word": "apathy",
+    "memory": "A means without and PATHY means feeling: APATHY is absence of feeling or interest.",
+    "example": "Voter apathy produced historically low turnout."
+  },
+  {
+    "word": "ennui",
+    "memory": "ENNUI sounds like 'ON-WEE': boredom that drags wearily onward.",
+    "example": "Months of idle luxury left him consumed by ennui."
+  },
+  {
+    "word": "feeble",
+    "memory": "FEEBLE begins like FAINT: lacking physical strength or force.",
+    "example": "A feeble signal barely reached the receiver."
+  },
+  {
+    "word": "frailty",
+    "memory": "FRAIL is inside FRAILTY: the condition of being weak and vulnerable.",
+    "example": "The illness exposed his physical frailty."
+  },
+  {
+    "word": "hapless",
+    "memory": "HAP means luck and LESS means without: HAPLESS means luckless.",
+    "example": "The hapless courier lost both packages."
+  },
+  {
+    "word": "enervate",
+    "memory": "ENERVATE removes NERVE and energy: weaken or drain vitality.",
+    "example": "The oppressive heat enervated the hikers."
+  },
+  {
+    "word": "debilitating",
+    "memory": "DEBILITATING contains DEBILITY: causing serious weakness or impairment.",
+    "example": "She recovered slowly from a debilitating infection."
+  },
+  {
+    "word": "frenetic",
+    "memory": "FRENETIC begins like FRENZY: wildly fast and uncontrolled.",
+    "example": "The office became frenetic before the deadline."
+  },
+  {
+    "word": "ambivalent",
+    "memory": "AMBI means both: AMBIVALENT means pulled by feelings on both sides.",
+    "example": "She felt ambivalent about leaving her hometown."
+  },
+  {
+    "word": "irresolute",
+    "memory": "IR means not and RESOLUTE means decided: IRRESOLUTE means unable to decide firmly.",
+    "example": "The irresolute leader reversed course repeatedly."
+  },
+  {
+    "word": "tentative",
+    "memory": "A TENTATIVE plan is only a TEST plan: uncertain and not final.",
+    "example": "They reached a tentative agreement."
+  },
+  {
+    "word": "vacillate",
+    "memory": "VACILLATE sounds like OSCILLATE: swing repeatedly between choices.",
+    "example": "The council vacillated between expansion and restraint."
+  },
+  {
+    "word": "falter",
+    "memory": "FALTER sounds like ALTER midstep: hesitate, weaken, or lose steadiness.",
+    "example": "Her voice faltered during the announcement."
+  },
+  {
+    "word": "quandary",
+    "memory": "QUANDARY starts like QUESTION: a difficult question leaving you uncertain.",
+    "example": "The conflicting obligations placed him in a quandary."
+  },
+  {
+    "word": "fervent",
+    "memory": "FERV means boil: FERVENT devotion burns with intense feeling.",
+    "example": "She remained a fervent advocate for reform."
+  },
+  {
+    "word": "fervid",
+    "memory": "FERVID shares FERV with fever: intensely hot in emotion.",
+    "example": "The candidate delivered a fervid appeal."
+  },
+  {
+    "word": "fervor",
+    "memory": "FERVOR sounds like FEVER: passionate intensity that runs emotionally hot.",
+    "example": "Religious fervor swept through the crowd."
+  },
+  {
+    "word": "ardent",
+    "memory": "ARD means burn, as in arson: ARDENT means burning with passion.",
+    "example": "He was an ardent supporter of public libraries."
+  },
+  {
+    "word": "zealous",
+    "memory": "ZEALOUS contains ZEAL: intensely enthusiastic and devoted.",
+    "example": "A zealous volunteer recruited dozens of donors."
+  },
+  {
+    "word": "avid",
+    "memory": "An AVID appetite is eager and hungry for more.",
+    "example": "She is an avid reader of biographies."
+  },
+  {
+    "word": "keen",
+    "memory": "A KEEN blade is sharp; a KEEN interest is equally intense.",
+    "example": "He showed keen enthusiasm for the project."
+  },
+  {
+    "word": "relish",
+    "memory": "Food RELISH adds enjoyable flavor; to RELISH something is to enjoy it keenly.",
+    "example": "She relished the chance to challenge the champion."
+  },
+  {
+    "word": "predilection",
+    "memory": "PRE-DIRECTION: a PREDILECTION directs preference before the choice appears.",
+    "example": "He has a predilection for intricate puzzles."
+  },
+  {
+    "word": "penchant",
+    "memory": "PENCHANT sounds like 'PEN CHOICE': a writer's special preference for one pen.",
+    "example": "The architect has a penchant for dramatic staircases."
+  },
+  {
+    "word": "proclivity",
+    "memory": "PROCLIVITY contains CLIV, slope: a natural slope toward certain behavior.",
+    "example": "His proclivity for risk worried his partners."
+  },
+  {
+    "word": "propensity",
+    "memory": "PROPENSITY begins like PROPEL: an inner tendency propels behavior in one direction.",
+    "example": "The material has a propensity to crack in cold weather."
+  },
+  {
+    "word": "inclined",
+    "memory": "An INCLINE slopes one way; an INCLINED person leans toward one choice.",
+    "example": "She was inclined to accept the compromise."
+  },
+  {
+    "word": "tepid",
+    "memory": "TEPID TEA is only lukewarm; tepid support is equally unenthusiastic.",
+    "example": "The proposal received a tepid response."
+  },
+  {
+    "word": "articulate",
+    "memory": "ARTICULATE speech has clearly joined ARTICULATIONS, like well-connected joints.",
+    "example": "She gave an articulate explanation of the problem."
+  },
+  {
+    "word": "pellucid",
+    "memory": "PELLUCID contains LUCID: transparently clear in meaning or appearance.",
+    "example": "The essay offers a pellucid account of a difficult theory."
+  },
+  {
+    "word": "limpid",
+    "memory": "LIMPID sounds like 'LIMP-ID' floating visibly in crystal-clear water.",
+    "example": "Fish were visible in the limpid stream."
+  },
+  {
+    "word": "lucid",
+    "memory": "LUC means light: LUCID writing lets light into the meaning.",
+    "example": "Her lucid summary resolved the confusion."
+  },
+  {
+    "word": "conspicuous",
+    "memory": "SPIC means look: CONSPICUOUS things compel everyone to look.",
+    "example": "His bright coat made him conspicuous."
+  },
+  {
+    "word": "discernible",
+    "memory": "DISCERN is inside DISCERNIBLE: able to be detected or distinguished.",
+    "example": "A faint pattern was discernible under the paint."
+  },
+  {
+    "word": "overt",
+    "memory": "OVERT rhymes with ALERT: open enough to notice, not concealed.",
+    "example": "The campaign avoided overt threats."
+  },
+  {
+    "word": "turbid",
+    "memory": "TURBID water is TURBulently stirred and cloudy.",
+    "example": "Heavy rain turned the river turbid."
+  },
+  {
+    "word": "opaque",
+    "memory": "An OPAQUE window blocks light; opaque reasoning blocks understanding.",
+    "example": "The contract's pricing formula is deliberately opaque."
+  },
+  {
+    "word": "ponderous",
+    "memory": "PONDEROUS begins with PONDER: so heavy or dull that progress requires laborious pondering.",
+    "example": "The report buries its findings beneath ponderous prose."
+  },
+  {
+    "word": "inscrutable",
+    "memory": "IN means not and SCRUT means examine: INSCRUTABLE cannot be understood even under scrutiny.",
+    "example": "Her inscrutable expression revealed nothing."
+  },
+  {
+    "word": "enigmatic",
+    "memory": "ENIGMATIC contains ENIGMA: mysterious and difficult to interpret.",
+    "example": "The manuscript ends with an enigmatic symbol."
+  },
+  {
+    "word": "obscure",
+    "memory": "OBSCURE resembles OBSTRUCT: obscure language obstructs understanding.",
+    "example": "The footnote cites an obscure medieval text."
+  },
+  {
+    "word": "abstruse",
+    "memory": "ABSTRUSE sounds like ABSTRACT: difficult because it is remote from ordinary understanding.",
+    "example": "The lecture became increasingly abstruse."
+  },
+  {
+    "word": "arcane",
+    "memory": "An ARCANE secret is locked in an ARK: understood by only a few initiates.",
+    "example": "The manual assumes knowledge of arcane commands."
+  },
+  {
+    "word": "recondite",
+    "memory": "RECONDITE resembles RECONDIT, hidden again: obscure knowledge concealed from ordinary readers.",
+    "example": "His essay explores a recondite point of theology."
+  },
+  {
+    "word": "esoteric",
+    "memory": "ESOTERIC sounds like 'a secret': knowledge intended for a small inner circle.",
+    "example": "The conversation drifted into esoteric mathematics."
+  },
+  {
+    "word": "intertwined",
+    "memory": "INTER means between and TWINED means twisted: strands twisted together become INTERTWINED.",
+    "example": "Their personal and financial interests were intertwined."
+  },
+  {
+    "word": "convoluted",
+    "memory": "CONVOLUTED resembles COILED: twisted through too many turns to follow easily.",
+    "example": "The application process is needlessly convoluted."
+  },
+  {
+    "word": "byzantine",
+    "memory": "The BYZANTINE court was famed for intrigue; BYZANTINE now means labyrinthine and complicated.",
+    "example": "A byzantine tax code confused even specialists."
+  },
+  {
+    "word": "tortuous",
+    "memory": "TORT means twist: a TORTUOUS route twists repeatedly.",
+    "example": "The negotiations followed a tortuous path."
+  },
+  {
+    "word": "sinuous",
+    "memory": "SINUOUS shares SINU with SINE wave: smoothly curving from side to side.",
+    "example": "A sinuous trail climbed the mountain."
+  },
+  {
+    "word": "imbroglio",
+    "memory": "IMBROGLIO sounds like 'IN, BRO, GLUE': stuck inside a tangled mess.",
+    "example": "The succession dispute became a diplomatic imbroglio."
+  },
+  {
+    "word": "conundrum",
+    "memory": "CONUNDRUM sounds like a DRUM with no obvious rhythm: a perplexing problem.",
+    "example": "The paradox presents economists with a conundrum."
+  },
+  {
+    "word": "hodgepodge",
+    "memory": "HODGE-PODGE sounds jumbled because it means a jumbled mixture.",
+    "example": "The room contained a hodgepodge of mismatched furniture."
+  },
+  {
+    "word": "arduous",
+    "memory": "ARDUOUS resembles HARD for a reason: requiring strenuous effort.",
+    "example": "The ascent was long and arduous."
+  },
+  {
+    "word": "onerous",
+    "memory": "ONUS means burden: an ONEROUS duty places a heavy burden on you.",
+    "example": "The regulation imposed onerous reporting requirements."
+  },
+  {
+    "word": "daunting",
+    "memory": "A DAUNTING task can DAUNT, or intimidate, the person facing it.",
+    "example": "Restoring the ruined building was daunting."
+  },
+  {
+    "word": "cumbersome",
+    "memory": "CUMBERSOME contains CUMBER, meaning burden: awkwardly heavy or complicated.",
+    "example": "The cumbersome equipment slowed the expedition."
+  },
+  {
+    "word": "stringent",
+    "memory": "STRINGENT rules pull as tight as a STRING: strict and exacting.",
+    "example": "The laboratory follows stringent safety standards."
+  },
+  {
+    "word": "exacting",
+    "memory": "EXACT is inside EXACTING: demanding exact care and precision.",
+    "example": "The restoration requires exacting craftsmanship."
+  },
+  {
+    "word": "painstaking",
+    "memory": "PAINSTAKING work TAKES PAINS over every detail.",
+    "example": "Researchers completed a painstaking reconstruction."
+  },
+  {
+    "word": "sagacious",
+    "memory": "A SAGE is wise; SAGACIOUS means possessing a sage's judgment.",
+    "example": "Her sagacious advice prevented an expensive mistake."
+  },
+  {
+    "word": "judicious",
+    "memory": "A JUDGE should be JUDICIOUS: wise, balanced, and careful.",
+    "example": "Judicious spending preserved the emergency fund."
+  },
+  {
+    "word": "prudent",
+    "memory": "PRUDENT begins like PREVENT: wise caution prevents avoidable harm.",
+    "example": "Keeping a reserve was a prudent decision."
+  },
+  {
+    "word": "sound",
+    "memory": "A SOUND structure is solid; SOUND reasoning is equally dependable.",
+    "example": "The recommendation rests on sound evidence."
+  },
+  {
+    "word": "perspicacious",
+    "memory": "PERSPICACIOUS contains SPIC, look: sharply seeing what others miss.",
+    "example": "Her perspicacious questions exposed the hidden assumption."
+  },
+  {
+    "word": "astute",
+    "memory": "ASTUTE sounds like 'A-STUDENT' who quickly grasps practical details.",
+    "example": "An astute negotiator recognized their urgency."
+  },
+  {
+    "word": "canny",
+    "memory": "CANNY contains CAN: practically clever enough to know what one can do.",
+    "example": "The canny investor bought before demand increased."
+  },
+  {
+    "word": "acumen",
+    "memory": "ACUMEN begins like ACUTE: acutely sharp judgment.",
+    "example": "Her commercial acumen rescued the company."
+  },
+  {
+    "word": "cerebral",
+    "memory": "The CEREBRUM is the brain; CEREBRAL concerns intellect over emotion.",
+    "example": "The cerebral film rewards patient attention."
+  },
+  {
+    "word": "inquisitive",
+    "memory": "INQUISITIVE contains INQUIRE: eager to ask questions and learn.",
+    "example": "The inquisitive child dismantled the clock."
+  },
+  {
+    "word": "intuitive",
+    "memory": "INTUITIVE knowledge comes IN-TO you without deliberate reasoning.",
+    "example": "The interface feels simple and intuitive."
+  },
+  {
+    "word": "ingenious",
+    "memory": "An ingenious ENGINEER devises clever original solutions.",
+    "example": "The ingenious mechanism uses no electricity."
+  },
+  {
+    "word": "fallible",
+    "memory": "FALL is inside FALLIBLE: capable of falling into error.",
+    "example": "Even experienced judges are fallible."
+  },
+  {
+    "word": "gullible",
+    "memory": "A GULLIBLE person GULPS a story without checking it.",
+    "example": "The scam targeted gullible investors."
+  },
+  {
+    "word": "myopic",
+    "memory": "MYOPIA is nearsightedness; MYOPIC policy sees only the immediate future.",
+    "example": "The myopic cuts created larger long-term costs."
+  },
+  {
+    "word": "naive",
+    "memory": "NAIVE resembles NATIVE-born anew: inexperienced and unsophisticated.",
+    "example": "It was naive to trust the anonymous promise."
+  },
+  {
+    "word": "ruminate",
+    "memory": "Cows RUMINATE by chewing again; thinkers mentally chew an idea repeatedly.",
+    "example": "She ruminated on the decision all weekend."
+  },
+  {
+    "word": "cogitate",
+    "memory": "COGITATE contains COG, like mental gears turning in deep thought.",
+    "example": "He withdrew to cogitate before answering."
+  },
+  {
+    "word": "pensive",
+    "memory": "PENSIVE begins like PENSÉE, thought: quietly absorbed in thought.",
+    "example": "She grew pensive as the train departed."
+  },
+  {
+    "word": "erudite",
+    "memory": "ERUDITE sounds like 'A-READ-ite': scholarly from extensive reading.",
+    "example": "The erudite historian cited sources in six languages."
+  },
+  {
+    "word": "encyclopedic",
+    "memory": "An ENCYCLOPEDIA covers vast knowledge; ENCYCLOPEDIC knowledge does likewise.",
+    "example": "Her encyclopedic memory astonished colleagues."
+  },
+  {
+    "word": "polymath",
+    "memory": "POLY means many and MATH means learning: a POLYMATH masters many fields.",
+    "example": "The polymath contributed to anatomy, engineering, and art."
+  },
+  {
+    "word": "omniscient",
+    "memory": "OMNI means all and SCI means know: OMNISCIENT means all-knowing.",
+    "example": "The novel uses an omniscient narrator."
+  },
+  {
+    "word": "connoisseur",
+    "memory": "CONNOISSEUR contains the French root for KNOW: an expert who knows refined quality.",
+    "example": "A tea connoisseur identified the region immediately."
+  },
+  {
+    "word": "neophyte",
+    "memory": "NEO means new: a NEOPHYTE is new to a field.",
+    "example": "The workshop welcomes both experts and neophytes."
+  },
+  {
+    "word": "dilettante",
+    "memory": "A DILETTANTE DABBLES for delight without serious expertise.",
+    "example": "Critics dismissed him as a wealthy dilettante."
+  },
+  {
+    "word": "rudimentary",
+    "memory": "RUDIMENTS are basics; RUDIMENTARY means limited to the basics.",
+    "example": "The cabin had only rudimentary plumbing."
+  },
+  {
+    "word": "elementary",
+    "memory": "ELEMENTARY knowledge covers the basic ELEMENTS.",
+    "example": "The error revealed an elementary misunderstanding."
+  },
+  {
+    "word": "abreast",
+    "memory": "Ships sailing ABREAST stay alongside; staying abreast of news means keeping alongside developments.",
+    "example": "Doctors must remain abreast of new research."
+  },
+  {
+    "word": "compelling",
+    "memory": "A COMPELLING argument COMPELS assent through persuasive force.",
+    "example": "The prosecutor presented compelling evidence."
+  },
+  {
+    "word": "conclusive",
+    "memory": "CONCLUSIVE evidence lets inquiry CONCLUDE decisively.",
+    "example": "The test produced no conclusive result."
+  },
+  {
+    "word": "axiomatic",
+    "memory": "An AXIOM is self-evident; AXIOMATIC means accepted without proof.",
+    "example": "It is axiomatic that finite resources require choices."
+  },
+  {
+    "word": "rational",
+    "memory": "RATIONAL contains RATIO: reasoning through logical relationships.",
+    "example": "Fear made rational discussion difficult."
+  },
+  {
+    "word": "tenable",
+    "memory": "TEN means hold: a TENABLE position can be held against objections.",
+    "example": "That explanation is no longer tenable."
+  },
+  {
+    "word": "cogent",
+    "memory": "COGENT sounds like COGS engaging: an argument whose parts lock persuasively together.",
+    "example": "She offered a cogent case for reform."
+  },
+  {
+    "word": "empirical",
+    "memory": "EMPIRICAL evidence comes from EXPERIENCE and observation, not speculation.",
+    "example": "The hypothesis lacks empirical support."
+  },
+  {
+    "word": "documentary",
+    "memory": "DOCUMENTARY evidence is preserved in DOCUMENTS or factual records.",
+    "example": "The archive supplied documentary proof of ownership."
+  },
+  {
+    "word": "conjectural",
+    "memory": "CONJECTURAL contains CONJECTURE: inferred by guesswork rather than proven.",
+    "example": "The proposed reconstruction remains conjectural."
+  },
+  {
+    "word": "subjective",
+    "memory": "SUBJECTIVE judgment comes from the SUBJECT's personal viewpoint.",
+    "example": "Taste in music is partly subjective."
+  },
+  {
+    "word": "tenuous",
+    "memory": "TENUOUS sounds like TEN-YARN: a connection as thin as one strand of yarn.",
+    "example": "The evidence has only a tenuous link to the suspect."
+  },
+  {
+    "word": "circumstantial",
+    "memory": "CIRCUM means around: CIRCUMSTANTIAL evidence surrounds an event without witnessing it directly.",
+    "example": "The case depended entirely on circumstantial evidence."
+  },
+  {
+    "word": "illusory",
+    "memory": "ILLUSORY contains ILLUSION: seeming real while actually deceptive.",
+    "example": "The apparent savings proved illusory."
+  },
+  {
+    "word": "elusive",
+    "memory": "ELUSIVE things ELUDE capture or understanding.",
+    "example": "A lasting agreement remained elusive."
+  },
+  {
+    "word": "delusion",
+    "memory": "DELUSION resembles ILLUSION but lives in belief: a firmly held false idea.",
+    "example": "His delusion of invulnerability encouraged reckless choices."
+  },
+  {
+    "word": "incredulous",
+    "memory": "IN means not and CRED means believe: INCREDULOUS means unwilling to believe.",
+    "example": "She gave the claim an incredulous stare."
+  },
+  {
+    "word": "discount",
+    "memory": "A price DISCOUNT reduces value; discounting evidence reduces its credibility.",
+    "example": "Investigators discounted the anonymous rumor."
+  },
+  {
+    "word": "profound",
+    "memory": "PROFOUND contains FOUND deep within: deep in meaning or insight.",
+    "example": "The discovery had profound consequences."
+  },
+  {
+    "word": "profundity",
+    "memory": "PROFUNDITY comes from PROFUND, deep: intellectual or emotional depth.",
+    "example": "The remark's apparent simplicity concealed its profundity."
+  },
+  {
+    "word": "superficial",
+    "memory": "SUPERFICIAL contains SURFACE in its root: concerned only with the surface.",
+    "example": "A superficial inspection missed the structural damage."
+  },
+  {
+    "word": "vacuous",
+    "memory": "VACUOUS shares VAC with VACUUM: empty of thought or substance.",
+    "example": "The interview produced only vacuous slogans."
+  },
+  {
+    "word": "insipid",
+    "memory": "INSIPID contains SIP: one sip reveals it has no flavor or vitality.",
+    "example": "The adaptation turned a sharp satire into insipid romance."
+  },
+  {
+    "word": "vapid",
+    "memory": "VAPID resembles VAPOR: thin, insubstantial, and lacking flavor.",
+    "example": "The debate dissolved into vapid chatter."
+  },
+  {
+    "word": "pedestrian",
+    "memory": "A PEDESTRIAN merely walks the ordinary road; figuratively, commonplace and unimaginative.",
+    "example": "Elegant photography could not rescue the pedestrian plot."
+  },
+  {
+    "word": "humdrum",
+    "memory": "HUM-DRUM repeats two dull sounds: monotonously ordinary.",
+    "example": "He longed to escape his humdrum routine."
+  },
+  {
+    "word": "prosaic",
+    "memory": "PROSAIC comes from PROSE: plain and ordinary rather than poetic.",
+    "example": "The explanation was disappointingly prosaic."
+  },
+  {
+    "word": "mundane",
+    "memory": "MUND means world: MUNDANE concerns the ordinary everyday world.",
+    "example": "The memoir finds beauty in mundane chores."
+  },
+  {
+    "word": "hackneyed",
+    "memory": "A HACKNEY was an overworked rental horse; HACKNEYED ideas are worn out by use.",
+    "example": "The speech relied on hackneyed patriotic phrases."
+  },
+  {
+    "word": "banal",
+    "memory": "BANAL sounds like 'BAN ALL' originality: stale and commonplace.",
+    "example": "The critic dismissed the lyrics as banal."
+  },
+  {
+    "word": "conventional",
+    "memory": "A CONVENTION follows accepted customs; CONVENTIONAL means standard rather than original.",
+    "example": "The architect rejected a conventional layout."
+  },
+  {
+    "word": "derivative",
+    "memory": "DERIVATIVE work DERIVES from someone else's creation.",
+    "example": "Reviewers found the sequel competent but derivative."
+  },
+  {
+    "word": "monotonous",
+    "memory": "MONO means one and TONE means sound: one unchanging tone becomes boring.",
+    "example": "The monotonous presentation lasted two hours."
+  },
+  {
+    "word": "tedious",
+    "memory": "TEDIOUS sounds like 'T-D-US' repeated endlessly: tiresomely long and dull.",
+    "example": "Verifying every entry was tedious but necessary."
+  },
+  {
+    "word": "tractable",
+    "memory": "TRACTABLE contains TRACT, pull: easy to pull toward cooperation or a solution.",
+    "example": "The problem became tractable after one assumption changed."
+  },
+  {
+    "word": "malleable",
+    "memory": "A MALLET shapes MALLEABLE metal; it is flexible enough to be formed.",
+    "example": "Young branches remain malleable."
+  },
+  {
+    "word": "amenable",
+    "memory": "AMENABLE begins like AMEN: willing to agree or cooperate.",
+    "example": "Both sides were amenable to mediation."
+  },
+  {
+    "word": "plastic",
+    "memory": "Heated PLASTIC changes shape; PLASTIC also means readily molded or adaptable.",
+    "example": "The infant brain is remarkably plastic."
+  },
+  {
+    "word": "pliant",
+    "memory": "PLIANT contains PLI, as in PLIERS: easily bent or influenced.",
+    "example": "The pliant material wrapped around the frame."
+  },
+  {
+    "word": "supple",
+    "memory": "SUPPLE sounds like 'softly flexible': bending smoothly without stiffness.",
+    "example": "The dancer remained strong and supple."
+  },
+  {
+    "word": "intransigent",
+    "memory": "IN means not and TRANS means cross: refusing to cross over toward compromise.",
+    "example": "The intransigent faction rejected every concession."
+  },
+  {
+    "word": "headstrong",
+    "memory": "A HEADSTRONG person has a head too strong to be turned.",
+    "example": "The headstrong commander ignored experienced advisers."
+  },
+  {
+    "word": "obstinate",
+    "memory": "OBSTINATE begins like OBSTACLE: stubbornly blocking change.",
+    "example": "He remained obstinate despite decisive evidence."
+  },
+  {
+    "word": "obdurate",
+    "memory": "DUR means hard: OB-DUR-ATE means hardened against persuasion.",
+    "example": "The obdurate official refused to reconsider."
+  },
+  {
+    "word": "immutable",
+    "memory": "IM means not and MUT means change: IMMUTABLE cannot be changed.",
+    "example": "The constitution was treated as immutable."
+  },
+  {
+    "word": "ossify",
+    "memory": "OSS means bone: OSSIFY means turn to bone or become rigid.",
+    "example": "Flexible procedures can ossify into bureaucracy."
+  },
+  {
+    "word": "entrenched",
+    "memory": "Soldiers in a TRENCH are hard to remove; ENTRENCHED habits are too.",
+    "example": "The reform challenged entrenched privilege."
+  },
+  {
+    "word": "inveterate",
+    "memory": "INVETERATE contains VETERAN: a veteran habit is long-established.",
+    "example": "He was an inveterate collector of maps."
+  },
+  {
+    "word": "ingrained",
+    "memory": "A stain worked IN the GRAIN is hard to remove; so is an INGRAINED habit.",
+    "example": "The policy reflected ingrained prejudice."
+  },
+  {
+    "word": "doctrinaire",
+    "memory": "DOCTRINAIRE contains DOCTRINE: rigidly imposing doctrine regardless of reality.",
+    "example": "The doctrinaire minister rejected pragmatic compromise."
+  },
+  {
+    "word": "dogmatic",
+    "memory": "DOGMATIC contains DOGMA: asserting beliefs as unquestionable truth.",
+    "example": "Her dogmatic certainty stifled discussion."
+  },
+  {
+    "word": "pertinacious",
+    "memory": "PERTINACIOUS contains TENACIOUS: holding a course with stubborn persistence.",
+    "example": "The pertinacious investigator pursued every lead."
+  },
+  {
+    "word": "dogged",
+    "memory": "A DOGGED tracker follows like a determined dog that will not quit.",
+    "example": "Dogged research eventually uncovered the records."
+  },
+  {
+    "word": "implacable",
+    "memory": "IM means not and PLACATE means calm: IMPLACABLE cannot be appeased.",
+    "example": "The rivals remained implacable enemies."
+  },
+  {
+    "word": "imperative",
+    "memory": "An IMPERATIVE order sounds IMPERIOUS: mandatory, not optional.",
+    "example": "Immediate evacuation is imperative."
+  },
+  {
+    "word": "prescribe",
+    "memory": "PRE-SCRIBE means write beforehand: formally specify what must be done.",
+    "example": "The regulations prescribe annual inspections."
+  },
+  {
+    "word": "dictate",
+    "memory": "A DICTATOR DICTATES commands for others to follow.",
+    "example": "Circumstances dictated a cautious response."
+  },
+  {
+    "word": "abrogate",
+    "memory": "ABROGATE sounds like 'abolish the regulation': repeal a law formally.",
+    "example": "The legislature voted to abrogate the obsolete statute."
+  },
+  {
+    "word": "fulcrum",
+    "memory": "A FULCRUM is the fixed pivot beneath a lever.",
+    "example": "Public trust is the fulcrum of the agreement."
+  },
+  {
+    "word": "latitude",
+    "memory": "Lines of LATITUDE span broad space; figurative latitude is room to maneuver.",
+    "example": "Managers received latitude to adjust schedules."
+  },
+  {
+    "word": "jeopardize",
+    "memory": "Put something in JEOPARDY and you JEOPARDIZE it.",
+    "example": "The leak could jeopardize the investigation."
+  },
+  {
+    "word": "undermine",
+    "memory": "Dig UNDER a foundation like a MINE and you weaken it secretly.",
+    "example": "Contradictions undermined his credibility."
+  },
+  {
+    "word": "undercut",
+    "memory": "CUT underneath a support and you UNDERCUT its strength.",
+    "example": "The exception undercuts the principle."
+  },
+  {
+    "word": "subvert",
+    "memory": "SUB means under and VERT means turn: SUBVERT by turning a system from underneath.",
+    "example": "The scheme sought to subvert the election."
+  },
+  {
+    "word": "impair",
+    "memory": "IMPAIR sounds like 'in poor' condition: weaken or damage function.",
+    "example": "Fatigue can impair judgment."
+  },
+  {
+    "word": "eradicate",
+    "memory": "RADIC means root: ERADICATE means pull out by the roots.",
+    "example": "Vaccination nearly eradicated the disease."
+  },
+  {
+    "word": "vanquish",
+    "memory": "A VANQUISHED enemy VANISHES from the contest after complete defeat.",
+    "example": "The challenger vanquished the reigning champion."
+  },
+  {
+    "word": "exorcise",
+    "memory": "An EXORCIST EXORCISES a demon by driving it out.",
+    "example": "Writing helped her exorcise old fears."
+  },
+  {
+    "word": "assail",
+    "memory": "ASSAIL sounds like ASSAULT: attack violently with blows or criticism.",
+    "example": "Critics assailed the proposal from every side."
+  },
+  {
+    "word": "ravage",
+    "memory": "RAVAGE sounds like SAVAGE damage: devastate severely.",
+    "example": "Wildfire ravaged the valley."
+  },
+  {
+    "word": "deleterious",
+    "memory": "DELETERIOUS begins like DELETE: harmful enough to erase health or progress.",
+    "example": "The chemical has deleterious effects on fish."
+  },
+  {
+    "word": "detrimental",
+    "memory": "DETRIMENT is inside DETRIMENTAL: causing harm or damage.",
+    "example": "Chronic stress is detrimental to health."
+  },
+  {
+    "word": "pernicious",
+    "memory": "PERNICIOUS sounds like 'PURE VICIOUS': subtly but seriously harmful.",
+    "example": "The rumor had a pernicious influence."
+  },
+  {
+    "word": "virulent",
+    "memory": "VIRULENT contains VIRUS: extremely harmful, poisonous, or hostile.",
+    "example": "A virulent strain spread rapidly."
+  },
+  {
+    "word": "noxious",
+    "memory": "NOXIOUS shares NOX with obnoxious: harmful or poisonous.",
+    "example": "The factory released noxious fumes."
+  },
+  {
+    "word": "conflagration",
+    "memory": "CONFLAGRATION contains FLAGR, flame: a vast destructive fire.",
+    "example": "The conflagration destroyed several blocks."
+  },
+  {
+    "word": "catastrophic",
+    "memory": "CATASTROPHIC contains CATASTROPHE: disastrously destructive.",
+    "example": "The dam's collapse was catastrophic."
+  },
+  {
+    "word": "cataclysmic",
+    "memory": "A CATACLYSM is a violent upheaval; CATACLYSMIC means massively destructive.",
+    "example": "The impact caused cataclysmic flooding."
+  },
+  {
+    "word": "tempestuous",
+    "memory": "A TEMPEST is a violent storm; TEMPESTUOUS emotions storm violently too.",
+    "example": "They had a tempestuous relationship."
+  },
+  {
+    "word": "turbulent",
+    "memory": "TURBULENT contains TURB, a swirl: violently disturbed and unstable.",
+    "example": "The country endured a turbulent decade."
+  },
+  {
+    "word": "incendiary",
+    "memory": "INCENDIARY contains INCEND, burn: able to ignite fires or conflict.",
+    "example": "The incendiary speech provoked unrest."
+  },
+  {
+    "word": "neutralize",
+    "memory": "Make a threat NEUTRAL and you NEUTRALIZE it.",
+    "example": "The filter neutralizes the toxin."
+  },
+  {
+    "word": "nullify",
+    "memory": "NULL means zero: NULLIFY reduces force or validity to zero.",
+    "example": "The ruling nullified the contract."
+  },
+  {
+    "word": "obviate",
+    "memory": "OBVIATE sounds like 'avoid it': remove the need or difficulty beforehand.",
+    "example": "Digital signatures obviate the need for paper forms."
+  },
+  {
+    "word": "quash",
+    "memory": "QUASH sounds like SQUASH: suppress or crush completely.",
+    "example": "The court quashed the conviction."
+  },
+  {
+    "word": "coercion",
+    "memory": "COERCION sounds like FORCE in its hard C sounds: pressure that compels compliance.",
+    "example": "The confession was obtained through coercion."
+  },
+  {
+    "word": "duress",
+    "memory": "DURESS shares DUR with endure: forced to endure threats or pressure.",
+    "example": "She signed the agreement under duress."
+  },
+  {
+    "word": "manacle",
+    "memory": "MANACLES bind a person's hands; MANACLE means restrain or imprison.",
+    "example": "The prisoner was manacled to the guard."
+  },
+  {
+    "word": "immure",
+    "memory": "MUR means wall: IMMURE means wall someone in and confine them.",
+    "example": "The tale immures its heroine in a tower."
+  },
+  {
+    "word": "bridle",
+    "memory": "A BRIDLE restrains a horse; to bridle something is to hold it back.",
+    "example": "New rules bridled the agency's power."
+  },
+  {
+    "word": "quarantine",
+    "memory": "QUARANTINE became familiar as enforced isolation: separate to prevent spread.",
+    "example": "Officials quarantined the exposed animals."
+  },
+  {
+    "word": "banish",
+    "memory": "BAN is inside BANISH: ban someone from a place and send them away.",
+    "example": "The king banished the traitor."
+  },
+  {
+    "word": "depose",
+    "memory": "DE means down and POSE means place: DEPOSE a ruler by taking them down from office.",
+    "example": "The army deposed the president."
+  },
+  {
+    "word": "oust",
+    "memory": "OUST sounds like OUT: force someone out of power or place.",
+    "example": "Shareholders voted to oust the director."
+  },
+  {
+    "word": "relegate",
+    "memory": "RELEGATE sounds like 'RE-LEG it' to the back: assign to a lower rank.",
+    "example": "The loss relegated the club to a lower division."
+  },
+  {
+    "word": "forestall",
+    "memory": "FORE means before and STALL means stop: act beforehand to prevent something.",
+    "example": "Early repairs forestalled a larger failure."
+  },
+  {
+    "word": "inhibit",
+    "memory": "An INHIBITION holds behavior in; INHIBIT means restrain or slow.",
+    "example": "Fear can inhibit creativity."
+  },
+  {
+    "word": "impede",
+    "memory": "PED means foot: IMPEDE progress by tangling the feet.",
+    "example": "Debris impeded the rescue effort."
+  },
+  {
+    "word": "hamper",
+    "memory": "A heavy HAMPER is awkward to carry and HAMPERS movement.",
+    "example": "Poor communication hampered the investigation."
+  },
+  {
+    "word": "hinder",
+    "memory": "HINDER contains HIND, or behind: make progress fall behind.",
+    "example": "Outdated equipment hindered production."
+  },
+  {
+    "word": "impediment",
+    "memory": "IMPEDIMENT contains IMPEDE: an obstacle that impedes progress.",
+    "example": "Cost remains the principal impediment."
+  },
+  {
+    "word": "curb",
+    "memory": "A street CURB keeps cars within bounds; to CURB means limit.",
+    "example": "The policy aims to curb emissions."
+  },
+  {
+    "word": "curtail",
+    "memory": "CURT means short: CURTAIL means cut short.",
+    "example": "The storm curtailed the festival."
+  },
+  {
+    "word": "circumscribe",
+    "memory": "CIRCUM means around and SCRIBE means write: draw a limiting line around something.",
+    "example": "The constitution circumscribes executive authority."
+  },
+  {
+    "word": "preclude",
+    "memory": "PRE means before and CLUDE means close: close off an option beforehand.",
+    "example": "The injury precluded further competition."
+  },
+  {
+    "word": "avert",
+    "memory": "VERT means turn: AVERT disaster by turning it away.",
+    "example": "A warning system averted catastrophe."
+  },
+  {
+    "word": "foil",
+    "memory": "A fencing FOIL blocks an opponent's thrust; FOIL a plan by blocking it.",
+    "example": "Police foiled the robbery."
+  },
+  {
+    "word": "invasive",
+    "memory": "INVASIVE contains INVADE: intruding into space, tissue, or rights.",
+    "example": "The invasive plant displaced native species."
+  },
+  {
+    "word": "encroach",
+    "memory": "ENCROACH sounds like 'inch approach': intrude gradually, inch by inch.",
+    "example": "Development encroached on the wetland."
+  },
+  {
+    "word": "capitulate",
+    "memory": "CAPITULATE sounds like 'cap it—you've lost': stop resisting and surrender.",
+    "example": "The defenders refused to capitulate."
+  },
+  {
+    "word": "acquiesce",
+    "memory": "ACQUIESCE contains QUI, like QUIET: become quiet and accept without protest.",
+    "example": "They reluctantly acquiesced to the demand."
+  },
+  {
+    "word": "comply",
+    "memory": "COMPLY rhymes with APPLY: apply the rule by doing what it requires.",
+    "example": "The factory complied with the order."
+  },
+  {
+    "word": "relent",
+    "memory": "RELENT means release relentless resistance and become less severe.",
+    "example": "After hours of pleading, she relented."
+  },
+  {
+    "word": "yield",
+    "memory": "A YIELD sign tells drivers to give way; YIELD means surrender resistance.",
+    "example": "The negotiator yielded on one point."
+  },
+  {
+    "word": "countenance",
+    "memory": "A disapproving COUNTENANCE will not COUNTENANCE misconduct: allow or tolerate it.",
+    "example": "The court will not countenance intimidation."
+  },
+  {
+    "word": "abide",
+    "memory": "If you can ABIDE something, you can live BESIDE it and tolerate it.",
+    "example": "She could not abide dishonesty."
+  },
+  {
+    "word": "relinquish",
+    "memory": "RELINQUISH sounds like RELEASE: voluntarily let go of possession or control.",
+    "example": "He relinquished command after the inquiry."
+  },
+  {
+    "word": "forsake",
+    "memory": "FORSAKE sounds like 'for sake, leave it': abandon someone or something.",
+    "example": "She refused to forsake her principles."
+  },
+  {
+    "word": "jettison",
+    "memory": "A JETTISONED load is thrown from a JET or ship to lighten it.",
+    "example": "The company jettisoned its failing division."
+  },
+  {
+    "word": "abstain",
+    "memory": "ABSTAIN resembles STAY AWAY: deliberately refrain.",
+    "example": "Two members abstained from voting."
+  },
+  {
+    "word": "eschew",
+    "memory": "ESCHEW sounds like 'SHOO': shoo something away and deliberately avoid it.",
+    "example": "The design eschews unnecessary ornament."
+  },
+  {
+    "word": "abscond",
+    "memory": "ABSCOND sounds like 'ABSENT, gone': flee secretly to avoid capture.",
+    "example": "The treasurer absconded with the funds."
+  },
+  {
+    "word": "renege",
+    "memory": "RENEGE begins like REJECT: go back on a promise.",
+    "example": "The supplier reneged on the agreement."
+  },
+  {
+    "word": "evade",
+    "memory": "EVASIVE contains EVADE: escape a duty, question, or pursuer.",
+    "example": "The company evaded its tax obligations."
+  },
+  {
+    "word": "skirt",
+    "memory": "A SKIRT goes around the legs; SKIRT an issue by going around it.",
+    "example": "The witness skirted the central question."
+  },
+  {
+    "word": "renounce",
+    "memory": "RE-NOUNCE sounds like ANNOUNCE rejection: formally give something up.",
+    "example": "She renounced her claim to the throne."
+  },
+  {
+    "word": "abjure",
+    "memory": "ABJURE sounds like 'object under oath': formally reject a belief.",
+    "example": "He abjured violence after the war."
+  },
+  {
+    "word": "recant",
+    "memory": "RE-CAN'T: say you can no longer support your former statement.",
+    "example": "The witness later recanted his testimony."
+  },
+  {
+    "word": "spurn",
+    "memory": "SPURN sounds like BURN: reject someone so disdainfully that it burns.",
+    "example": "She spurned the offered bribe."
+  },
+  {
+    "word": "restive",
+    "memory": "RESTIVE misleadingly looks restful; it means RESTLESS under restraint.",
+    "example": "The restive crowd pressed against the barriers."
+  },
+  {
+    "word": "recourse",
+    "memory": "RE-COURSE: when one course fails, turn to another source of help.",
+    "example": "Litigation should be a last recourse."
+  },
+  {
+    "word": "sanction",
+    "memory": "A SANCTION can AUTHORIZE or PUNISH; context reveals its opposite senses.",
+    "example": "The board sanctioned the project."
+  },
+  {
+    "word": "contravene",
+    "memory": "CONTRA means against: CONTRAVENE a rule by acting against it.",
+    "example": "The practice contravenes international law."
+  },
+  {
+    "word": "flout",
+    "memory": "FLOUT sounds like 'fly out' of the rules: disregard them openly.",
+    "example": "Several firms flouted the ban."
+  },
+  {
+    "word": "wayward",
+    "memory": "WAYWARD goes AWAY from the proper WAY.",
+    "example": "The mentor guided the wayward teenager."
+  },
+  {
+    "word": "condone",
+    "memory": "CONDONE sounds like 'con done': let wrongdoing pass without condemnation.",
+    "example": "Silence may appear to condone abuse."
+  },
+  {
+    "word": "perpetrate",
+    "memory": "A PERPETRATOR PERPETRATES the harmful act.",
+    "example": "The group perpetrated an elaborate fraud."
+  },
+  {
+    "word": "abet",
+    "memory": "A-BET: help someone place a bad bet; ABET means assist wrongdoing.",
+    "example": "He was charged with aiding and abetting the theft."
+  },
+  {
+    "word": "extenuating",
+    "memory": "EXTENUATING contains THIN in its origin: make guilt seem thinner or less serious.",
+    "example": "The judge considered several extenuating circumstances."
+  },
+  {
+    "word": "compromise",
+    "memory": "A COMPROMISE is a mutual PROMISE to meet between opposing positions.",
+    "example": "Both parties accepted the compromise."
+  },
+  {
+    "word": "consensus",
+    "memory": "CON means together and SENS means feel: CONSENSUS is shared agreement.",
+    "example": "The committee reached consensus."
+  },
+  {
+    "word": "schism",
+    "memory": "SCHISM sounds like SCISSOR: a split into opposed groups.",
+    "example": "The dispute caused a lasting schism."
+  },
+  {
+    "word": "polarize",
+    "memory": "POLARIZE pushes people toward opposite POLES.",
+    "example": "The issue polarized the electorate."
+  },
+  {
+    "word": "factious",
+    "memory": "FACTIOUS contains FACTION: divided into quarrelsome factions.",
+    "example": "The factious coalition soon collapsed."
+  },
+  {
+    "word": "dissident",
+    "memory": "DISSIDENT contains DISSENT: a person opposing the dominant authority.",
+    "example": "The dissident journalist was imprisoned."
+  },
+  {
+    "word": "dissent",
+    "memory": "DIS means apart and SENT means feel: DISSENT means hold a differing view.",
+    "example": "Two judges dissented from the ruling."
+  },
+  {
+    "word": "mutiny",
+    "memory": "MUTINY begins like MUTUAL refusal: subordinates rebel together against authority.",
+    "example": "The crew threatened mutiny."
+  },
+  {
+    "word": "strife",
+    "memory": "STRIFE sounds like STRIKE: bitter struggle and conflict.",
+    "example": "Years of civil strife devastated the region."
+  },
+  {
+    "word": "retaliate",
+    "memory": "RETALIATE means RETURN an attack: answer injury with revenge.",
+    "example": "Officials warned the group not to retaliate."
+  },
+  {
+    "word": "abound",
+    "memory": "ABOUND sounds like 'a boundless amount': exist in great quantity.",
+    "example": "Wildflowers abound in spring."
+  },
+  {
+    "word": "copious",
+    "memory": "COPIOUS resembles COPIES: so many copies that the supply is abundant.",
+    "example": "She took copious notes."
+  },
+  {
+    "word": "profuse",
+    "memory": "PROFUSE contains FUSE flowing outward: abundant and lavishly plentiful.",
+    "example": "He offered profuse apologies."
+  },
+  {
+    "word": "surfeit",
+    "memory": "SURFEIT sounds like 'surely full': an excessive amount beyond enough.",
+    "example": "The market faces a surfeit of office space."
+  },
+  {
+    "word": "exorbitant",
+    "memory": "EX-ORBITANT goes outside the normal ORBIT: unreasonably excessive.",
+    "example": "The hotel charged an exorbitant fee."
+  },
+  {
+    "word": "inundate",
+    "memory": "UND means wave: INUNDATE means flood or overwhelm.",
+    "example": "The office was inundated with complaints."
+  },
+  {
+    "word": "barrage",
+    "memory": "A BARRAGE is a barrier-like flood of blows, shells, or questions.",
+    "example": "She faced a barrage of criticism."
+  },
+  {
+    "word": "dwindling",
+    "memory": "DWINDLING sounds like 'down-ling': shrinking steadily downward.",
+    "example": "Dwindling reserves forced rationing."
+  },
+  {
+    "word": "sparse",
+    "memory": "SPARSE sounds like SCARCE: thinly scattered and few.",
+    "example": "Vegetation is sparse in the desert."
+  },
+  {
+    "word": "scant",
+    "memory": "SCANT is one letter from CAN'T: too little to meet the need.",
+    "example": "The report received scant attention."
+  },
+  {
+    "word": "dearth",
+    "memory": "DEARTH rhymes with EARTH stripped bare: a severe shortage.",
+    "example": "There is a dearth of affordable housing."
+  },
+  {
+    "word": "diminutive",
+    "memory": "DIMINUTIVE contains DIMINISH: unusually small.",
+    "example": "The diminutive bird weighs only five grams."
+  },
+  {
+    "word": "minute",
+    "memory": "MINUTE shares MINI: extremely small when pronounced my-NOOT.",
+    "example": "Inspectors found minute cracks."
+  },
+  {
+    "word": "slight",
+    "memory": "SLIGHT sounds LIGHT: small in amount or degree.",
+    "example": "There was only a slight improvement."
+  },
+  {
+    "word": "trifling",
+    "memory": "A TRIFLE is a small thing; TRIFLING means too minor to matter.",
+    "example": "They argued over a trifling expense."
+  },
+  {
+    "word": "trivial",
+    "memory": "TRIVIA consists of minor facts; TRIVIAL means insignificant.",
+    "example": "The defect was not trivial."
+  },
+  {
+    "word": "paltry",
+    "memory": "PALTRY sounds like 'poorly': contemptibly small or inadequate.",
+    "example": "Workers rejected the paltry raise."
+  },
+  {
+    "word": "utterly",
+    "memory": "UTTERLY intensifies to the outermost limit: completely.",
+    "example": "The allegation was utterly false."
+  },
+  {
+    "word": "economy",
+    "memory": "ECONOMY means ECONOMIZING: careful management with minimal waste.",
+    "example": "The design achieves economy of space."
+  },
+  {
+    "word": "burgeon",
+    "memory": "A BURGEONING BUD rapidly grows into new leaves.",
+    "example": "Demand burgeoned after the review."
+  },
+  {
+    "word": "proliferate",
+    "memory": "PROLIFIC things PROLIFERATE: reproduce or multiply rapidly.",
+    "example": "Unverified reports proliferated online."
+  },
+  {
+    "word": "distend",
+    "memory": "DISTEND contains EXTEND: internal pressure extends something outward.",
+    "example": "Gas can distend the abdomen."
+  },
+  {
+    "word": "prodigious",
+    "memory": "A PRODIGY has extraordinary ability; PRODIGIOUS means extraordinary in size or degree.",
+    "example": "The project required prodigious effort."
+  },
+  {
+    "word": "rampant",
+    "memory": "A creature RAMPANT on a crest rears unchecked; RAMPANT problems spread unchecked.",
+    "example": "Corruption became rampant."
+  },
+  {
+    "word": "fruitful",
+    "memory": "A FRUITFUL tree produces much fruit; fruitful work produces valuable results.",
+    "example": "The meeting proved fruitful."
+  },
+  {
+    "word": "fecund",
+    "memory": "FECUND sounds like FERTILE: highly productive or capable of abundant growth.",
+    "example": "The valley's fecund soil supports several harvests."
+  },
+  {
+    "word": "augment",
+    "memory": "AUGMENT shares AUG with AUGUST growth: make larger or increase.",
+    "example": "Savings augmented her modest income."
+  },
+  {
+    "word": "amplify",
+    "memory": "An AMPLIFIER makes sound stronger; AMPLIFY means increase intensity.",
+    "example": "Social media amplified the controversy."
+  },
+  {
+    "word": "accentuate",
+    "memory": "An ACCENT makes a syllable stand out; ACCENTUATE makes any feature more prominent.",
+    "example": "The lighting accentuates the sculpture's texture."
+  },
+  {
+    "word": "escalate",
+    "memory": "An ESCALATOR carries things upward; problems ESCALATE upward in seriousness.",
+    "example": "The dispute escalated into violence."
+  },
+  {
+    "word": "aggrandize",
+    "memory": "GRAND is inside AGGRANDIZE: make someone grander in power or importance.",
+    "example": "The biography aggrandizes its subject."
+  },
+  {
+    "word": "bolster",
+    "memory": "A BOLSTER is a supporting cushion; to BOLSTER means strengthen support.",
+    "example": "New evidence bolstered the claim."
+  },
+  {
+    "word": "buttress",
+    "memory": "A BUTTRESS physically supports a wall; evidence buttresses an argument.",
+    "example": "Statistics buttress her conclusion."
+  },
+  {
+    "word": "invigorate",
+    "memory": "VIGOR is inside INVIGORATE: fill with strength and energy.",
+    "example": "Fresh leadership invigorated the organization."
+  },
+  {
+    "word": "foment",
+    "memory": "FOMENT sounds like FERMENT: stir conditions until unrest bubbles up.",
+    "example": "The pamphlets fomented rebellion."
+  },
+  {
+    "word": "agitate",
+    "memory": "A washing machine AGITATES water; an agitator stirs people into unrest.",
+    "example": "The speech agitated the crowd."
+  },
+  {
+    "word": "galvanize",
+    "memory": "GALVANIC electricity shocks muscles; GALVANIZE means shock into action.",
+    "example": "The crisis galvanized volunteers."
+  },
+  {
+    "word": "ameliorate",
+    "memory": "AMELIORATE contains MELIOR, better: make a bad condition better.",
+    "example": "Shade trees ameliorate urban heat."
+  },
+  {
+    "word": "alleviate",
+    "memory": "ALLEVIATE contains LEV, lift: lift part of a burden or pain.",
+    "example": "The medicine alleviated her symptoms."
+  },
+  {
+    "word": "mitigate",
+    "memory": "MITIGATE begins like MILD: make harm milder or less severe.",
+    "example": "Wetlands mitigate flood damage."
+  },
+  {
+    "word": "attenuate",
+    "memory": "ATTENUATE contains tenuous: make something thinner, weaker, or less intense.",
+    "example": "Walls attenuate the signal."
+  },
+  {
+    "word": "abate",
+    "memory": "ABATE sounds like 'a bit': intensity drops a bit and continues declining.",
+    "example": "The storm finally abated."
+  },
+  {
+    "word": "subside",
+    "memory": "SUB means down: when turmoil SUBSIDES, it settles down.",
+    "example": "The pain gradually subsided."
+  },
+  {
+    "word": "wane",
+    "memory": "A WANING moon loses visible size; WANING strength diminishes too.",
+    "example": "Public interest began to wane."
+  },
+  {
+    "word": "exacerbate",
+    "memory": "EXACERBATE sounds like 'extra acerbate': make an already bad problem worse.",
+    "example": "Delays exacerbated the shortage."
+  },
+  {
+    "word": "fester",
+    "memory": "A FESTERING wound worsens unseen; resentment can fester the same way.",
+    "example": "The unresolved grievance festered for years."
+  },
+  {
+    "word": "desiccate",
+    "memory": "DESICCATE sounds like 'desert-dry': remove moisture completely.",
+    "example": "Hot winds desiccated the soil."
+  },
+  {
+    "word": "barren",
+    "memory": "BARREN land bears no crop: empty or infertile.",
+    "example": "The rocky plateau is barren."
+  },
+  {
+    "word": "amalgamate",
+    "memory": "An AMALGAM is a mixture; AMALGAMATE means merge into one.",
+    "example": "The two departments amalgamated."
+  },
+  {
+    "word": "coalesce",
+    "memory": "CO means together: separate drops COALESCE into one pool.",
+    "example": "Several factions coalesced around the proposal."
+  },
+  {
+    "word": "subsume",
+    "memory": "SUB means under and SUME means take: take a smaller idea under a broader category.",
+    "example": "The label subsumes several distinct styles."
+  },
+  {
+    "word": "collaborate",
+    "memory": "COL means together and LABOR means work: COLLABORATE means work together.",
+    "example": "The laboratories collaborated on the study."
+  },
+  {
+    "word": "correlate",
+    "memory": "CO-RELATE: two things relate together in a measurable pattern.",
+    "example": "Exercise levels correlate with health."
+  },
+  {
+    "word": "complementary",
+    "memory": "COMPLEMENT means COMPLETE: complementary parts complete each other.",
+    "example": "Their skills are complementary."
+  },
+  {
+    "word": "auxiliary",
+    "memory": "AUXILIARY sounds like 'extra helper': providing supplementary assistance.",
+    "example": "An auxiliary generator supplied power."
+  },
+  {
+    "word": "disperse",
+    "memory": "DIS means apart: DISPERSE a crowd by spreading it apart.",
+    "example": "Police dispersed the crowd."
+  },
+  {
+    "word": "diffuse",
+    "memory": "A DIFFUSER spreads light; DIFFUSE means spread broadly in many directions.",
+    "example": "The scent diffused through the room."
+  },
+  {
+    "word": "disentangle",
+    "memory": "DIS-ENTANGLE means remove the tangles and separate complexity.",
+    "example": "Investigators disentangled the financial scheme."
+  },
+  {
+    "word": "sever",
+    "memory": "SEVER sounds like SEPARATE: cut a connection completely.",
+    "example": "The blast severed the cable."
+  },
+  {
+    "word": "divorced",
+    "memory": "DIVORCED people are legally detached; an idea can also be divorced from context.",
+    "example": "The statistic is meaningless divorced from context."
+  },
+  {
+    "word": "prophetic",
+    "memory": "A PROPHET predicts; PROPHETIC words foretell the future.",
+    "example": "Her warning proved prophetic."
+  },
+  {
+    "word": "harbinger",
+    "memory": "A HARBINGER rings in what comes next: an advance signal.",
+    "example": "Frost was a harbinger of winter."
+  },
+  {
+    "word": "prefigure",
+    "memory": "PRE means before: PRE-FIGURE shows the shape of something beforehand.",
+    "example": "The early sketch prefigures his mature style."
+  },
+  {
+    "word": "forebode",
+    "memory": "FORE means before and BODE means announce: signal trouble beforehand.",
+    "example": "Dark clouds foreboded a storm."
+  },
+  {
+    "word": "portend",
+    "memory": "PORTEND sounds like 'report the end': indicate what is coming.",
+    "example": "Falling sales portend layoffs."
+  },
+  {
+    "word": "presage",
+    "memory": "PRE means before and SAGE is wise: wise knowledge beforehand.",
+    "example": "The tremors presaged an eruption."
+  },
+  {
+    "word": "prescient",
+    "memory": "PRE means before and SCI means know: PRESCIENT means knowing beforehand.",
+    "example": "Her prescient investment paid handsomely."
+  },
+  {
+    "word": "visionary",
+    "memory": "A VISIONARY sees a future VISION others cannot yet see.",
+    "example": "The visionary plan transformed the city."
+  },
+  {
+    "word": "imminent",
+    "memory": "IMMINENT sounds like 'in a minute': about to happen.",
+    "example": "Officials warned of imminent flooding."
+  },
+  {
+    "word": "foreseeable",
+    "memory": "FORE-SEEABLE means able to be seen beforehand.",
+    "example": "The accident was foreseeable."
+  },
+  {
+    "word": "fledgling",
+    "memory": "A FLEDGLING is a young bird newly learning to fly; hence newly developing.",
+    "example": "The fledgling company hired its first engineer."
+  },
+  {
+    "word": "inchoate",
+    "memory": "INCHOATE sounds like 'inchoosing': begun but not yet fully formed.",
+    "example": "The movement remained inchoate."
+  },
+  {
+    "word": "nascent",
+    "memory": "NASC means birth: NASCENT means just being born or beginning.",
+    "example": "A nascent industry emerged."
+  },
+  {
+    "word": "erstwhile",
+    "memory": "ERST means formerly: an ERSTWHILE ally was an ally in former times.",
+    "example": "Her erstwhile rival became a partner."
+  },
+  {
+    "word": "antedate",
+    "memory": "ANTE means before: ANTEDATE means come before a date in time.",
+    "example": "The ruins antedate the empire."
+  },
+  {
+    "word": "anachronistic",
+    "memory": "ANA means against and CHRON means time: out of its proper time.",
+    "example": "The law now seems anachronistic."
+  },
+  {
+    "word": "obsolete",
+    "memory": "OBSOLETE sounds like 'old, delete': no longer used because outdated.",
+    "example": "Streaming made the format obsolete."
+  },
+  {
+    "word": "archaic",
+    "memory": "ARCHAIC contains ARCH, ancient and old-fashioned.",
+    "example": "The document uses archaic spelling."
+  },
+  {
+    "word": "ineluctable",
+    "memory": "IN means not and ELUCT means escape: INELUCTABLE means unavoidable.",
+    "example": "Change is ineluctable."
+  },
+  {
+    "word": "contemporary",
+    "memory": "CON means together and TEMP means time: existing in the same present time.",
+    "example": "The gallery exhibits contemporary art."
+  },
+  {
+    "word": "interminable",
+    "memory": "IN means not and TERMIN means end: seemingly without end.",
+    "example": "The wait felt interminable."
+  },
+  {
+    "word": "incessant",
+    "memory": "IN means not and CESS means stop: INCESSANT means never stopping.",
+    "example": "Incessant rain flooded the fields."
+  },
+  {
+    "word": "perennial",
+    "memory": "PERENNIAL plants return every year; perennial problems return repeatedly.",
+    "example": "Funding is a perennial concern."
+  },
+  {
+    "word": "perpetuate",
+    "memory": "PERPETUAL means continuing; PERPETUATE means cause to continue.",
+    "example": "The myth perpetuates prejudice."
+  },
+  {
+    "word": "evanescent",
+    "memory": "EVANESCENT resembles EVAPORATE: fading almost as soon as it appears.",
+    "example": "The rainbow was evanescent."
+  },
+  {
+    "word": "transitory",
+    "memory": "TRANS means across: TRANSITORY things pass across briefly.",
+    "example": "The discomfort is transitory."
+  },
+  {
+    "word": "ephemeral",
+    "memory": "EPHEMERAL sounds like 'a funeral': life that lasts only briefly.",
+    "example": "Online fame can be ephemeral."
+  },
+  {
+    "word": "transient",
+    "memory": "A person in TRANSIT stays briefly; TRANSIENT means temporary.",
+    "example": "The town serves a transient population."
+  },
+  {
+    "word": "momentary",
+    "memory": "MOMENT is inside MOMENTARY: lasting only a moment.",
+    "example": "A momentary lapse caused the error."
+  },
+  {
+    "word": "temporal",
+    "memory": "TEMP means time: TEMPORAL means relating to worldly time rather than eternity.",
+    "example": "The study tracks temporal changes."
+  },
+  {
+    "word": "intermittent",
+    "memory": "INTERMIT means pause between: INTERMITTENT activity stops and starts.",
+    "example": "Intermittent rain continued all day."
+  },
+  {
+    "word": "sporadic",
+    "memory": "SPORADIC resembles SCATTERED: occurring irregularly here and there.",
+    "example": "Sporadic protests continued."
+  },
+  {
+    "word": "crescendo",
+    "memory": "A musical CRESCENDO grows toward its loudest peak.",
+    "example": "The campaign reached a crescendo."
+  },
+  {
+    "word": "apogee",
+    "memory": "APOGEE contains GEE, earth: the point farthest from Earth, hence the highest point.",
+    "example": "The empire reached its apogee."
+  },
+  {
+    "word": "zenith",
+    "memory": "The ZENITH is the point directly overhead: the absolute peak.",
+    "example": "Her career reached its zenith."
+  },
+  {
+    "word": "nadir",
+    "memory": "NADIR sounds like 'not dear': the lowest and worst point.",
+    "example": "Morale reached its nadir."
+  },
+  {
+    "word": "abeyance",
+    "memory": "ABEYANCE sounds like 'at bay': held back and temporarily inactive.",
+    "example": "The plan remains in abeyance."
+  },
+  {
+    "word": "dormant",
+    "memory": "DORM means sleep: DORMANT means inactive as if sleeping.",
+    "example": "The volcano is dormant."
+  },
+  {
+    "word": "fallow",
+    "memory": "FALLOW farmland rests unplanted; figuratively, temporarily unproductive.",
+    "example": "The field lay fallow."
+  },
+  {
+    "word": "lull",
+    "memory": "A LULLABY quiets activity; a LULL is a temporary quiet period.",
+    "example": "A brief lull interrupted the fighting."
+  },
+  {
+    "word": "recrudescent",
+    "memory": "RE means again and CRUDESC means become raw: RECRUDESCENT trouble breaks out raw again.",
+    "example": "Officials feared recrudescent violence."
+  },
+  {
+    "word": "convalescent",
+    "memory": "CONVALESCENT contains VALESC, grow strong: recovering strength after illness.",
+    "example": "The convalescent patient began walking daily."
+  },
+  {
+    "word": "commence",
+    "memory": "A COMMENCEMENT ceremony marks a beginning; COMMENCE means begin.",
+    "example": "Construction will commence Monday."
+  },
+  {
+    "word": "engender",
+    "memory": "ENGENDER contains GENDER and GENERATE: cause something to come into existence.",
+    "example": "Secrecy engendered distrust."
+  },
+  {
+    "word": "cease",
+    "memory": "CEASE sounds like SEIZE up: stop completely.",
+    "example": "The noise abruptly ceased."
+  },
+  {
+    "word": "precipitate",
+    "memory": "A PRECIPITATE event falls suddenly like PRECIPITATION.",
+    "example": "The resignation precipitated a crisis."
+  },
+  {
+    "word": "precipitous",
+    "memory": "A PRECIPICE is a steep cliff; PRECIPITOUS means cliff-steep or dangerously sudden.",
+    "example": "The company suffered a precipitous decline."
+  },
+  {
+    "word": "regress",
+    "memory": "RE means back and GRESS means step: REGRESS means step backward.",
+    "example": "Without practice, skills regress."
+  },
+  {
+    "word": "exigent",
+    "memory": "EXIGENT contains EXIGE, demand: demanding immediate action.",
+    "example": "Exigent circumstances justified the evacuation."
+  },
+  {
+    "word": "repercussion",
+    "memory": "A PERCUSSION strike echoes afterward; a REPERCUSSION is an aftereffect.",
+    "example": "The decision had global repercussions."
+  },
+  {
+    "word": "ramification",
+    "memory": "RAMI means branch: consequences RAMIFY into many later branches.",
+    "example": "The merger has legal ramifications."
+  },
+  {
+    "word": "adroit",
+    "memory": "ADROIT contains DROIT, right hand: skillful and dexterous.",
+    "example": "Her adroit questioning exposed the contradiction."
+  },
+  {
+    "word": "adept",
+    "memory": "An ADEPT can ADAPT skillfully to the task.",
+    "example": "He is adept at resolving disputes."
+  },
+  {
+    "word": "deft",
+    "memory": "DEFT is as quick and light as its one short syllable: neatly skillful.",
+    "example": "A deft edit clarified the paragraph."
+  },
+  {
+    "word": "nimble",
+    "memory": "Jack be NIMBLE: quick, light, and skillful in movement or thought.",
+    "example": "The nimble company adapted quickly."
+  },
+  {
+    "word": "proficient",
+    "memory": "PROFICIENT resembles PROFESSIONAL: competently skilled.",
+    "example": "She became proficient in Mandarin."
+  },
+  {
+    "word": "competent",
+    "memory": "A COMPETENT person can COMPETE because they possess adequate skill.",
+    "example": "The repair was competent but uninspired."
+  },
+  {
+    "word": "prowess",
+    "memory": "PROWESS begins like PRO: exceptional skill or bravery.",
+    "example": "The pilot demonstrated remarkable prowess."
+  },
+  {
+    "word": "punctilious",
+    "memory": "PUNCTILIOUS contains PUNCT, point: attentive to every tiny point of correctness.",
+    "example": "She was punctilious about protocol."
+  },
+  {
+    "word": "meticulous",
+    "memory": "METICULOUS sounds like 'measure meticulously': extremely careful with details.",
+    "example": "The conservator kept meticulous records."
+  },
+  {
+    "word": "fastidious",
+    "memory": "A FASTIDIOUS person finds flaws FAST and insists on exact standards.",
+    "example": "The fastidious editor checked every citation."
+  },
+  {
+    "word": "thorough",
+    "memory": "THOROUGH work goes THROUGH every detail.",
+    "example": "The inspector conducted a thorough review."
+  },
+  {
+    "word": "finicky",
+    "memory": "FINICKY sounds like 'fine-picky': excessively picky about fine details.",
+    "example": "The finicky printer rejects cheap paper."
+  },
+  {
+    "word": "negligent",
+    "memory": "NEGLIGENT contains NEGLECT: failing to give proper care.",
+    "example": "The company was negligent about maintenance."
+  },
+  {
+    "word": "lax",
+    "memory": "LAX resembles RELAXED: too loose and insufficiently strict.",
+    "example": "Lax oversight enabled the fraud."
+  },
+  {
+    "word": "perfunctory",
+    "memory": "PERFUNCTORY contains FUNCTION: performing the function mechanically with minimal care.",
+    "example": "He offered a perfunctory apology."
+  },
+  {
+    "word": "cursory",
+    "memory": "CURSORY resembles CURSOR: skim quickly across the surface.",
+    "example": "A cursory search found nothing."
+  },
+  {
+    "word": "indefatigable",
+    "memory": "IN means not and FATIGUE means tire: INDEFATIGABLE means tireless.",
+    "example": "The indefatigable organizer worked through the night."
+  },
+  {
+    "word": "industrious",
+    "memory": "INDUSTRIOUS contains INDUSTRY: habitually hardworking and productive.",
+    "example": "Industrious students completed the archive."
+  },
+  {
+    "word": "sedulous",
+    "memory": "SEDULOUS sounds like 'steadily does': diligent and persistent.",
+    "example": "Her sedulous research corrected the record."
+  },
+  {
+    "word": "dilatory",
+    "memory": "DILATORY resembles DELAY: slow to act and causing delay.",
+    "example": "Dilatory tactics postponed the vote."
+  },
+  {
+    "word": "dawdle",
+    "memory": "DAWDLE sounds drawn out: waste time by moving slowly.",
+    "example": "Do not dawdle on the way home."
+  },
+  {
+    "word": "plodding",
+    "memory": "PLODDING feet make heavy PLOD-PLOD steps: slow and laborious.",
+    "example": "The book advances at a plodding pace."
+  },
+  {
+    "word": "shirk",
+    "memory": "SHIRK sounds like SHRINK: shrink away from work or responsibility.",
+    "example": "He never shirked difficult duties."
+  },
+  {
+    "word": "feckless",
+    "memory": "FECK means effect; FECKLESS means without effectiveness or purpose.",
+    "example": "The feckless administration wasted the opportunity."
+  },
+  {
+    "word": "feasible",
+    "memory": "FEASIBLE resembles DOABLE: capable of being done successfully.",
+    "example": "The smaller project is financially feasible."
+  },
+  {
+    "word": "viable",
+    "memory": "VIA means life: a VIABLE plan can live and succeed.",
+    "example": "They found no viable alternative."
+  },
+  {
+    "word": "efficacious",
+    "memory": "EFFICACIOUS contains EFFICACY: effective in producing the desired result.",
+    "example": "The treatment proved efficacious."
+  },
+  {
+    "word": "utilitarian",
+    "memory": "UTILITY is inside UTILITARIAN: designed for practical usefulness.",
+    "example": "The building is starkly utilitarian."
+  },
+  {
+    "word": "indispensable",
+    "memory": "IN means not and DISPENSE means do without: INDISPENSABLE cannot be dispensed with.",
+    "example": "Clean water is indispensable."
+  },
+  {
+    "word": "expedient",
+    "memory": "An EXPEDIENT speeds an EXPEDITION: convenient for the immediate purpose.",
+    "example": "The expedient solution created later problems."
+  },
+  {
+    "word": "conducive",
+    "memory": "CONDUCIVE contains CONDUCE, lead: tending to lead toward a result.",
+    "example": "Quiet rooms are conducive to study."
+  },
+  {
+    "word": "panacea",
+    "memory": "PAN means all: a PANACEA supposedly cures ALL problems.",
+    "example": "Technology is no panacea for inequality."
+  },
+  {
+    "word": "futile",
+    "memory": "FUTILE sounds like 'few-tile': too few tiles to finish the floor, so the effort cannot succeed.",
+    "example": "Resistance appeared futile."
+  },
+  {
+    "word": "auspicious",
+    "memory": "AUSPICIOUS contains AUSPICE, a favorable omen: promising success.",
+    "example": "The clear morning was an auspicious start."
+  },
+  {
+    "word": "propitious",
+    "memory": "PROPITIOUS begins like PRO: favorable and helping success.",
+    "example": "Conditions were propitious for reform."
+  },
+  {
+    "word": "providential",
+    "memory": "PROVIDENCE supplies timely help; PROVIDENTIAL means fortunately opportune.",
+    "example": "A providential rain saved the crop."
+  },
+  {
+    "word": "serendipitous",
+    "memory": "SERENDIPITY means a happy accidental discovery; SERENDIPITOUS describes one.",
+    "example": "Their meeting was entirely serendipitous."
+  },
+  {
+    "word": "fortuitous",
+    "memory": "FORTUNE is inside the sound of FORTUITOUS: happening by chance, often luckily.",
+    "example": "A fortuitous delay prevented disaster."
+  },
+  {
+    "word": "salubrious",
+    "memory": "SALU means health: SALUBRIOUS conditions promote health.",
+    "example": "They moved to a salubrious climate."
+  },
+  {
+    "word": "salutary",
+    "memory": "SALUTARY shares SALUT with SALUTE and health: producing a beneficial effect.",
+    "example": "The failure taught a salutary lesson."
+  },
+  {
+    "word": "boon",
+    "memory": "A BOON is a BONUS: a helpful benefit or blessing.",
+    "example": "The bridge was a boon to trade."
+  },
+  {
+    "word": "predicament",
+    "memory": "A PREDICAMENT is a PREDICATE you cannot finish: an awkward difficult situation.",
+    "example": "The cancellation left travelers in a predicament."
+  },
+  {
+    "word": "precarious",
+    "memory": "PRECARIOUS sounds like 'pray, carry us': dangerously uncertain and unstable.",
+    "example": "The ladder stood in a precarious position."
+  },
+  {
+    "word": "liability",
+    "memory": "A LIABILITY leaves you LIABLE for loss or legal responsibility.",
+    "example": "The aging roof became a liability."
+  },
+  {
+    "word": "perilous",
+    "memory": "PERIL is inside PERILOUS: full of danger.",
+    "example": "They crossed the perilous pass."
+  },
+  {
+    "word": "fraught",
+    "memory": "FRAUGHT sounds like FREIGHT: loaded with something, usually danger or difficulty.",
+    "example": "The negotiations were fraught with tension."
+  },
+  {
+    "word": "affluent",
+    "memory": "FLUENT rivers FLOW abundantly; AFFLUENT means wealth flowing plentifully.",
+    "example": "The affluent suburb funds excellent schools."
+  },
+  {
+    "word": "lucrative",
+    "memory": "LUCRE means money: LUCRATIVE work produces substantial profit.",
+    "example": "Consulting became a lucrative business."
+  },
+  {
+    "word": "acquisitive",
+    "memory": "ACQUISITIVE contains ACQUIRE: eager to acquire more possessions.",
+    "example": "The acquisitive collector bought compulsively."
+  },
+  {
+    "word": "avaricious",
+    "memory": "AVARICE means greed: AVARICIOUS people crave excessive wealth.",
+    "example": "The avaricious landlord raised rents repeatedly."
+  },
+  {
+    "word": "rapacious",
+    "memory": "RAPACIOUS resembles RAPTOR: greedily seizing prey or property.",
+    "example": "Rapacious companies stripped the forest."
+  },
+  {
+    "word": "covet",
+    "memory": "COVET sounds like 'cover it—I want it': desire what belongs to another.",
+    "example": "He coveted his neighbor's land."
+  },
+  {
+    "word": "mercenary",
+    "memory": "MERC means trade: a MERCENARY acts primarily for payment.",
+    "example": "His support appeared purely mercenary."
+  },
+  {
+    "word": "venal",
+    "memory": "VENAL resembles VENDING: willing to sell influence for money.",
+    "example": "Venal officials accepted bribes."
+  },
+  {
+    "word": "spendthrift",
+    "memory": "SPENDTHRIFT misleadingly joins SPEND with THRIFT: one who spends recklessly, not thriftily.",
+    "example": "The spendthrift heir exhausted the fortune."
+  },
+  {
+    "word": "profligate",
+    "memory": "PROFLIGATE sounds like 'profit, late': wasteful spending destroys profit.",
+    "example": "The profligate administration squandered revenue."
+  },
+  {
+    "word": "prodigal",
+    "memory": "The PRODIGAL SON wasted his inheritance; PRODIGAL means recklessly extravagant.",
+    "example": "Prodigal spending emptied the treasury."
+  },
+  {
+    "word": "extravagant",
+    "memory": "EXTRA is inside EXTRAVAGANT: spending far beyond what is necessary.",
+    "example": "They canceled the extravagant renovation."
+  },
+  {
+    "word": "lavish",
+    "memory": "LAVISH sounds like 'lay lavishly': give or spend in abundance.",
+    "example": "The host served a lavish banquet."
+  },
+  {
+    "word": "squander",
+    "memory": "SQUANDER sounds like 'scatter': waste resources by scattering them carelessly.",
+    "example": "He squandered the opportunity."
+  },
+  {
+    "word": "parsimonious",
+    "memory": "PARSIMONIOUS contains PARS, small parts: giving out only tiny portions.",
+    "example": "The parsimonious owner refused basic repairs."
+  },
+  {
+    "word": "miserly",
+    "memory": "A MISER is MISERLY: unwilling to spend or give.",
+    "example": "His miserly tip insulted the server."
+  },
+  {
+    "word": "penurious",
+    "memory": "PENURIOUS resembles PENNILESS: extremely poor or stingy.",
+    "example": "The penurious patron rarely donated."
+  },
+  {
+    "word": "stint",
+    "memory": "A STINT is a limited portion; to STINT means give too little.",
+    "example": "Do not stint on safety equipment."
+  },
+  {
+    "word": "superfluous",
+    "memory": "SUPERFLUOUS contains SUPER-FLOW: extra material overflowing beyond need.",
+    "example": "The editor removed superfluous adjectives."
+  },
+  {
+    "word": "gratuitous",
+    "memory": "A GRATUITY is an extra tip; GRATUITOUS means uncalled-for or freely added.",
+    "example": "The film contains gratuitous violence."
+  },
+  {
+    "word": "remedial",
+    "memory": "REMEDIAL contains REMEDY: intended to correct a deficiency.",
+    "example": "The school offers remedial classes."
+  },
+  {
+    "word": "amend",
+    "memory": "AMEND contains MEND: correct or improve something flawed.",
+    "example": "The committee amended the proposal."
+  },
+  {
+    "word": "distill",
+    "memory": "A STILL extracts concentrated essence; DISTILL an idea to its pure core.",
+    "example": "The summary distills years of research."
+  },
+  {
+    "word": "refine",
+    "memory": "RE-FINE means make fine again: remove impurities and polish quality.",
+    "example": "Testing helped refine the design."
+  },
+  {
+    "word": "prime",
+    "memory": "PRIMER prepares a surface; PRIME means make ready for action.",
+    "example": "The briefing primed investors for bad news."
+  },
+  {
+    "word": "extemporize",
+    "memory": "EX TEMPO means out of the moment: perform without preparation.",
+    "example": "She extemporized when the notes disappeared."
+  },
+  {
+    "word": "improvise",
+    "memory": "IMPROVISE contains IMPROV: create spontaneously without a script.",
+    "example": "The musicians improvised a finale."
+  },
+  {
+    "word": "dispense",
+    "memory": "A DISPENSER distributes measured portions; DISPENSE means provide or distribute.",
+    "example": "The clinic dispenses medicine."
+  },
+  {
+    "word": "render",
+    "memory": "RENDER a service means give or provide it.",
+    "example": "The volunteers rendered valuable assistance."
+  },
+  {
+    "word": "endow",
+    "memory": "An ENDOWMENT supplies lasting resources; ENDOW means provide with a quality or fund.",
+    "example": "The gift endowed a scholarship."
+  },
+  {
+    "word": "replenish",
+    "memory": "RE means again and PLEN means full: fill again.",
+    "example": "Rain replenished the reservoir."
+  },
+  {
+    "word": "stanch",
+    "memory": "STANCH sounds like STOP: stop a flow, especially bleeding.",
+    "example": "Pressure helped stanch the bleeding."
+  },
+  {
+    "word": "deflect",
+    "memory": "FLECT means bend: DEFLECT means bend something away from its path.",
+    "example": "The shield deflected the debris."
+  },
+  {
+    "word": "temper",
+    "memory": "TEMPER strong metal by controlling heat; TEMPER intensity by moderating it.",
+    "example": "Compassion tempered her criticism."
+  },
+  {
+    "word": "surmount",
+    "memory": "SUR means over and MOUNT means mountain: climb over a difficulty.",
+    "example": "They surmounted enormous obstacles."
+  },
+  {
+    "word": "transcend",
+    "memory": "TRANS means beyond and SCEND means climb: rise beyond a limit.",
+    "example": "The music transcends language."
+  },
+  {
+    "word": "prevail",
+    "memory": "PREVAIL contains VAIL like victory's veil: prove stronger in the end.",
+    "example": "Reason eventually prevailed."
+  },
+  {
+    "word": "outstrip",
+    "memory": "OUT-STRIP means move beyond another on the track.",
+    "example": "Demand outstripped supply."
+  },
+  {
+    "word": "supersede",
+    "memory": "SUPER means above and SEDE means sit: a newer thing sits above and replaces the old.",
+    "example": "Digital records superseded paper files."
+  },
+  {
+    "word": "supplant",
+    "memory": "SUPPLANT contains PLANT: plant yourself in another's place and replace them.",
+    "example": "Streaming supplanted video rental."
+  },
+  {
+    "word": "unravel",
+    "memory": "Pull apart tangled thread to UNRAVEL it; solve a tangled mystery the same way.",
+    "example": "Detectives unraveled the conspiracy."
+  },
+  {
+    "word": "expedite",
+    "memory": "EXPEDITE shares EXPED with speedy expedition: make progress faster.",
+    "example": "Automation expedited the review."
+  },
+  {
+    "word": "sinecure",
+    "memory": "SINE means without and CURE means care: a paid post without much responsibility.",
+    "example": "Critics called the appointment a sinecure."
+  },
+  {
+    "word": "repertoire",
+    "memory": "A REPERTOIRE is the REPORT of pieces or skills ready for performance.",
+    "example": "The quartet expanded its repertoire."
+  },
+  {
+    "word": "remuneration",
+    "memory": "REMUNERATION contains MUN, money: payment for work.",
+    "example": "The role offers generous remuneration."
+  },
+  {
+    "word": "scrupulous",
+    "memory": "SCRUPLES are moral doubts; SCRUPULOUS people heed them carefully.",
+    "example": "She was scrupulous about disclosing conflicts."
+  },
+  {
+    "word": "probity",
+    "memory": "PROBITY begins like PROPER: complete honesty and moral integrity.",
+    "example": "The judge was known for probity."
+  },
+  {
+    "word": "noble",
+    "memory": "NOBLE character is morally elevated, like noble rank.",
+    "example": "She acted from noble motives."
+  },
+  {
+    "word": "turpitude",
+    "memory": "TURPITUDE sounds like 'terrible attitude': deep moral baseness.",
+    "example": "The crime revealed shocking moral turpitude."
+  },
+  {
+    "word": "depravity",
+    "memory": "DEPRAVITY contains DEPRAVED: profound moral corruption.",
+    "example": "The testimony exposed the scheme's depravity."
+  },
+  {
+    "word": "sordid",
+    "memory": "SORDID sounds like 'so dirty': morally dirty or squalid.",
+    "example": "The inquiry uncovered a sordid bargain."
+  },
+  {
+    "word": "base",
+    "memory": "The BASE is the lowest part; BASE conduct is morally low.",
+    "example": "The betrayal arose from base motives."
+  },
+  {
+    "word": "unscrupulous",
+    "memory": "UN means without and SCRUPLES means moral restraints: without ethical restraint.",
+    "example": "Unscrupulous brokers exploited retirees."
+  },
+  {
+    "word": "miscreant",
+    "memory": "MIS means wrong and CREANT means acting: a wrongdoer.",
+    "example": "The miscreant damaged several cars."
+  },
+  {
+    "word": "reprobate",
+    "memory": "REPROBATE begins like REPROACH: a morally unprincipled person deserving reproach.",
+    "example": "The charming reprobate deceived everyone."
+  },
+  {
+    "word": "malevolent",
+    "memory": "MAL means bad and VOL means wish: wishing harm.",
+    "example": "A malevolent rumor ruined his reputation."
+  },
+  {
+    "word": "sadistic",
+    "memory": "A SADIST enjoys causing suffering; SADISTIC describes that cruelty.",
+    "example": "The guards imposed sadistic punishments."
+  },
+  {
+    "word": "exploitative",
+    "memory": "EXPLOITATIVE contains EXPLOIT: using others unfairly for gain.",
+    "example": "Workers protested exploitative conditions."
+  },
+  {
+    "word": "pious",
+    "memory": "PIOUS begins like PIETY: devoutly religious or reverent.",
+    "example": "The pious family observed every holy day."
+  },
+  {
+    "word": "numinous",
+    "memory": "NUMINOUS sounds like LUMINOUS divinity: filled with mysterious sacred presence.",
+    "example": "The ancient sanctuary felt numinous."
+  },
+  {
+    "word": "anoint",
+    "memory": "ANOINT with OINTMENT or sacred oil to consecrate.",
+    "example": "The priest anointed the monarch."
+  },
+  {
+    "word": "inviolate",
+    "memory": "IN means not and VIOLATE means breach: INVIOLATE means never violated.",
+    "example": "The confidentiality agreement remained inviolate."
+  },
+  {
+    "word": "sanctimonious",
+    "memory": "SANCT means holy: SANCTIMONIOUS people make a show of superior holiness.",
+    "example": "His sanctimonious lecture concealed hypocrisy."
+  },
+  {
+    "word": "irreverent",
+    "memory": "IR means not and REVERENT means respectful: lacking proper reverence.",
+    "example": "The comedian's irreverent jokes offended traditionalists."
+  },
+  {
+    "word": "peccadillo",
+    "memory": "PECCA means sin and DILLO sounds little: a little sin or minor fault.",
+    "example": "They treated the expense error as a peccadillo."
+  },
+  {
+    "word": "transgression",
+    "memory": "TRANS means across and GRESS means step: step across a moral boundary.",
+    "example": "He apologized for the transgression."
+  },
+  {
+    "word": "malfeasance",
+    "memory": "MAL means bad and FEAS means do: official wrongdoing.",
+    "example": "The audit uncovered corporate malfeasance."
+  },
+  {
+    "word": "adulterate",
+    "memory": "ADULTERATE contains ADULTERER: introduce something improper into what should be pure.",
+    "example": "The vendor adulterated the oil."
+  },
+  {
+    "word": "vitiate",
+    "memory": "VIT means life: VITIATE drains validity or quality from something.",
+    "example": "Coercion vitiated the agreement."
+  },
+  {
+    "word": "austere",
+    "memory": "AUSTERE sounds STERN: severe, plain, and without comfort.",
+    "example": "The monastery's rooms were austere."
+  },
+  {
+    "word": "ascetic",
+    "memory": "An ASCETIC says 'I SKIP it' to comfort and pleasure.",
+    "example": "He adopted an ascetic lifestyle."
+  },
+  {
+    "word": "spartan",
+    "memory": "Ancient SPARTANS prized discipline over comfort; SPARTAN means severely simple.",
+    "example": "The apartment was clean but Spartan."
+  },
+  {
+    "word": "decadent",
+    "memory": "DECADENT contains DECAY: corrupted through excessive luxury.",
+    "example": "The novel depicts a decadent aristocracy."
+  },
+  {
+    "word": "libertine",
+    "memory": "A LIBERTINE takes LIBERTY from moral restraints to pursue pleasure.",
+    "example": "The notorious libertine squandered his inheritance."
+  },
+  {
+    "word": "prurient",
+    "memory": "PRURIENT starts like PRY: prying with excessive sexual curiosity.",
+    "example": "The article appealed to prurient interest."
+  },
+  {
+    "word": "contrite",
+    "memory": "CONTRITE sounds like 'can't right' the wrong: genuinely remorseful.",
+    "example": "The contrite employee apologized."
+  },
+  {
+    "word": "understated",
+    "memory": "UNDER-STATED means deliberately stated with less emphasis than expected.",
+    "example": "The room has understated elegance."
+  },
+  {
+    "word": "subdued",
+    "memory": "SUB means down: SUBDUED colors and emotions are toned down.",
+    "example": "The celebration was subdued."
+  },
+  {
+    "word": "modest",
+    "memory": "MODEST stays within moderate MODE: restrained rather than showy.",
+    "example": "She made a modest proposal."
+  },
+  {
+    "word": "retiring",
+    "memory": "A RETIRING person RETIRES from attention and social display.",
+    "example": "The retiring scholar avoided interviews."
+  },
+  {
+    "word": "coy",
+    "memory": "COY is a short word that holds back: affectedly shy or flirtatiously reserved.",
+    "example": "She remained coy about the announcement."
+  },
+  {
+    "word": "ostentatious",
+    "memory": "OSTENTATIOUS contains OSTENTATION: a show designed to attract attention.",
+    "example": "He arrived in an ostentatious limousine."
+  },
+  {
+    "word": "flamboyant",
+    "memory": "FLAMBOYANT begins with FLAME: bright, dramatic, and impossible to overlook.",
+    "example": "The designer favors flamboyant colors."
+  },
+  {
+    "word": "baroque",
+    "memory": "BAROQUE art is richly ornamented; figuratively, excessively elaborate.",
+    "example": "The contract uses baroque language."
+  },
+  {
+    "word": "panache",
+    "memory": "PANACHE sounds like 'PUNCH': confident style with extra punch.",
+    "example": "She handled the ceremony with panache."
+  },
+  {
+    "word": "aesthetic",
+    "memory": "AESTHETIC contains ART's concern: principles of beauty and artistic taste.",
+    "example": "The building has a minimalist aesthetic."
+  },
+  {
+    "word": "rhapsody",
+    "memory": "A RHAPSODY sounds RAPTUROUS: an ecstatic artistic expression.",
+    "example": "The essay is a rhapsody on city life."
+  },
+  {
+    "word": "burnish",
+    "memory": "BURNISH sounds like BRIGHTEN: polish until attractive and shining.",
+    "example": "The campaign burnished her reputation."
+  },
+  {
+    "word": "embellish",
+    "memory": "EMBELLISH contains BELLE, beauty: beautify by adding decorative detail.",
+    "example": "He embellished the story with invented dialogue."
+  },
+  {
+    "word": "tantalizing",
+    "memory": "TANTALUS could see but not reach what he desired; TANTALIZING keeps desire just out of reach.",
+    "example": "The archive offered a tantalizing clue."
+  },
+  {
+    "word": "arresting",
+    "memory": "ARRESTING beauty ARRESTS attention and makes it stop.",
+    "example": "The photograph is visually arresting."
+  },
+  {
+    "word": "piquant",
+    "memory": "PIQUANT begins like PIQUE: pleasantly sharp enough to pique interest.",
+    "example": "The sauce has a piquant flavor."
+  },
+  {
+    "word": "sentimental",
+    "memory": "SENTIMENT is feeling; SENTIMENTAL gives feeling excessive control.",
+    "example": "The ending is overly sentimental."
+  },
+  {
+    "word": "mawkish",
+    "memory": "MAWKISH sounds like 'mock-ish': emotion so sugary it invites mockery.",
+    "example": "The mawkish tribute embarrassed its subject."
+  },
+  {
+    "word": "cloying",
+    "memory": "CLOYING sweetness CLOGS enjoyment by becoming excessive.",
+    "example": "The perfume became cloying."
+  },
+  {
+    "word": "immaculate",
+    "memory": "IM means not and MACUL means spot: IMMACULATE means spotless.",
+    "example": "The kitchen was immaculate."
+  },
+  {
+    "word": "pristine",
+    "memory": "PRISTINE begins like PRIME: in original, unspoiled condition.",
+    "example": "The beach remains pristine."
+  },
+  {
+    "word": "unalloyed",
+    "memory": "UNALLOYED gold contains no other ALLOY; figuratively, pure and unmixed.",
+    "example": "The news brought unalloyed joy."
+  },
+  {
+    "word": "slovenly",
+    "memory": "SLOVENLY starts with SLOV like SLOPPY: untidy and careless in appearance.",
+    "example": "His slovenly notes were hard to read."
+  },
+  {
+    "word": "dowdy",
+    "memory": "DOWDY sounds like DULL: unfashionable and lacking style.",
+    "example": "The dowdy curtains darkened the room."
+  },
+  {
+    "word": "sophisticated",
+    "memory": "A SOPHISTICATED person has polished worldly knowledge, not naive simplicity.",
+    "example": "The software detects sophisticated attacks."
+  },
+  {
+    "word": "modish",
+    "memory": "MODE means fashion: MODISH means fashionably current.",
+    "example": "The café attracts a modish crowd."
+  },
+  {
+    "word": "gauche",
+    "memory": "GAUCHE means left in French: awkward as using the wrong hand socially.",
+    "example": "His joke was painfully gauche."
+  },
+  {
+    "word": "gawky",
+    "memory": "GAWKY contains GAWK: awkward enough to make people gawk.",
+    "example": "The gawky adolescent grew into a graceful dancer."
+  },
+  {
+    "word": "boorish",
+    "memory": "A BOOR is rude and uncultured; BOORISH describes that behavior.",
+    "example": "His boorish interruption offended everyone."
+  },
+  {
+    "word": "churlish",
+    "memory": "A CHURL is an ill-mannered person; CHURLISH means rudely surly.",
+    "example": "The churlish reply was uncalled-for."
+  },
+  {
+    "word": "indecorous",
+    "memory": "IN means not and DECORUM means proper behavior: INDECOROUS means improper.",
+    "example": "The indecorous outburst halted proceedings."
+  },
+  {
+    "word": "whimsical",
+    "memory": "A WHIM is a playful impulse; WHIMSICAL ideas follow fanciful whims.",
+    "example": "The garden contains whimsical sculptures."
+  },
+  {
+    "word": "fanciful",
+    "memory": "FANCIFUL is full of FANCY: imaginative rather than realistic.",
+    "example": "The theory is clever but fanciful."
+  },
+  {
+    "word": "idiosyncratic",
+    "memory": "IDIO means one's own and SYNCRASY means temperament: uniquely individual.",
+    "example": "Her idiosyncratic notation confused newcomers."
+  },
+  {
+    "word": "eccentric",
+    "memory": "EX means out and CENTER means middle: ECCENTRIC means off-center from convention.",
+    "example": "The eccentric inventor slept by day."
+  },
+  {
+    "word": "quirky",
+    "memory": "A QUIRK is an odd individual feature; QUIRKY means full of such traits.",
+    "example": "The shop has quirky charm."
+  },
+  {
+    "word": "peculiar",
+    "memory": "PECULIAR resembles PARTICULAR: distinctively strange or belonging especially to one.",
+    "example": "A peculiar odor filled the room."
+  },
+  {
+    "word": "outlandish",
+    "memory": "OUT-LANDISH looks from a land far outside the familiar: bizarrely strange.",
+    "example": "He made an outlandish claim."
+  },
+  {
+    "word": "exotic",
+    "memory": "EXO means outside: EXOTIC means strikingly foreign or unfamiliar.",
+    "example": "The market sells exotic spices."
+  },
+  {
+    "word": "caricature",
+    "memory": "A CARICATURE carries one feature too far for comic distortion.",
+    "example": "The sketch caricatured the minister's scowl."
+  },
+  {
+    "word": "pastiche",
+    "memory": "PASTICHE sounds like PASTE: styles pasted together in imitation.",
+    "example": "The film is a pastiche of old westerns."
+  },
+  {
+    "word": "mimic",
+    "memory": "MIMIC repeats its M sounds; it means copy another's behavior or speech.",
+    "example": "The parrot mimicked the alarm."
+  },
+  {
+    "word": "emulate",
+    "memory": "An EMULATOR copies a system to match it; EMULATE means imitate to equal or surpass.",
+    "example": "Young athletes emulate their champions."
+  },
+  {
+    "word": "philistine",
+    "memory": "A cultural PHILISTINE is no PHILOSOPHER of art: indifferent to refinement.",
+    "example": "He dismissed opera like a philistine."
+  },
+  {
+    "word": "affectation",
+    "memory": "An AFFECTATION is an AFFECTED manner adopted to impress.",
+    "example": "The accent was merely an affectation."
+  },
+  {
+    "word": "satirical",
+    "memory": "SATIRICAL contains SATIRE: using wit and exaggeration to criticize.",
+    "example": "The satirical article mocked official jargon."
+  },
+  {
+    "word": "droll",
+    "memory": "A DROLL troll makes oddly dry jokes: amusing in an unusual way.",
+    "example": "Her droll observations enlivened the meeting."
+  },
+  {
+    "word": "cosmopolitan",
+    "memory": "COSMO means world and POLIS means city: worldly and at home among many cultures.",
+    "example": "The port has a cosmopolitan character."
+  },
+  {
+    "word": "urbane",
+    "memory": "URBAN is inside URBANE: polished with sophisticated city manners.",
+    "example": "The urbane diplomat charmed the audience."
+  },
+  {
+    "word": "omnipresent",
+    "memory": "OMNI means all: OMNIPRESENT means present everywhere.",
+    "example": "Advertising is omnipresent online."
+  },
+  {
+    "word": "ubiquitous",
+    "memory": "UBI means where: UBIQUITOUS means found wherever you look.",
+    "example": "Smartphones have become ubiquitous."
+  },
+  {
+    "word": "pervasive",
+    "memory": "PERVASIVE contains PERVADE: spreading throughout every part.",
+    "example": "A pervasive odor filled the building."
+  },
+  {
+    "word": "universal",
+    "memory": "The UNIVERSE includes everything; UNIVERSAL applies everywhere.",
+    "example": "The desire for dignity is universal."
+  },
+  {
+    "word": "provincial",
+    "memory": "A PROVINCE is local; PROVINCIAL thinking never looks beyond local limits.",
+    "example": "The editorial displayed a provincial outlook."
+  },
+  {
+    "word": "parochial",
+    "memory": "A PARISH is narrow and local; PAROCHIAL views stay within that boundary.",
+    "example": "Parochial interests blocked the regional plan."
+  },
+  {
+    "word": "insular",
+    "memory": "INSULA means island: INSULAR thinking is isolated like an island.",
+    "example": "The committee's insular culture resisted outsiders."
+  },
+  {
+    "word": "accessible",
+    "memory": "ACCESS is inside ACCESSIBLE: able to be reached, entered, or understood.",
+    "example": "The guide makes science accessible."
+  },
+  {
+    "word": "itinerant",
+    "memory": "An ITINERARY lists travel; ITINERANT people travel from place to place.",
+    "example": "Itinerant workers followed the harvest."
+  },
+  {
+    "word": "endemic",
+    "memory": "EN means in and DEM means people: regularly present within a population or region.",
+    "example": "The disease is endemic to the island."
+  },
+  {
+    "word": "bucolic",
+    "memory": "BUCOLIC sounds like 'BUCK country': idyllic rural or pastoral life.",
+    "example": "The painting depicts a bucolic landscape."
+  },
+  {
+    "word": "remote",
+    "memory": "A REMOTE control works from a distance; REMOTE means far away.",
+    "example": "They settled in a remote valley."
+  },
+  {
+    "word": "multifaceted",
+    "memory": "MULTI means many and FACETS are sides: having many aspects.",
+    "example": "Poverty is a multifaceted problem."
+  },
+  {
+    "word": "versatile",
+    "memory": "VERS means turn: VERSATILE ability turns readily to many tasks.",
+    "example": "The versatile tool cuts, sands, and drills."
+  },
+  {
+    "word": "eclectic",
+    "memory": "ECLECTIC sounds like 'I collect': selecting from many varied sources.",
+    "example": "Her playlist is eclectic."
+  },
+  {
+    "word": "exhaustive",
+    "memory": "An EXHAUSTIVE search EXHAUSTS every possibility.",
+    "example": "The report provides an exhaustive review."
+  },
+  {
+    "word": "synoptic",
+    "memory": "SYN means together and OPT means see: see the whole together in one overview.",
+    "example": "The chart gives a synoptic view."
+  },
+  {
+    "word": "pertinent",
+    "memory": "PERTINENT begins like PERTAIN: directly pertaining to the matter.",
+    "example": "Please provide only pertinent details."
+  },
+  {
+    "word": "apropos",
+    "memory": "APROPOS sounds like 'appropriate proposal': relevant and timely.",
+    "example": "Her comment was apropos of our discussion."
+  },
+  {
+    "word": "apt",
+    "memory": "APT is inside APPROPRIATE: exactly suitable or fitting.",
+    "example": "The storm was an apt metaphor."
+  },
+  {
+    "word": "appropriate",
+    "memory": "APPROPRIATE contains PROPER in sound: suitable for the situation.",
+    "example": "Formal clothing is appropriate."
+  },
+  {
+    "word": "felicitous",
+    "memory": "FELICITY means happiness: a FELICITOUS choice fits happily and exactly.",
+    "example": "The translator found a felicitous phrase."
+  },
+  {
+    "word": "extraneous",
+    "memory": "EXTRA is inside EXTRANEOUS: additional but irrelevant.",
+    "example": "Remove extraneous information."
+  },
+  {
+    "word": "incidental",
+    "memory": "An INCIDENTAL detail accompanies the main INCIDENT but is not central.",
+    "example": "Travel costs are incidental to the larger project."
+  },
+  {
+    "word": "tangential",
+    "memory": "A TANGENT touches a circle then veers away; TANGENTIAL remarks leave the main point.",
+    "example": "The question was only tangentially relevant."
+  },
+  {
+    "word": "digression",
+    "memory": "DI means away and GRESS means step: a DIGRESSION steps away from the subject.",
+    "example": "After a brief digression, she returned to the argument."
+  },
+  {
+    "word": "fringe",
+    "memory": "FRINGE hangs at a fabric's edge: the margin or periphery.",
+    "example": "The theory remains on the scientific fringe."
+  },
+  {
+    "word": "peripheral",
+    "memory": "The PERIPHERY is the outer edge; PERIPHERAL means away from the center.",
+    "example": "The dispute is peripheral to the case."
+  },
+  {
+    "word": "omit",
+    "memory": "OMIT sounds like 'OUT it': leave something out.",
+    "example": "The summary omitted several caveats."
+  },
+  {
+    "word": "corporeal",
+    "memory": "CORP means body, as in corpse: CORPOREAL means bodily or physical.",
+    "example": "The ghost acquired corporeal form."
+  },
+  {
+    "word": "palpable",
+    "memory": "PALP means touch, as in palpate: PALPABLE means touchable or unmistakably perceptible.",
+    "example": "Tension in the room was palpable."
+  },
+  {
+    "word": "tangible",
+    "memory": "TANG means touch: TANGIBLE things can be touched or concretely demonstrated.",
+    "example": "The reform produced tangible benefits."
+  },
+  {
+    "word": "abstract",
+    "memory": "ABSTRACT ideas are drawn AWAY from concrete objects.",
+    "example": "Justice is an abstract concept."
+  },
+  {
+    "word": "nominal",
+    "memory": "NOM means name: NOMINAL means existing mainly in name.",
+    "example": "He remained the nominal leader."
+  },
+  {
+    "word": "token",
+    "memory": "A TOKEN stands for something larger; a token amount is merely symbolic.",
+    "example": "The company made only a token donation."
+  },
+  {
+    "word": "proxy",
+    "memory": "A PROXY is PROXIMATE in place of someone absent: an authorized substitute.",
+    "example": "She voted by proxy."
+  },
+  {
+    "word": "intrinsic",
+    "memory": "INTRINSIC begins with IN: belonging within the thing itself.",
+    "example": "Curiosity has intrinsic value."
+  },
+  {
+    "word": "inborn",
+    "memory": "IN-BORN means present from birth rather than acquired.",
+    "example": "The reflex is inborn."
+  },
+  {
+    "word": "stem from",
+    "memory": "Branches STEM FROM a trunk; effects likewise originate from a source.",
+    "example": "The delays stem from poor planning."
+  },
+  {
+    "word": "interchangeable",
+    "memory": "INTER-CHANGEABLE parts can CHANGE places with each other.",
+    "example": "The two batteries are interchangeable."
+  },
+  {
+    "word": "fungible",
+    "memory": "FUNGIBLE sounds like 'fund-jibble': one unit of a fund can replace another equal unit.",
+    "example": "Cash is fungible."
+  },
+  {
+    "word": "commensurate",
+    "memory": "COMMENSURATE contains MENSUR, measure: corresponding in measure or degree.",
+    "example": "Pay should be commensurate with experience."
+  },
+  {
+    "word": "tantamount",
+    "memory": "TANTAMOUNT contains AMOUNT: amounting to the same thing.",
+    "example": "Silence was tantamount to consent."
+  },
+  {
+    "word": "analogous",
+    "memory": "An ANALOG resembles what it represents; ANALOGOUS things support comparison.",
+    "example": "The two processes are analogous."
+  },
+  {
+    "word": "affinity",
+    "memory": "AFFINITY sounds like 'a family': natural similarity or attraction.",
+    "example": "The languages show a close affinity."
+  },
+  {
+    "word": "homogeneous",
+    "memory": "HOMO means same and GEN means kind: made of the same kind.",
+    "example": "The sample was homogeneous."
+  },
+  {
+    "word": "heterogeneous",
+    "memory": "HETERO means different and GEN means kind: made of different kinds.",
+    "example": "The class was heterogeneous."
+  },
+  {
+    "word": "disparate",
+    "memory": "DISPARATE resembles SEPARATE: fundamentally distinct and hard to compare.",
+    "example": "The essay combines disparate ideas."
+  },
+  {
+    "word": "divergent",
+    "memory": "DIVERGENT paths DIVERGE and move in different directions.",
+    "example": "The witnesses gave divergent accounts."
+  },
+  {
+    "word": "discrepancy",
+    "memory": "A DISCREPANCY is a DISAGREEMENT between figures that should match.",
+    "example": "Auditors found a discrepancy in the totals."
+  },
+  {
+    "word": "incongruous",
+    "memory": "IN means not and CONGRUOUS means fitting: conspicuously out of place.",
+    "example": "The modern sign looked incongruous on the ruins."
+  },
+  {
+    "word": "antithesis",
+    "memory": "ANTI means opposite and THESIS means position: the direct opposite position.",
+    "example": "Cruelty is the antithesis of compassion."
+  },
+  {
+    "word": "dichotomy",
+    "memory": "DI means two and TOM means cut: a division cut into two opposed parts.",
+    "example": "The simple dichotomy ignores middle positions."
+  },
+  {
+    "word": "paradoxical",
+    "memory": "A PARADOX appears self-contradictory; PARADOXICAL describes that puzzle.",
+    "example": "Less choice can produce paradoxically greater satisfaction."
+  },
+  {
+    "word": "anomalous",
+    "memory": "An ANOMALY departs from the norm; ANOMALOUS means abnormal.",
+    "example": "The anomalous reading required investigation."
+  },
+  {
+    "word": "aberrant",
+    "memory": "ABERRANT begins like ERROR: straying from the normal course.",
+    "example": "The aberrant result was excluded."
+  },
+  {
+    "word": "deviate",
+    "memory": "DEVIATE contains VIA, way: leave the expected way or route.",
+    "example": "Do not deviate from the marked trail."
+  },
+  {
+    "word": "paradigmatic",
+    "memory": "A PARADIGM is a model; PARADIGMATIC means serving as a model example.",
+    "example": "The case is paradigmatic of regulatory failure."
+  },
+  {
+    "word": "archetype",
+    "memory": "ARCHE means original and TYPE means model: the original model copied by later examples.",
+    "example": "The character became an archetype of the solitary hero."
+  },
+  {
+    "word": "amorphous",
+    "memory": "A means without and MORPH means form: AMORPHOUS means shapeless.",
+    "example": "The proposal remained amorphous."
+  },
+  {
+    "word": "indefinite",
+    "memory": "IN means not and DEFINITE means fixed: not clearly defined.",
+    "example": "The project was postponed for an indefinite period."
+  },
+  {
+    "word": "deliberate",
+    "memory": "DELIBERATE action follows DELIBERATION rather than impulse.",
+    "example": "The omission was deliberate."
+  },
+  {
+    "word": "premeditate",
+    "memory": "PRE means before and MEDITATE means think: plan before acting.",
+    "example": "Prosecutors argued that the attack was premeditated."
+  },
+  {
+    "word": "impetuous",
+    "memory": "IMPETUS is driving force; IMPETUOUS people act under sudden force before thinking.",
+    "example": "An impetuous decision depleted their savings."
+  },
+  {
+    "word": "impulsive",
+    "memory": "An IMPULSE pushes instantly; IMPULSIVE action follows it without thought.",
+    "example": "The purchase was impulsive."
+  },
+  {
+    "word": "foolhardy",
+    "memory": "FOOL plus HARDY: bravery so reckless that it becomes foolish.",
+    "example": "Crossing the river alone was foolhardy."
+  },
+  {
+    "word": "temerity",
+    "memory": "TEMERITY sounds like 'too merry' in danger: reckless, shameless nerve.",
+    "example": "He had the temerity to blame his victim."
+  },
+  {
+    "word": "contretemps",
+    "memory": "CONTRE means against and TEMPS means time: an awkward incident that disrupts the moment.",
+    "example": "A minor contretemps delayed the ceremony."
+  },
+  {
+    "word": "gaffe",
+    "memory": "A GAFFE makes observers GASP: an embarrassing social mistake.",
+    "example": "The diplomatic gaffe dominated the news."
+  },
+  {
+    "word": "precocious",
+    "memory": "PRE means early: PRECOCIOUS ability ripens unusually early.",
+    "example": "The precocious child read at age three."
+  },
+  {
+    "word": "callow",
+    "memory": "A CALLOW bird lacks mature feathers; a callow person lacks experience.",
+    "example": "The callow intern underestimated the task."
+  },
+  {
+    "word": "puerile",
+    "memory": "PUER means child: PUERILE means childishly silly or immature.",
+    "example": "The debate descended into puerile insults."
+  },
+  {
+    "word": "quixotic",
+    "memory": "Don QUIXOTE pursued impossible noble adventures; QUIXOTIC means romantically impractical.",
+    "example": "The quixotic campaign had no realistic funding."
+  },
+  {
+    "word": "capricious",
+    "memory": "A CAPRICIOUS CAPRICORN goat leaps unpredictably from ledge to ledge.",
+    "example": "Capricious weather disrupted the harvest."
+  },
+  {
+    "word": "mercurial",
+    "memory": "MERCURY moves quickly and the god Mercury was changeable: MERCURIAL moods shift fast.",
+    "example": "The mercurial director reversed his decision."
+  },
+  {
+    "word": "volatile",
+    "memory": "VOLATILE chemicals evaporate or explode quickly; volatile moods change just as suddenly.",
+    "example": "The region remains politically volatile."
+  },
+  {
+    "word": "fickle",
+    "memory": "FICKLE rhymes with PICKLE: choices keep flipping unpredictably.",
+    "example": "Fickle consumers abandoned the trend."
+  },
+  {
+    "word": "erratic",
+    "memory": "ERR is inside ERRATIC: wandering unpredictably from the expected course.",
+    "example": "The vehicle moved erratically."
+  },
+  {
+    "word": "desultory",
+    "memory": "DESULTORY discussion DESERTS one topic for another without a plan.",
+    "example": "They made a desultory attempt to clean."
+  },
+  {
+    "word": "arbitrary",
+    "memory": "An ARBITER decides; an ARBITRARY choice rests on the decider's whim, not a rule.",
+    "example": "The cutoff date seemed arbitrary."
+  },
+  {
+    "word": "haphazard",
+    "memory": "HAP means chance and HAZARD means risk: arranged randomly by chance.",
+    "example": "Files were stored haphazardly."
+  },
+  {
+    "word": "indiscriminate",
+    "memory": "IN means not and DISCRIMINATE means distinguish: making no careful distinctions.",
+    "example": "Indiscriminate spraying harmed beneficial insects."
+  },
+  {
+    "word": "draconian",
+    "memory": "DRACO imposed notoriously harsh laws; DRACONIAN means excessively severe.",
+    "example": "The draconian penalty drew criticism."
+  },
+  {
+    "word": "stern",
+    "memory": "The STERN of a ship sounds hard and firm; STERN manners are firm and severe.",
+    "example": "She issued a stern warning."
+  },
+  {
+    "word": "rigor",
+    "memory": "RIGOR resembles RIGID: strictness and exacting severity.",
+    "example": "The study lacks scientific rigor."
+  },
+  {
+    "word": "sober",
+    "memory": "SOBER is not intoxicated; figuratively, grave, restrained, and realistic.",
+    "example": "The report offers a sober assessment."
+  },
+  {
+    "word": "ulterior",
+    "memory": "ULTERIOR sounds like 'under the exterior': a motive concealed beneath the surface.",
+    "example": "She suspected an ulterior motive."
+  },
+  {
+    "word": "implicit",
+    "memory": "IMPLICIT is IM-PLIED: contained in meaning without direct statement.",
+    "example": "The invitation carried implicit expectations."
+  },
+  {
+    "word": "tacit",
+    "memory": "TACIT begins like TACITURN: understood silently, without being said.",
+    "example": "Their silence gave tacit approval."
+  },
+  {
+    "word": "subtle",
+    "memory": "SUBTLE hides its B in pronunciation; subtle details are similarly unobvious.",
+    "example": "The fabric has subtle variations."
+  },
+  {
+    "word": "iconoclastic",
+    "memory": "ICON means revered image and CLAST means break: ICONOCLASTIC thinkers break accepted icons.",
+    "example": "Her iconoclastic essay challenged academic convention."
+  },
+  {
+    "word": "heterodox",
+    "memory": "HETERO means different and DOX means belief: holding beliefs different from orthodoxy.",
+    "example": "The professor advanced a heterodox theory."
+  },
+  {
+    "word": "radical",
+    "memory": "RADIX means root: RADICAL change transforms the system at its roots.",
+    "example": "The plan proposes radical reform."
+  },
+  {
+    "word": "ideologue",
+    "memory": "IDEOLOGY is inside IDEOLOGUE: a person rigidly driven by an ideology.",
+    "example": "The ideologue rejected contrary evidence."
+  },
+  {
+    "word": "provocative",
+    "memory": "PROVOCATIVE contains PROVOKE: stimulating anger, thought, or interest.",
+    "example": "The exhibition asks provocative questions."
+  },
+  {
+    "word": "goad",
+    "memory": "A GOAD prods an animal to GO: urge or annoy into action.",
+    "example": "The insult goaded him into responding."
+  },
+  {
+    "word": "unprecedented",
+    "memory": "UN means not and PRECEDENT means prior example: having no previous example.",
+    "example": "The storm caused unprecedented damage."
+  }
+]

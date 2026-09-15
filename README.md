@@ -18,9 +18,19 @@ npm run preview
 
 ## Content
 
+- `content/word-lessons.json` contains the mnemonic and example for every word.
+- `content/word-lessons.txt` is the review-friendly version with meanings included.
 - `public/vocabulary.json` contains the vocabulary metadata.
 - `public/audio-manifest.json` maps words to generated filenames.
 - `public/audio/` contains deployable recordings.
+
+The recordings use Deepgram's `aura-2-athena-en` voice at 0.9× synthesis
+speed. Generation is resumable and reads the API key only from the process
+environment:
+
+```sh
+DEEPGRAM_TEST_KEY=... python3 scripts/generate-deepgram-audio.py
+```
 
 Audio is stored in the browser's Cache Storage, while playlist selections,
 repeat mode, and playback speed are persisted separately in IndexedDB. This

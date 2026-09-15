@@ -25,7 +25,22 @@ export default defineConfig({
       },
       workbox: {
         globPatterns: ["**/*.{js,css,html,json}"],
-        maximumFileSizeToCacheInBytes: 2 * 1024 * 1024
+        maximumFileSizeToCacheInBytes: 2 * 1024 * 1024,
+        runtimeCaching: [
+          {
+            urlPattern: /\/audio\/.*\.mp3$/,
+            handler: "CacheFirst",
+            options: {
+              cacheName: "vocabulary-loop-audio-v1",
+              cacheableResponse: { statuses: [0, 200] },
+              rangeRequests: true,
+              expiration: {
+                maxEntries: 1100,
+                purgeOnQuotaError: true
+              }
+            }
+          }
+        ]
       }
     })
   ]

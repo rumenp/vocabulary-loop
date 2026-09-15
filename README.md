@@ -22,9 +22,15 @@ npm run preview
 - `public/audio-manifest.json` maps words to generated filenames.
 - `public/audio/` contains deployable recordings.
 
-Audio is fetched once and stored as a blob in IndexedDB. Playlist selections,
-repeat mode, and playback speed are persisted separately. This lets a listener
-remove downloaded audio without losing a playlist.
+Audio is stored in the browser's Cache Storage, while playlist selections,
+repeat mode, and playback speed are persisted separately in IndexedDB. This
+lets a listener remove downloaded audio without losing a playlist.
+
+Playback uses one persistent native HTML audio element rather than Web Audio.
+The next recording is cached while the current recording plays, and the Media
+Session API supplies supported phone lock screens with title, play/pause,
+previous, next, and stop controls. This arrangement is designed to preserve one
+continuous media session while an iPhone screen is locked.
 
 ## GitHub Pages
 

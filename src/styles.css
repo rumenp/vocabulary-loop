@@ -8,6 +8,7 @@
 
 * { box-sizing: border-box; }
 body { margin: 0; min-width: 320px; min-height: 100vh; }
+.native-audio { position: fixed; width: 1px; height: 1px; opacity: 0; pointer-events: none; }
 button, input, select { font: inherit; }
 button, select, input { border-radius: 8px; border: 1px solid #c8c0b1; }
 button { cursor: pointer; background: #fffdf8; color: #17231d; padding: 0.64rem 0.9rem; }
@@ -91,4 +92,3 @@ footer { display: flex; justify-content: space-between; gap: 16px; padding: 22px
   .word-title small { max-width: 180px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
   footer { flex-direction: column; gap: 5px; }
 }
-

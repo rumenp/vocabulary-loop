@@ -1,9 +1,9 @@
-import { clear, createStore, get, keys, set } from "idb-keyval";
-import type { Preferences } from "./types";
+import { createStore, get, set } from "idb-keyval";
+import type { AudioManifest, Preferences } from "./types";
 
 const settingsStore = createStore("vocabulary-loop-settings", "keyval");
-const audioStore = createStore("vocabulary-loop-audio", "keyval");
 const preferencesKey = "preferences";
+const audioCacheName = "vocabulary-loop-audio-v1";
 
 export const defaultPreferences: Preferences = {
   selected: [],
@@ -24,26 +24,27 @@ export async function requestPersistentStorage(): Promise<boolean> {
   return navigator.storage.persist();
 }
 
-export async function getCachedWords(): Promise<Set<string>> {
-  return new Set((await keys<string>(audioStore)).map((key) => String(key)));
+export async function getCachedWords(manifest: AudioManifest): Promise<Set<string>> {
+  const cache = await caches.open(audioCacheName);
+  const requests = await cache.keys();
+  const wordsByFilename = new Map(Object.entries(manifest).map(([word, filename]) => [filename, word]));
+  return new Set(
+    requests
+      .map((request) => decodeURIComponent(new URL(request.url).pathname.split("/").pop() ?? ""))
+      .map((filename) => wordsByFilename.get(filename))
+      .filter((word): word is string => Boolean(word))
+  );
 }
 
-export async function cacheAudio(word: string, url: string): Promise<Blob> {
-  const existing = await get<Blob>(word, audioStore);
-  if (existing) return existing;
-
-  const response = await fetch(url);
+export async function cacheAudio(word: string, url: string): Promise<void> {
+  const cache = await caches.open(audioCacheName);
+  const request = new Request(url);
+  if (await cache.match(request)) return;
+  const response = await fetch(request);
   if (!response.ok) throw new Error(`Audio unavailable for ${word} (${response.status})`);
-  const blob = await response.blob();
-  await set(word, blob, audioStore);
-  return blob;
-}
-
-export async function audioObjectUrl(word: string, url: string): Promise<string> {
-  const blob = await cacheAudio(word, url);
-  return URL.createObjectURL(blob);
+  await cache.put(request, response);
 }
 
 export async function clearCachedAudio(): Promise<void> {
-  await clear(audioStore);
+  await caches.delete(audioCacheName);
 }

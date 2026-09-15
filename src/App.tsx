@@ -1,8 +1,6 @@
 import { useEffect, useMemo, useRef, useState } from "preact/hooks";
-import { Howl } from "howler";
 import type { AudioManifest, RepeatMode, VocabularyEntry } from "./types";
 import {
-  audioObjectUrl,
   cacheAudio,
   clearCachedAudio,
   defaultPreferences,
@@ -37,16 +35,23 @@ export function App() {
   const [download, setDownload] = useState<{ done: number; total: number } | null>(null);
   const [hydrated, setHydrated] = useState(false);
 
-  const soundRef = useRef<Howl | null>(null);
-  const objectUrlRef = useRef<string | null>(null);
+  const audioRef = useRef<HTMLAudioElement | null>(null);
   const queueRef = useRef<VocabularyEntry[]>([]);
   const indexRef = useRef(0);
   const playTokenRef = useRef(0);
   const repeatRef = useRef(repeat);
   const rateRef = useRef(rate);
+  const mediaActionsRef = useRef({
+    play: () => {},
+    pause: () => {},
+    previous: () => {},
+    next: () => {},
+    stop: () => {}
+  });
 
   useEffect(() => {
     let cancelled = false;
+    let loadedManifest: AudioManifest = {};
 
     void (async () => {
       try {
@@ -57,6 +62,7 @@ export function App() {
         if (!vocabularyResponse.ok || !manifestResponse.ok) throw new Error("Unable to load vocabulary data");
         const vocabulary: VocabularyEntry[] = await vocabularyResponse.json();
         const audioManifest: AudioManifest = await manifestResponse.json();
+        loadedManifest = audioManifest;
         if (!cancelled) {
           setWords(vocabulary);
           setManifest(audioManifest);
@@ -80,7 +86,7 @@ export function App() {
       }
 
       try {
-        const cachedWords = await getCachedWords();
+        const cachedWords = await getCachedWords(loadedManifest);
         if (!cancelled) setCached(cachedWords);
       } catch {
         // Audio can still stream when persistent browser storage is unavailable.
@@ -88,8 +94,10 @@ export function App() {
     })();
 
     return () => {
-      soundRef.current?.unload();
-      if (objectUrlRef.current) URL.revokeObjectURL(objectUrlRef.current);
+      const audio = audioRef.current;
+      audio?.pause();
+      audio?.removeAttribute("src");
+      audio?.load();
       cancelled = true;
     };
   }, []);
@@ -97,11 +105,42 @@ export function App() {
   useEffect(() => {
     repeatRef.current = repeat;
     rateRef.current = rate;
-    soundRef.current?.rate(rate);
+    const audio = audioRef.current;
+    if (audio) {
+      audio.playbackRate = rate;
+      audio.loop = repeat === "word";
+    }
     if (hydrated) {
       void savePreferences({ selected: [...selected], repeat, rate });
     }
   }, [selected, repeat, rate, hydrated]);
+
+  useEffect(() => {
+    if (!("mediaSession" in navigator)) return;
+    const handlers: Array<[MediaSessionAction, () => void]> = [
+      ["play", () => mediaActionsRef.current.play()],
+      ["pause", () => mediaActionsRef.current.pause()],
+      ["previoustrack", () => mediaActionsRef.current.previous()],
+      ["nexttrack", () => mediaActionsRef.current.next()],
+      ["stop", () => mediaActionsRef.current.stop()]
+    ];
+    for (const [action, handler] of handlers) {
+      try {
+        navigator.mediaSession.setActionHandler(action, handler);
+      } catch {
+        // Some Safari versions expose Media Session but omit individual actions.
+      }
+    }
+    return () => {
+      for (const [action] of handlers) {
+        try {
+          navigator.mediaSession.setActionHandler(action, null);
+        } catch {
+          // Ignore unsupported actions during teardown.
+        }
+      }
+    };
+  }, []);
 
   const themes = useMemo(
     () => ["All themes", ...Array.from(new Set(words.map((entry) => entry.theme))).sort()],
@@ -126,21 +165,54 @@ export function App() {
     [words, selected, manifest]
   );
 
-  function releaseSound() {
-    soundRef.current?.unload();
-    soundRef.current = null;
-    if (objectUrlRef.current) URL.revokeObjectURL(objectUrlRef.current);
-    objectUrlRef.current = null;
+  function releaseAudio() {
+    const audio = audioRef.current;
+    if (!audio) return;
+    audio.pause();
+    audio.loop = false;
+    audio.removeAttribute("src");
+    audio.load();
   }
 
   function finishQueue() {
-    releaseSound();
+    releaseAudio();
     setIsPlaying(false);
     setNowPlaying(null);
     setStatus("Queue finished");
+    if ("mediaSession" in navigator) navigator.mediaSession.playbackState = "none";
   }
 
-  async function playAt(index: number) {
+  function nextIndex(index: number): number | null {
+    const queue = queueRef.current;
+    if (index + 1 < queue.length) return index + 1;
+    return repeatRef.current === "queue" && queue.length ? 0 : null;
+  }
+
+  function preloadFollowing(index: number) {
+    if (repeatRef.current === "word") return;
+    const followingIndex = nextIndex(index);
+    if (followingIndex === null) return;
+    const following = queueRef.current[followingIndex];
+    void cacheAudio(following.word, audioUrl(manifest[following.word]))
+      .then(() => setCached((current) => new Set(current).add(following.word)))
+      .catch(() => {
+        // Playback will surface a useful error if the next recording is unavailable.
+      });
+  }
+
+  function updateMediaSession(entry: VocabularyEntry) {
+    if (!("mediaSession" in navigator)) return;
+    if ("MediaMetadata" in window) {
+      navigator.mediaSession.metadata = new MediaMetadata({
+        title: entry.word,
+        artist: "Vocabulary Loop · Matilda",
+        album: entry.gloss
+      });
+    }
+    navigator.mediaSession.playbackState = "playing";
+  }
+
+  function playAt(index: number) {
     const queue = queueRef.current;
     if (!queue.length) return;
     if (index >= queue.length) {
@@ -149,49 +221,35 @@ export function App() {
     }
     if (index < 0) index = queue.length - 1;
 
-    const token = ++playTokenRef.current;
+    ++playTokenRef.current;
     indexRef.current = index;
     const entry = queue[index];
     setNowPlaying(entry);
     setIsPlaying(false);
     setStatus(`Preparing ${entry.word}…`);
-    releaseSound();
 
-    try {
-      const url = await audioObjectUrl(entry.word, audioUrl(manifest[entry.word]));
-      if (token !== playTokenRef.current) return URL.revokeObjectURL(url);
-      objectUrlRef.current = url;
-      setCached((current) => new Set(current).add(entry.word));
+    const audio = audioRef.current;
+    if (!audio) {
+      setStatus("Audio player is unavailable");
+      return;
+    }
+    audio.pause();
+    audio.loop = repeatRef.current === "word";
+    audio.playbackRate = rateRef.current;
+    audio.src = audioUrl(manifest[entry.word]);
+    audio.load();
+    updateMediaSession(entry);
 
-      const sound = new Howl({
-        src: [url],
-        format: ["mp3"],
-        html5: false,
-        rate: rateRef.current,
-        onplay: () => {
-          setIsPlaying(true);
-          setStatus(`Playing ${entry.word}`);
-        },
-        onpause: () => setIsPlaying(false),
-        onend: () => {
-          if (repeatRef.current === "word") void playAt(indexRef.current);
-          else void playAt(indexRef.current + 1);
-        },
-        onloaderror: (_id, error) => {
-          setStatus(`Could not load ${entry.word}: ${String(error)}`);
-          setIsPlaying(false);
-        },
-        onplayerror: (_id, error) => {
-          setStatus(`Could not play ${entry.word}: ${String(error)}`);
-          setIsPlaying(false);
-        }
-      });
-      soundRef.current = sound;
-      sound.play();
-    } catch (error) {
+    void audio.play().catch((error: unknown) => {
       setStatus(error instanceof Error ? error.message : `Unable to play ${entry.word}`);
       setIsPlaying(false);
-    }
+    });
+    void cacheAudio(entry.word, audio.src)
+      .then(() => setCached((current) => new Set(current).add(entry.word)))
+      .catch(() => {
+        // Streaming playback remains available if persistent caching fails.
+      });
+    preloadFollowing(index);
   }
 
   function startQueue(queue: VocabularyEntry[], startWord?: string) {
@@ -201,14 +259,16 @@ export function App() {
     }
     queueRef.current = queue;
     const start = startWord ? Math.max(0, queue.findIndex((entry) => entry.word === startWord)) : 0;
-    void playAt(start);
+    playAt(start);
   }
 
   function togglePause() {
-    const sound = soundRef.current;
-    if (!sound) return;
-    if (sound.playing()) sound.pause();
-    else sound.play();
+    const audio = audioRef.current;
+    if (!audio?.src) return;
+    if (!audio.paused) audio.pause();
+    else void audio.play().catch((error: unknown) => {
+      setStatus(error instanceof Error ? error.message : "Unable to resume playback");
+    });
   }
 
   function stop() {
@@ -254,8 +314,72 @@ export function App() {
     setStatus("Downloaded audio removed");
   }
 
+  function handleEnded() {
+    if (repeatRef.current === "word") {
+      playAt(indexRef.current);
+      return;
+    }
+    const following = nextIndex(indexRef.current);
+    if (following === null) finishQueue();
+    else playAt(following);
+  }
+
+  function handleAudioError() {
+    const audio = audioRef.current;
+    if (!audio?.currentSrc) return;
+    const error = audio.error;
+    setIsPlaying(false);
+    setStatus(error?.message ? `Audio error: ${error.message}` : "Unable to load this recording");
+  }
+
+  function updateMediaPosition() {
+    const audio = audioRef.current;
+    if (!("mediaSession" in navigator) || !audio || !Number.isFinite(audio.duration) || audio.duration <= 0) return;
+    try {
+      navigator.mediaSession.setPositionState({
+        duration: audio.duration,
+        playbackRate: audio.playbackRate,
+        position: Math.min(audio.currentTime, audio.duration)
+      });
+    } catch {
+      // Position reporting is an enhancement and is absent in older Safari versions.
+    }
+  }
+
+  mediaActionsRef.current = {
+    play: () => {
+      const audio = audioRef.current;
+      if (audio?.paused) void audio.play();
+    },
+    pause: () => audioRef.current?.pause(),
+    previous: () => playAt(indexRef.current - 1),
+    next: () => playAt(indexRef.current + 1),
+    stop
+  };
+
   return (
     <main>
+      <audio
+        ref={audioRef}
+        class="native-audio"
+        preload="auto"
+        onPlay={() => {
+          setIsPlaying(true);
+          setStatus(`Playing ${queueRef.current[indexRef.current]?.word ?? "recording"}`);
+          if ("mediaSession" in navigator) navigator.mediaSession.playbackState = "playing";
+        }}
+        onPause={() => {
+          setIsPlaying(false);
+          if ("mediaSession" in navigator && audioRef.current?.src) {
+            navigator.mediaSession.playbackState = "paused";
+          }
+        }}
+        onEnded={handleEnded}
+        onError={handleAudioError}
+        onTimeUpdate={updateMediaPosition}
+        onLoadedMetadata={updateMediaPosition}
+        aria-hidden="true"
+      />
       <header class="hero">
         <div>
           <p class="eyebrow">GRE vocabulary · listen deliberately</p>
